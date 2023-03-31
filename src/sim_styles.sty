@@ -1,0 +1,92 @@
+\usepackage[french]{babel}
+\usepackage{hyphenat}
+\usepackage{float}
+\usepackage{wrapfig}
+\setlength{\intextsep}{2pt}
+\usepackage{libertine}
+\usepackage{parskip}
+\setlength{\parindent}{0pt}
+\usepackage{lipsum}
+\usepackage[x11names]{xcolor}
+\usepackage[most]{tcolorbox}
+\usepackage{multicol}
+\usepackage{pdfpages}
+\usepackage{stfloats}
+
+\usepackage{titlesec}
+\titleformat{\section}
+  {\biolinum\Huge\bfseries\color{Red1}}{\thesection.}{1em}{}
+\titleformat{\subsection}
+  {\biolinum\huge\bfseries}{\thesubsection.}{1em}{}
+\titleformat{\subsubsection}
+  {\biolinum\LARGE\bfseries}{\thesubsubsection.}{1em}{}
+
+% roles
+\newcommand*{\DUrolered}[1]{{\color{Red1}#1}}
+\newcommand*{\DUrolebred}[1]{{\large\textbf{\color{Red1}#1}}}
+\newcommand*{\DUroledarkred}[1]{{\color{VioletRed4}#1}}
+\newcommand*{\DUrolelightgray}[1]{{\color{Snow4}#1}}
+\newcommand*{\DUrolesmall}[1]{{\small #1}}
+
+\newcommand*{\DUroleref}{\ref}
+\newcommand*{\DUrolepageref}{\pageref}
+\newcommand*{\DUrolelabel}{\label}
+
+\newcommand*{\DUrolesupt}[1]{\textsuperscript{#1}}
+\newcommand*{\DUrolesubt}[1]{\textsubscript{#1}}
+
+
+% classes
+\newcommand*{\DUCLASSsmall}{\small}
+
+%\newtcolorbox{DUadmonition}{colback=white,colframe=red,boxrule=0.3mm, arc=0mm}
+\newenvironment{DUadmonition}%
+  {
+   \begin{tcolorbox}[colback=white,colframe=red,boxrule=0.3mm, arc=0mm]
+  }%
+  {
+   \end{tcolorbox}
+  }
+
+\newcommand{\DUtitleadmonition}[1]{\subsubsection*{\color{Red1}#1}}
+\newcommand{\DUtitledefault}[1]{\subsubsection*{#1}}
+\usepackage{etoolbox}
+\AtBeginEnvironment{DUadmonition}{\renewcommand{\DUtitle}{\DUtitleadmonition}}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+\fancyhead{} % clear all header fields
+\fancyhead[RO,LE]{\textbf{\leftmark}}
+\fancyfoot{} % clear all footer fields
+\fancyfoot[LE,RO]{\DUfooter\thepage}
+\fancyfoot[CO,CE]{}
+\fancyfoot[LO,RE]{\DUheader}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% hack for longtables
+%\renewenvironment{longtable}{\begin{center}\begin{tabular}}{\end{tabular}\end{center}}
+%\def\endhead{}
+%\renewcommand{\toprule}[2]{\hline}
+%\renewcommand{\midrule}[2]{\hline}
+%\renewcommand{\bottomrule}[2]{\hline}
+\makeatletter
+\let\oldlt\longtable
+\let\endoldlt\endlongtable
+\def\longtable{\@ifnextchar[\longtable@i \longtable@ii}
+\def\longtable@i[#1]{\begin{figure}[t]
+\onecolumn
+\begin{minipage}{0.45\textwidth}
+\oldlt[#1]
+}
+\def\longtable@ii{\begin{figure}[t]
+\onecolumn
+\begin{minipage}{0.45\textwidth}
+\oldlt
+}
+\def\endlongtable{\endoldlt
+\end{minipage}
+\twocolumn
+\end{figure}}
+\makeatother

@@ -1,0 +1,231 @@
+.. _common_subs:
+
+.. Common substitution definition
+
+.. |ldash| unicode:: U+2014
+.. |bar| unicode:: U+007C
+.. |tel| unicode:: U+2121
+.. |stel| unicode:: U+2706
+.. |fax| unicode:: U+1F5B7
+.. |mail| unicode:: U+1F4E7
+.. |mdash| unicode:: U+2014
+.. |obel1| unicode:: U+2020
+.. |obel2| unicode:: U+2021
+.. |quad| unicode:: U+2003
+.. |tab| unicode:: U+0009
+.. |space| unicode:: U+0020
+    :trim:
+.. |nbsp| unicode:: U+00A0
+    :trim:
+.. |s| unicode:: U+00A0
+    :trim:
+
+.. arrows
+.. |<-| unicode:: U+2190
+.. |->| unicode:: U+2192
+.. |<->| unicode:: U+2194
+.. |</>| unicode:: U+21AE
+.. |=>| unicode:: U+21D2
+.. |<=| unicode:: U+21D0
+.. |<=>| unicode:: U+21D2
+.. |~| unicode:: U+223C
+.. |/~| unicode:: U+2241
+.. |~~| unicode:: U+2248
+.. |/=| unicode:: U+2260
+.. |...| unicode:: U+2026
+.. comparisons
+.. |lt| replace:: <
+.. |gt| replace:: >
+.. |le| unicode:: U+2264
+.. |ge| unicode:: U+2265
+
+.. roles from classes (must be defined in styles)
+.. role:: ref
+.. role:: pageref
+.. role:: label
+.. role:: augustab
+.. role:: simb
+.. role:: red
+.. role:: bred
+.. role:: darkred
+.. role:: small
+.. role:: lightgray
+.. role:: supt
+.. role:: subt
+
+.. Simulacres symbols
+.. |corps| image:: images/corps.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |coeur| image:: images/coeur.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |instinct| image:: images/instinct.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |esprit| image:: images/esprit.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |action| image:: images/action.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |perception| image:: images/perception.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |desir| image:: images/desir.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |resistance| image:: images/resistance.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |humain| image:: images/humain.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |animal| image:: images/animal.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |vegetal| image:: images/vegetal.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |mineral| image:: images/mineral.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |mecanique| image:: images/mecanique.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |neant| image:: images/neant.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |precision| image:: images/precision.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |puissance| image:: images/puissance.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |rapidite| image:: images/rapidite.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |1| image:: images/un.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |2| image:: images/deux.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |3| image:: images/trois.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |4| image:: images/quatre.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |5| image:: images/cinq.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |6| image:: images/six.bw.png
+            :height: 2.2ex
+            :align: bottom
+
+.. |baguette_blanc| image:: images/baguette_blanc.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |baguette_noir| image:: images/baguette_noir.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |bien| image:: images/bien.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |bouclier| image:: images/bouclier.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |carre| image:: images/carre.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |cercle| image:: images/cercle.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |disque| image:: images/disque.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |espace| image:: images/espace.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |exclam| image:: images/exclam.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |hexa1_blanc| image:: images/hexa1_blanc.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |hexa1_noir| image:: images/hexa1_noir.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |hexa2_blanc| image:: images/hexa2_blanc.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |hexa2_noir| image:: images/hexa2_noir.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |livre| image:: images/livre.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |mal| image:: images/mal.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |malcxe| image:: images/malcxe.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |shaman| image:: images/shaman.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |vaudou_blanc| image:: images/vaudou_blanc.bw.png
+            :height: 2.2ex
+            :align: bottom
+.. |vaudou_noir| image:: images/vaudou_noir.bw.png
+            :height: 2.2ex
+            :align: bottom
+
+.. (for rst2pdf)
+.. .. |corps| replace:: :simb:`a`
+.. .. |instinct| replace:: :simb:`z`
+.. .. |coeur| replace:: :simb:`e`
+.. .. |esprit| replace:: :simb:`r`
+.. .. |action| replace:: :simb:`s`
+.. .. |perception| replace:: :simb:`q`
+.. .. |desir| replace:: :simb:`d`
+.. .. |resistance| replace:: :simb:`i`
+.. .. |humain| replace:: :simb:`v`
+.. .. |animal| replace:: :simb:`c`
+.. .. |vegetal| replace:: :simb:`x`
+.. .. |mineral| replace:: :simb:`w`
+.. .. |mecanique| replace:: :simb:`b`
+.. .. |neant| replace:: :simb:`n`
+.. .. |puissance| replace:: :simb:`t`
+.. .. |precision| replace:: :simb:`u`
+.. .. |rapidite| replace:: :simb:`y`
+.. .. |1| replace:: :simb:`1`
+.. .. |2| replace:: :simb:`2`
+.. .. |3| replace:: :simb:`3`
+.. .. |4| replace:: :simb:`4`
+.. .. |5| replace:: :simb:`5`
+.. .. |6| replace:: :simb:`6`
+.. .. |b1| replace:: :simb:`“`
+.. .. |b2| replace:: :simb:`”`
+.. .. |b3| replace:: :simb:`‘`
+.. .. |b4| replace:: :simb:`’`
+.. .. |b5| replace:: :simb:`÷`
+.. .. |b6| replace:: :simb:`◊`
+.. 
+.. |simnt| image:: images/sim_logo_notxt.png
+     :height: 3ex
+     :align: middle
+.. |simdie| image:: images/sim_dice.png  
+     :width: 5ex
+     :align: middle
+
+.. footer::
+
+    |s|
+
+.. header::
+
+    |simdie| |s| |simnt|
+
+
