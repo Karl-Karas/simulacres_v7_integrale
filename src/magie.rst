@@ -1290,7 +1290,7 @@ magie des Sphères vont de 100 à 1000 PM, ce qui est considérable.
 
     *Exemple :* Garthus a appris le sortilège Faire pleurer en dépensant 5PA.
     Il le lance en dépensant 1 EP (ou 2 PS) et jette 1d6. Il obtient 5, ce qui
-    donne une marge de réussite de 2 (5/2= 2,5 arrondi à 2).
+    donne une marge de réussite de 3 (5/2= 2,5 arrondi à 3).
 
   |s|
 
