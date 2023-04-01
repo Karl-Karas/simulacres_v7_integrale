@@ -134,9 +134,9 @@ Utiliser un sortilège
 
 Pour lancer un sortilège, il faut dépenser un nombre de PM égal au niveau du
 sort et réussir un test Esprit |esprit| + Action |action| + Humain |humain| +
-Sortilège + difficulté de lancer. Le Règne utilisé est Humain v car lancer un
-sortilège c’est simplement faire un effort de mémoire pour déclencher la
-puissance que l’on a en soi.
+Sortilège + difficulté de lancer. Le Règne utilisé est Humain |humain| car
+lancer un sortilège c’est simplement faire un effort de mémoire pour déclencher
+la puissance que l’on a en soi.
 
  .. class:: darkred
 
