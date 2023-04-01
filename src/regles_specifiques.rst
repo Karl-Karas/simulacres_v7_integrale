@@ -922,8 +922,8 @@ méditer, il faut s’être reposé au moins 6 heures.
 Liste des principaux pouvoirs psis
 ----------------------------------
 
-Rappelons que le Néant n est un Règne qui regroupe tous les autres, et qui vaut
-toujours -1.
+Rappelons que le Néant |neant| est un Règne qui regroupe tous les autres, et
+qui vaut toujours -1.
 
 ----
 
@@ -980,7 +980,7 @@ Niveau 1
                        Effet: on déplace MR kilos de matière à la vitesse d’un
                        homme qui marche, pendant MR minutes.
 :Infliger des dégâts(1): Test: Esprit |esprit| + Action |action| + Néant
-                           |neant|. Résistance: Corps r + Résistance
+                           |neant|. Résistance: Corps |corps| + Résistance
                            |resistance| + Humain |humain|. Effet: une créature
                            vivante que vous pouvez voir subit une perte de [a]
                            PV.

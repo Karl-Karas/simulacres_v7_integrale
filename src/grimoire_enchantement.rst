@@ -141,7 +141,7 @@ Résistance :
 Magie noire :
     non
 Échec :
-    perte d'un point en Corps a pendant 1 mois
+    perte d'un point en Corps |corps| pendant 1 mois
 Magie H. :
     oui
 Apprentissage :
@@ -415,7 +415,7 @@ Résistance :
 Magie noire :
     oui
 Échec :
-    perte d'un point en Résistance f pendant ME mois
+    perte d'un point en Résistance |resistance| pendant ME mois
 Magie H. :
     oui
 Apprentissage :
@@ -478,7 +478,7 @@ Résistance :
 Magie noire :
     non
 Échec :
-    perte d'un point en Esprit r pendant ME mois
+    perte d'un point en Esprit |esprit| pendant ME mois
 Magie H. :
     oui
 Apprentissage :

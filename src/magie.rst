@@ -451,9 +451,9 @@ seulement les résultats en cas de réussite, ou bien les effets, portées ou
 durées du sortilège.
 
 - La Puissance |puissance| peut s’utiliser pour augmenter de 1 dé la marge de
-  réussite par point de Puissance t investi. La portée d’un sort ou le rayon de
-  la surface d’effet peuvent être doublés pour 1 point, quadruplés pour 2
-  points, octuplés pour 3 points.
+  réussite par point de Puissance |puissance| investi. La portée d’un sort ou
+  le rayon de la surface d’effet peuvent être doublés pour 1 point, quadruplés
+  pour 2 points, octuplés pour 3 points.
 - La Précision |precision| peut s’utiliser pour augmenter de 1 les chances
   d’avoir une réussite critique, par point de Précision |precision| investi.
   Attention, cela augmente les chances d’obtenir une réussite critique, mais
@@ -715,9 +715,9 @@ ce niveau.
     rassemble ses six autres compagnons et leur demande de prier. Il réussit
     son test de Cérémonie et gagne 1 point de magie. Il choisit de dépenser 1
     PM de sa propre réserve (en équilibre psychique) pour invoquer son dieu, et
-    il garde le point de la cérémonie pour le mettre en Puissance t (qu’il a
-    normalement à 0) et augmenter la réussite de la guérison si celle-ci a
-    lieu.
+    il garde le point de la cérémonie pour le mettre en Puissance |puissance|
+    (qu’il a normalement à 0) et augmenter la réussite de la guérison si
+    celle-ci a lieu.
 
 Dieux
 -----

@@ -150,10 +150,11 @@ Description :
     de rune, que l'on doit bien sûr Connaître). En échange, le magicien runique
     perd définitivement une capacité. Exemple : graver une rune de protection
     sur un bouclier le rend plus résistant mais fait perdre définitivement 1
-    point de Résistance f au magicien. Il y a possibilité de magie temporaire :
-    peindre des runes avec son sang sur le corps d'un guerrier par exemple. Le
-    sort s'achèvera quand les runes disparaîtront ou à la mort du guerrier. Le
-    magicien récupérera alors les capacités que, là aussi, il avait perdues.
+    point de Résistance |resistance| au magicien. Il y a possibilité de magie
+    temporaire : peindre des runes avec son sang sur le corps d'un guerrier par
+    exemple. Le sort s'achèvera quand les runes disparaîtront ou à la mort du
+    guerrier. Le magicien récupérera alors les capacités que, là aussi, il
+    avait perdues.
 
 ----
 

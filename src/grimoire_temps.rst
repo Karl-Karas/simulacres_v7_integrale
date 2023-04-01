@@ -284,8 +284,8 @@ Description :
     flammes, etc. On ne peut plus y entrer ou en sortir. Seul le magicien et
     les objets qu'il touche (s'il le désire) peuvent bouger dans la zone
     arrêtée. Le temps d'effet peut passer à MR heures si le magicien investit 1
-    point de Puissance t en plus, à MR jours pour 2 pts et à MR mois pour 3
-    pts.
+    point de Puissance |puissance| en plus, à MR jours pour 2 pts et à MR mois
+    pour 3 pts.
 
 :bred:`Voir l'avenir`
 
@@ -360,12 +360,12 @@ Description :
     Le magicien peut transporter dans l'avenir un objet ou un être. La distance
     chronologique est de MR minutes au maximum, mais il peut décider d'un délai
     inférieur. Il peut allonger ce délai à MR heures en investissant un point
-    de Puissance t en plus, à MR jours avec 2 pts, et à MR décades avec 3 pts.
-    Le sujet envoyé dans l'avenir réapparaît au même endroit mais s'il y
-    rencontre autre chose qu'un fluide (l'air est un fluide), il est détruit.
-    En cas d'échec au lancer, le magicien ne peut plus utiliser ce sort, ni
-    voir dans le passé ou l'avenir, durant ME jours. Le magicien peut lancer ce
-    sort sur lui-même.
+    de Puissance |puissance| en plus, à MR jours avec 2 pts, et à MR décades
+    avec 3 pts.  Le sujet envoyé dans l'avenir réapparaît au même endroit mais
+    s'il y rencontre autre chose qu'un fluide (l'air est un fluide), il est
+    détruit.  En cas d'échec au lancer, le magicien ne peut plus utiliser ce
+    sort, ni voir dans le passé ou l'avenir, durant ME jours. Le magicien peut
+    lancer ce sort sur lui-même.
 
 ----
 
