@@ -1328,7 +1328,7 @@ Vampire
 :Désavantages: La lumière du soleil lui inflige [C] PV par passe d'armes. S'il
                 meurt de cette façon, sa mort est définitive. Si un vampire ne
                 boit pas au moins 4 litres de sang par semaine, il perd 1PV et
-                1PS de son maximum Jusqu'à une valeur de 1).
+                1PS de son maximum (jusqu'à une valeur de 1).
 :Talent inné: Un vampire peut faire autant d'actions par passe d'armes que sa
                valeur de Rapidité multipliée par le nombre de PS qu'il dépense
                à ce moment. Jeune (Rapidité 1, Test = 8), adulte (Rapidité 2,
