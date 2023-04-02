@@ -1320,7 +1320,7 @@ Vampire
 ^^^^^^^
 
 :Avantages: Il a 1PV et 1PS de plus. À chaque génération, le vampire apprend
-            une énergie magique parmi: Charme, Illusion, Vent. Son pouvoir
+            une énergie magique parmi : Charme, Illusion, Air. Son pouvoir
             favori est de déplacer son image à un mètre de lui (sa vraie
             position peut être vue dans un miroir, on ne voit rien là où se
             tient l'illusion). Un vampire tué par des moyens classiques
