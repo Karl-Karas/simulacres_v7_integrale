@@ -29,7 +29,7 @@ vous trouverez leur description dans le bestiaire, page :pageref:`bestiaire`.
 Les personnages incarnés par le meneur de jeu
 =============================================
 
-Comme cette périphrase est un peu longue, on parlera plus souvent des PMJ. A
+Comme cette périphrase est un peu longue, on parlera plus souvent des PMJ. À
 noter que l’on distingue deux grandes catégories de PMJ : ceux qui sont très
 importants, qui ont une vie propre ; et les figurants. La différence est liée à
 l’étendue de leur rôle dans le scénario. S’il s’agit d’un PMJ important, on le
@@ -59,7 +59,7 @@ PMJ faible
 
 Il a un score de **test** de 6, 4PV, 3PS et 3 EP. Il n’a pas d’Énergies, mais
 un **métier**, un **talent** et/ou un **hobby**.  C’est typiquement l’homme de
-troupe, le sans-nom, le sans grade.
+troupe, le sans-nom, le sans-grade.
 
 PMJ moyen
 ---------
@@ -117,8 +117,8 @@ nomme un Grand Méchant : un personnage qui fait le mal pour le mal, et qui
 disparaît à la fin de chaque aventure pour revenir quand on ne l’attend plus.
 Voici comment.
 
-Les tendance
-------------
+Les tendances
+-------------
 
 .. image:: images/tableau_tendances_pmj.pdf
     :width: 3cm
@@ -188,7 +188,7 @@ Survie
 Un Grand Méchant qui débute est déjà un peu plus qu’un PMJ normal. On lui
 attribue un chiffre de survie égal à 1. Cela veut dire que dans des
 circonstances qui normalement causent la mort, le Méchant a 1 chance sur 6 d’y
-échapper miraculeusement. A chaque aventure où il affronte les PJ, il peut
+échapper miraculeusement. À chaque aventure où il affronte les PJ, il peut
 augmenter son score de survie de 1, ou bien donner ce point à l’un de ses
 acolytes (qui commencent avec un score de survie de 0 et ne peuvent pas
 l’augmenter eux-mêmes).
