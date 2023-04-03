@@ -1924,6 +1924,6 @@ l’aventure.
     **Fantômes**
 
   En cas d'infection de fantômes, 1 EP est perdu temporairement. Il est
-  récupéré quand la possession s'achève. Par conte, chaque épreuve pénible
+  récupéré quand la possession s'achève. Par contre, chaque épreuve pénible
   psychiquement, qui serait affrontée normalement avec un léger stress, est
   susceptible de faire perdre un point d'Equilibre Psychique.
