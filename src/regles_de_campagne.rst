@@ -121,22 +121,23 @@ construire » un passé aux personnages, et de leur donner quelques petits «
 cadeaux » en fonction de ce vécu. Cette méthode a été utilisée dans deux jeux
 basés sur les règles de Simulacres et publiés chez Descartes Éditeur : Cyber
 Age (univers cyberpunk - malheureusement épuisé) et Capitaine Vaudou (piraterie
-et vaudou dans les Caraïbes du XVIIe siècle). Dans Capitaine Vaudou, on tire au
-hasard les guerres qu’a connues le personnage, les événements qui ont pu se
-produire dans son passé (emprisonné pour sorcellerie, amant d’une aristocrate,
-échoué sur une côte inconnue, officier dans la flotte vénitienne...). Le joueur
-arrange alors les événements dans l’ordre qu’il désire, les étoffe, écrit son
-histoire sur une feuille de papier. En fonction de cette histoire, le meneur de
-jeu peut décider d’augmenter certains **talents** du personnage (quelqu’un
-emprisonné pour sorcellerie, même s’il n’est pas vraiment sorcier, aura eu la
-possibilité d’apprendre ce qu’est la sorcellerie) ou d’accorder un ou deux
-**hobbies** supplémentaires. Il est conseillé d’augmenter plutôt les
-**talents** qui ne sont pas indispensables à la plupart des aventures (Danse,
-par exemple), le joueur devant quand même ensuite dépenser des points
-d’aventure pour les **talents** «importants».  Si aucun événement de son passé
-ne permet à un personnage d’avoir des **talents** supplémentaires, le meneur de
-jeu lui accordera de 1 à 4 points d’aventure supplémentaires (en fonction de ce
-qu’ont obtenu les autres personnages du groupe).
+et vaudou dans les Caraïbes du XVII\ :supt:`e` siècle). Dans Capitaine Vaudou,
+on tire au hasard les guerres qu’a connues le personnage, les événements qui
+ont pu se produire dans son passé (emprisonné pour sorcellerie, amant d’une
+aristocrate, échoué sur une côte inconnue, officier dans la flotte
+vénitienne...). Le joueur arrange alors les événements dans l’ordre qu’il
+désire, les étoffe, écrit son histoire sur une feuille de papier. En fonction
+de cette histoire, le meneur de jeu peut décider d’augmenter certains
+**talents** du personnage (quelqu’un emprisonné pour sorcellerie, même s’il
+n’est pas vraiment sorcier, aura eu la possibilité d’apprendre ce qu’est la
+sorcellerie) ou d’accorder un ou deux **hobbies** supplémentaires. Il est
+conseillé d’augmenter plutôt les **talents** qui ne sont pas indispensables à
+la plupart des aventures (Danse, par exemple), le joueur devant quand même
+ensuite dépenser des points d’aventure pour les **talents** «importants».  Si
+aucun événement de son passé ne permet à un personnage d’avoir des **talents**
+supplémentaires, le meneur de jeu lui accordera de 1 à 4 points d’aventure
+supplémentaires (en fonction de ce qu’ont obtenu les autres personnages du
+groupe).
 
 Dépense de points d’aventure
 ============================
@@ -172,7 +173,7 @@ Zoologie à 0 (de X à 0 : 5 pts), Poésie à 0 (de -2 à 0 : 3 pts), Équitatio
 .. admonition:: Points d’aventure et règles de base
 
   Même utilisant que les règles de base, vous pouvez quand même donner des
-  poins d’aventure à vos joueurs. Les augmentations de caractéristiques et la
+  points d’aventure à vos joueurs. Les augmentations de caractéristiques et la
   possibilité de regagner sa « dernière chance » sont conservées. Par contre on
   applique les modifications suivantes :
 
@@ -451,7 +452,7 @@ de la culture. *Équipement supplémentaire* : armes, armure légère, coutelas,
 :Guerrier mahotek: *Armes préférées* : Sabre, Arc court.  *Autres talents* :
                    Équitation, Javelot.
 :Guerrier maliend: *Armes préférées* : Épée longue, Lance. *Autres talents* :
-                   Art martiaux/ Lutte, Art de la guerre.
+                   Arts martiaux/ Lutte, Art de la guerre.
 :Guerrier nain: *Armes préférées* : Marteau, Épée courte. *Autres talents* :
                 Minéralogie/ Joaillerie, Maçonnerie.
 
