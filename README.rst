@@ -76,13 +76,15 @@ fiabilité.
 TODO
 ----
 
-- ré-écrire l'introduction
+- ajouter les références de pages pour les sorts identiques à ceux d'autres
+  listes
 - nice to have: passer la plupart des field lists en definition lists (plus
   propre dans la source, même rendu final)
 
 DONE
 ----
 
+- ré-écrire l'introduction
 - règles Sangdragon de base + personnage joueur
 - règles Sangdragon de campagne
 - les intervenants
