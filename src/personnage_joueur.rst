@@ -54,7 +54,7 @@ la force, l’agilité, l’endurance.
     :align: left
 
 **Les Instincts** regroupent toutes les forces et les faiblesses cachées et
-inconscientes de l’individu.  C’est par eux que s’expriment le sixième sens,
+inconscientes de l’individu.  C’est par eux que s’exprime le sixième sens,
 l’intuition, le côté animal du personnage ; mais aussi le fait de se laisser
 dominer par ses pulsions. Une personne instinctive pourra sentir des présences,
 se rattraper de justesse lors d’une chute, etc.
@@ -143,7 +143,7 @@ L’Action servira pour un bras de fer comme pour résoudre une énigme.
 soient conscientes ou inconscientes. C’est sans doute le Moyen le plus
 difficile à appréhender, mais aussi celui qui a le plus de possibilités. On
 peut ainsi « désirer » survivre, inventer des engins ou des poésies
-extraordinaires; bref, arriver à se dépasser.
+extraordinaires |s| ; bref, arriver à se dépasser.
 
 .. image:: images/resistance.png
     :width: 5ex
@@ -161,9 +161,9 @@ instincts.
    des Moyens. 
 
    Exemple : Perception |perception| 2, Action |action| 3, Désir |desir| 3,
-   Résistance |resistance| 2; ce qui indique un personnage assez moyen, plutôt
-   actif, pas très perspicace, qui ne sait pas trop encaisser les coups durs,
-   mais qui sait y réagir efficacement.
+   Résistance |resistance| 2 |s| ; ce qui indique un personnage assez moyen,
+   plutôt actif, pas très perspicace, qui ne sait pas trop encaisser les coups
+   durs, mais qui sait y réagir efficacement.
 
 .. raw:: latex
 
@@ -178,7 +178,7 @@ instincts.
     
     Sur la feuille de personnage, les cadres où l’on inscrit le score des
     Composantes comportent trois petites cases. Celles-ci servent si vous désirez
-    créer vos personnages d’un façon plus imagée. Comment procéder :
+    créer vos personnages d'une façon plus imagée. Comment procéder :
     
     Pour chaque Composante, la première case représente votre potentiel à votre
     naissance |s| ; la deuxième case est la façon dont elle a évolué au cours
@@ -269,7 +269,7 @@ s’applique.
 instrument, au sens le plus large du terme. Ainsi l’os, qui pourrait être
 considéré comme Minéral (en voie de fossilisation) est considéré comme un outil
 dès que l’homme des cavernes l’utilise pour la chasse ou la guerre (voir 2001
-l’odyssée de l’Espace ). Évidemment, les voitures, les armes à feu, les
+l’odyssée de l’Espace). Évidemment, les voitures, les armes à feu, les
 presse-purées, les ordinateurs, sont tous du domaine Mécanique. Mais cela va
 plus loin, car on considérera aussi que les lois de la physique et des
 mathématiques sont des « |s| outils |s| » pour comprendre l’univers. Ainsi, si
@@ -351,7 +351,7 @@ hypnotiseur) où seule la Puissance peut servir.
 Autres Énergies
 ---------------
 
-Il existe d’autres Énergies mais elles dépendent du contexte, de l’univers de
+Il existe d’autres Énergies, mais elles dépendent du contexte, de l’univers de
 jeu que vous avez choisi. Cela peut être de l’Énergie magique, psionique, etc.
 A priori, vous n’avez pas à en créer vous-même, mais votre personnage peut être
 amené à utiliser cette Énergie, auquel cas vous devrez à chaque fois consulter

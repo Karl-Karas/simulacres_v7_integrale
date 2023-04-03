@@ -1339,7 +1339,8 @@ Description :
     qu'il vole en suçant le sang sont rajoutés à son total de points de vie,
     mais seulement pour 48 heures. C'est le seul mort-vivant matériel qui soit
     invulnérable aux armes normales (comme les démons). Par contre, les rayons
-    directs du soleil le brûlent au rythme de 1PV par passe d'armes.
+    directs du soleil le brûlent au rythme de 1PV par passe d'armes. Il existe
+    une règle spécifique adaptée aux vampires en p. :pageref:`les-inhumains`.
 
 Fantôme
 ^^^^^^^
@@ -2380,7 +2381,9 @@ que la lune pleine exacerbe les émotions).  Ces humains se transforment donc,
 ou prennent l'apparence, de leur animal totem. Il y a donc des hommes qui
 deviennent des ours, sangliers, etc.  l'argent ne semble pas les affecter, mais
 l'acier si ! Et la morsure d'un loup-garou ne transforme pas la victime en
-loup-garou !
+loup-garou ! Il existe une règle spécifique adaptée aux lycanthropes en p.
+:pageref:`les-inhumains`.
+
 
 ----
 
