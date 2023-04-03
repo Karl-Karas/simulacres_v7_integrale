@@ -38,12 +38,12 @@ plus loin).
     :align: center
 
 Pour connaître la répartition des points de vie de votre personnage, commencez
-par calculer la somme Corps |corps| + Résistance |resistance|. S'il a :
+par calculer la somme Corps |corps| + Résistance |resistance|. S'il a |s| :
 
-- de 1 à 5 points, sa morphologie est faible, laissez la fiche en l'état;
+- de 1 à 5 points, sa morphologie est faible, laissez la fiche en l'état |s| ;
 - de 6 à 8, sa morphologie est moyenne, ajoutez une case sur le tronc (zone 2)
-  et au malaise.  Ces cases sont déjà en place, mais en pointillé;
-  noircissez-en le contour au stylo;
+  et au malaise.  Ces cases sont déjà en place, mais en pointillé |s| ;
+  noircissez-en le contour au stylo |s| ;
 - de 9 à 14, sa morphologie est forte, ajoutez les deux cases du tronc et les
   cases des jambes, plus les deux cases supplémentaires du malaise.
 
@@ -67,7 +67,7 @@ des gains futurs (par les points d'aventure).
 Perte de points de vie, gain de malaise
 ---------------------------------------
 
-A chaque fois que l'on perd des points de vie (PV), on détermine en lançant un
+À chaque fois que l'on perd des points de vie (PV), on détermine en lançant un
 dé à 6 faces la zone touchée (à moins que l'adversaire n'ait visé une zone
 précise), et on coche le nombre de PV perdus dans cette zone (en commençant
 toujours par les cases les plus en haut et à gauche, puis en allant vers la
@@ -84,14 +84,14 @@ empoisonné ou que des brûlures ne sont pas encore bien guéries.
 
  .. class:: darkred
 
-  *Exemple :* Une grenade explose à côté d'Arthur.Le tableau des armes indique
+  *Exemple :* Une grenade explose à côté d'Arthur. Le tableau des armes indique
   qu'une grenade au point d'impact inflige normalement[F] PV et [F] PS. Il est
   précisé qu'en cas de localisation, les dégâts en PV sont diminués de deux
   colonnes. Ce qui donne [D] PV : Arthur Perd 1 PV à la tête, 2 au torse, 1 au
   bras gauche, 2 au bras droit, 3 à la jambe gauche, 1 à la jambe droite. Trois
   cases de malaise sont cochées, ce qui amène Arthur dans la case indiquée par
   un petit -3. On tire aussi la perte de points de souffle, une seule fois, ce
-  qui donne une perte de 3 PS. Arthur est vraiment très gravement blessés Mais
+  qui donne une perte de 3 PS. Arthur est vraiment très gravement blessé Mais
   c'est normal avec une grenade !
 
 Conséquences
@@ -111,7 +111,7 @@ Conséquences
   **test** Corps |corps| + Résistance |resistance| + Humain |humain| pour
   déterminer si on ne tombe pas inconscient pour la passe d'armes suivante.
 
-- Si on perd dans une zone plus de PV quelle n'en possède, le membre concerné
+- Si on perd dans une zone plus de PV qu'elle n'en possède, le membre concerné
   peut être définitivement perdu, ou subir des séquelles (voir règle plus
   loin).
 
@@ -149,7 +149,7 @@ déterminer s'il regagne ou non 1PV. Un échec critique lors d'un test sur une
 blessure non pansée fait perdre 1PV, au lieu de garder l'état stationnaire ou
 d'en gagner un.
 
-A chaque fois que l'on repasse sous la barre des 2PV cochés dans une zone
+À chaque fois que l'on repasse sous la barre des 2PV cochés dans une zone
 donnée, on gagne un point sur le compteur de malaise.
 
 Séquelles
@@ -159,25 +159,26 @@ Séquelles
   faut réussir très vite un **test** de Premiers soins (ou Médecine) pour la
   sauver.  Ce temps de réaction est directement proportionnel à la Résistance
   |resistance| du personnage. Si la blessure est à la tête, on calcule ce temps
-  en nombre de passes d'armes; au torse, en minutes; ailleurs, en heures.
-  Ainsi, un personnage qui a 3 en Résistance |resistance| et qui est tombé à 0
-  PV à la tête doit être soigné dans les 3 passes d'armes suivant la blessure.
+  en nombre de passes d'armes |s| ; au torse, en minutes |s| ; ailleurs, en
+  heures.  Ainsi, un personnage qui a 3 en Résistance |resistance| et qui est
+  tombé à 0 PV à la tête doit être soigné dans les 3 passes d'armes suivant la
+  blessure.
 
   Quand ce délai est écoulé, le personnage a encore droit à une dernière
-  chance; s'il réussit un **test** dit de survie: Corps |corps| + Désir |desir|
-  + Humain |humain|, ce temps est reconduit. Et ainsi de suite, jusqu'à ce
-  qu'il soit soigné ou que son test de survie échoue. Si la blessure n'est pas
-  soignée, ou que les soins échouent (on n'a droit qu'à une seule tentative) ou
-  que le test de survie échoue, la zone blessée est définitivement perdue. Si
-  c'est la tête ou le tronc, le personnage meurt.  Si c'est un membre (jambe ou
-  bras), il est considéré comme perdu (coupé, broyé ... ). Le personnage coche
-  une case de malaise pour cette perte, qui ne sera récupérée que quand le
-  personnage aura maîtrisé son handicap.
+  chance |s| ; s'il réussit un **test** dit de survie: Corps |corps| + Désir
+  |desir| + Humain |humain|, ce temps est reconduit. Et ainsi de suite, jusqu'à
+  ce qu'il soit soigné ou que son test de survie échoue. Si la blessure n'est
+  pas soignée, ou que les soins échouent (on n'a droit qu'à une seule
+  tentative) ou que le test de survie échoue, la zone blessée est
+  définitivement perdue. Si c'est la tête ou le tronc, le personnage meurt.  Si
+  c'est un membre (jambe ou bras), il est considéré comme perdu (coupé, broyé
+  ...). Le personnage coche une case de malaise pour cette perte, qui ne sera
+  récupérée que quand le personnage aura maîtrisé son handicap.
 
 - Si une zone blessée tombe en dessous de 0 PV, c'est encore plus grave. Le
   personnage perd automatiquement tous ses PS et tombe évanoui. On ne peut plus
   utiliser Premiers soins, il faut obligatoirement agir avec le **talent**
-  Médecine.  Les règles ci-dessus, concernant 1e délai d'intervention et le
+  Médecine.  Les règles ci-dessus, concernant le délai d'intervention et le
   **test** de **survie**, s'appliquent de la même manière. Par contre, le
   **test** de soins devient Corps |corps| + Perception |perception| + Humain
   |humain| + Médecine + **difficulté**. La **difficulté** est égale au nombre
@@ -226,7 +227,7 @@ tronc ou de la tête, cela correspond à des jours de coma profond.
   jusqu'à 1 PV) et que son maximum de PV va passer définitivement de 4 à 3 dans
   la zone du torse. Si Paré fait 2 points de guérison, Arthur passe à 0 PV,
   reste 1 jour dans le coma et n'aura comme séquelle qu'une profonde cicatrice.
-  Mais Ambroise Paré est un chirurgien de génie (**talent** à +3 ), il obtient
+  Mais Ambroise Paré est un chirurgien de génie (**talent** à +3), il obtient
   une réussite critique, et soigne Arthur de 4 PV, celui-ci ne passe à 2 points
   de vie, mais à 1, ce qui est déjà bien. Il n'aura aucune cicatrice durable et
   se réveillera une heure plus tard (quand il aura récupéré un point de
@@ -305,7 +306,7 @@ Protection des types d'armure courants
   (entre 12 et 23 de protection), que l'on note dans la case Malus Pr., et qui
   ajoute -1 de **difficulté** à toutes ses actions physiques.  Il combat contre
   Ulrog, qui donne un coup d'épée, réussit sa passe d'armes et fait un total de
-  3 (marge de réussite) + 7 (somme du jet de deux dés) = 10; Ulrog touche
+  3 (marge de réussite) + 7 (somme du jet de deux dés) = 10 |s| ; Ulrog touche
   Aramir au tronc (tirage au hasard) qui a une protection de 4 (cotte de
   mailles). La somme finale est donc de 10-4 = 6, ce qui cause des dégâts de 2
   PV et 0 PS, au lieu de 3 PV et 1 PS.
@@ -319,7 +320,7 @@ diffèrent également suivant que l'on utilise les règles de localisation ou pa
 Mais quel que soit son mode d'utilisation, le bouclier diminue les chances de
 l'adversaire de toucher et n'offre pas de protection si l'attaque passe. Un
 petit bouclier diminue de 1 les chances de toucher de l'adversaire, un grand
-bouclier les diminue de 2. A propos des règles de base, où l'on distingue deux
+bouclier les diminue de 2. À propos des règles de base, où l'on distingue deux
 types d'armures (légère 1/0/0 et lourde 2/1/0), le fait d'avoir un bouclier
 augmente légèrement le niveau de protection, mais aussi la gêne, et permet
 d'utiliser la parade.
@@ -333,10 +334,10 @@ décide de rester en parade pure, il suffit de réussir son test de duel pour ne
 pas être touché (ne pas oublier que le test de l'adversaire est diminué de 1 ou
 2 suivant le type de bouclier que vous portez).
 
-Quel est alors l'intérêt puisque l'on ne reste que sur la défensive? Hé bien,
-si on obtient une réussite critique sur son test de parade (et que l'on a
+Quel est alors l'intérêt puisque l'on ne reste que sur la défensive |s| ? Hé
+bien, si on obtient une réussite critique sur son test de parade (et que l'on a
 réussi la parade), on a droit, en riposte, de faire un test de combat pour
-savoir si on touche à son tour l'adversaire (pourvu que l'on ait un arme dans
+savoir si on touche à son tour l'adversaire (pourvu que l'on ait une arme dans
 l'autre main bien sûr). Ce test est alors un test simple et non plus un duel
 (puisque l'attaque de l'autre s'est portée sur le bouclier).
 
@@ -345,7 +346,7 @@ l'autre main bien sûr). Ce test est alors un test simple et non plus un duel
   *Exemple :* Ulrog a le **talent** bouclier à +1, un grand bouclier et pas
   d'armure. Il reste en parade et réussit sa première passe d'armes (test Corps
   |corps| + Action |action| + Mécanique |mecanique| + bouclier -1, il fait une
-  MR de 3, son adversaire aussi : leurs coups sont parés). A la seconde passe
+  MR de 3, son adversaire aussi : leurs coups sont parés). À la seconde passe
   d'arme, Ulrog, fait 3 à son jet de dés (non seulement : il pare l'attaque,
   mais c'est une réussite critique). il peut donc essayer de riposter avec son
   épée, et il réussit sur un **test** simple Corps |corps| + Action |action| +
@@ -359,20 +360,21 @@ Boucher à 0 (pour les règles de base: avoir un talent Bouclier). Sinon le
 bouclier ne peut pas servir à se protéger, on ne sait pas suffisamment bien
 l'utiliser.
 
-Pour les règles, il faut faire la distinction entre deux cas: si on utilise la
-localisation de l'armure et des points de vie ou pas.
+Pour les règles, il faut faire la distinction entre deux cas |s| : si on
+utilise la localisation de l'armure et des points de vie ou pas.
 
 PV non localisés
 ****************
 
-Il n'y a pas de différence entre avoir un petit bouclier (protection : 1, gêne
-: 0) ou une armure légère; et avoir un grand bouclier (protection : 2, gêne :
-1) ou une armure lourde. L'avantage est de pouvoir s'en débarrasser plus vite
-(en cas de poursuite, pour grimper un mur) mais en contrepartie, on ne peut se
-protéger que contre un seul adversaire à la fois avec le petit bouclier, et
-deux avec le grand. Par contre, avec une arme dans l'autre main, la possibilité
-de parade existe. Si on combine armure et boucher, il faut cumuler les gênes,
-plus une gêne supplémentaire de 1, les protections s'additionnent.
+Il n'y a pas de différence entre avoir un petit bouclier (protection |s| : 1,
+gêne |s| : 0) ou une armure légère |s| ; et avoir un grand bouclier (protection
+|s| : 2, gêne |s| : 1) ou une armure lourde. L'avantage est de pouvoir s'en
+débarrasser plus vite (en cas de poursuite, pour grimper un mur) mais en
+contrepartie, on ne peut se protéger que contre un seul adversaire à la fois
+avec le petit bouclier, et deux avec le grand. Par contre, avec une arme dans
+l'autre main, la possibilité de parade existe. Si on combine armure et boucher,
+il faut cumuler les gênes, plus une gêne supplémentaire de 1, les protections
+s'additionnent.
 
  .. class:: darkred
 
@@ -392,7 +394,7 @@ de 6 (petit bouclier) ou 12 (grand bouclier).
   *Exemple :* Aramir porte une maille sur le torse et les bras, plus un
   pantalon de cuir.  L'encombrement total est donc de 16 (4x3 + 2x2), auquel il
   ajoute un grand bouclier, qui diminue de 2 les attaques de son adversaire, et
-  Porte sa protection totales à 28 (16+12), ce qui lui donne un malus de -2 à
+  Porte sa protection totale à 28 (16+12), ce qui lui donne un malus de -2 à
   toutes les actions physiques.
 
 ----
@@ -494,7 +496,7 @@ arme futuriste très puissante mais très peu fiable.
 
   a - L'inverseur de fulgur a sauté et l'arme ne fonctionne plus
 
-  b - Le propulseur protonique vient de lâcher un dernier Râle. Vous faite 5PV
+  b - Le propulseur protonique vient de lâcher un dernier Râle. Vous faites 5PV
   de dégâts à la cible, mais le znaper saute et vous encaissez 1PV et 3PS de
   dégâts.
 
@@ -551,7 +553,7 @@ avec celle-ci.
 Je frappe et puis je frappe
 ---------------------------
 
-A partir du niveau +1 dans un **talent** d’arme, et en fonction de la nature de
+À partir du niveau +1 dans un **talent** d’arme, et en fonction de la nature de
 l’arme, on peut placer plusieurs coups par passe d’armes. Ce nombre est indiqué
 ci-dessous :
 
@@ -623,7 +625,7 @@ Les modificateurs sont
 Encore plus vite ?
 ------------------
 
-A partir du niveau +2 dans une arme, on peut utiliser 1 point de Rapidité pour
+À partir du niveau +2 dans une arme, on peut utiliser 1 point de Rapidité pour
 porter une attaque supplémentaire. Rappelons que l’usage de 1 EP au lieu de 1
 PS permet d’avoir les avantages de l’Energie pendant plusieurs passes d’armes
 de suite.
@@ -635,7 +637,7 @@ Composants de sorts
 
 Dans SimulacreS, il n’est pas nécessaire d’utiliser des composants pour lancer
 un sort. Néanmoins (p. :pageref:`bonus`), leur présence permet d’améliorer les
-chances de réussite (qui sont souvent assez faible en magie hermétique).
+chances de réussite (qui sont souvent assez faibles en magie hermétique).
 
 La règle de base prévoit qu’un composant matériel donne un bonus de +1 en
 échange de l’augmentation du temps de concentration (généralement le temps est
@@ -660,7 +662,7 @@ a. Composants génériques standard. Eau, bougie, poussière…, bref tout ce qu
    qui sont très liés au sort que l’on veut lancer. Par exemple, du sang de
    géant pour un sort de force, un cheveu d’une fille prénommée Ariane pour un
    sort d’orientation. Le bonus est alors de +4.
-#. Composants « alchimique » préparés. Ce sont les « recettes » des sorcières
+#. Composants « alchimiques » préparés. Ce sont les « recettes » des sorcières
    de la tradition comme : deux gouttes de bave de crapaud, trois racines
    d’hellébore, etc. Ou bien un mélange de chants, gestes et composants
    matériels assemblés.
