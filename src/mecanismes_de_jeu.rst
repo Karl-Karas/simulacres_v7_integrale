@@ -44,7 +44,7 @@ Toute tentative impossible à rater réussit toujours, toute tentative impossibl
 résolvent d’après la règle principale (voir ci-après).  C’est au meneur de jeu
 de décider, en fonction des circonstances, du scénario, des capacités du
 personnage, si une tentative est inratable, impossible ou aléatoire. Il doit
-faire preuve de bon sens, mais ne pas oubliez qu’il ne s’agit que d’un jeu. Un
+faire preuve de bon sens, mais ne pas oublier qu’il ne s’agit que d’un jeu. Un
 exemple de tentative impossible est d’essayer de sauter à pieds joints
 au-dessus d’un gouffre de vingt mètres de large. À l’inverse, une tentative
 inratable est l’action d’ouvrir une porte normale, dans des circonstances
@@ -75,8 +75,8 @@ opération un test. La liste des tests les plus utilisés se trouve en page
     animal. La Composante employée est le Corps |corps| (il utilise ses yeux,
     sa valeur en Corps est 4), le Moyen est la Perception |perception| (il a
     3), le Règne est Végétal |vegetal| (c’est un sous-bois touffu, et c’est
-    parmi les mousses et les branchages qu’il cherche des traces; sa valeur en
-    Végétal est 1). Arthur est un médecin qui n’a aucune connaissance
+    parmi les mousses et les branchages qu’il cherche des traces |s| ; sa
+    valeur en Végétal est 1). Arthur est un médecin qui n’a aucune connaissance
     particulière des animaux et des bois, le meneur de jeu estime donc que
     c’est une action Difficile (**difficulté** de -2). La somme totale du test
     est donc de 4+3+1-2=6.  Arthur ne retrouvera la trace que si le joueur fait
@@ -94,8 +94,8 @@ difficultés.
     *Exemple :* Arthur, au sommet d’une montagne, essaye de repérer la fumée
     qui doit monter du camp de base de ses adversaires (test Corps |corps| +
     Perception |perception| + Minéral |mineral|). Il a une longue-vue qui lui
-    facilite la tâche (**difficulté** +1) mais la nuit tombe (**difficulté** -
-    2), la **difficulté** finale est donc de 1-2= -1.
+    facilite la tâche (**difficulté** +1) mais la nuit tombe (**difficulté**
+    -2), la **difficulté** finale est donc de 1-2=-1.
 
 Interprétation du résultat
 --------------------------
@@ -621,7 +621,7 @@ Les poisons et maladies
 
 Ne vous compliquez pas trop la vie en voulant détailler toutes sortes de
 poisons, de types de maladies, les personnages ont déjà suffisamment de mal à
-survire comme cela. Pour savoir si un personnage est victime d’un poison ou
+survivre comme cela. Pour savoir si un personnage est victime d’un poison ou
 d’une maladie, il doit d’abord faire un **test** de résistance : Corps |corps| +
 Résistance |resistance| + Humain |humain| + **difficulté**. Où la valeur de la
 **difficulté** est la virulence de la maladie ou du poison.
@@ -706,7 +706,7 @@ Jones ou James Bond.
 ---------------------------------
 
 Qui d’entre nous est le plus fort, le plus agile, le plus intelligent ? C’est
-souvent ce que demande les joueurs.  Ils sont frustrés de penser qu’il n’y a
+souvent ce que demandent les joueurs.  Ils sont frustrés de penser qu’il n’y a
 pas de caractéristiques pour quantifier précisément la force, la rapidité.  En
 fait, s’ils veulent se mesurer, il suffit de comparer leurs valeurs de
 **tests**, dans lesquelles ils mettront leurs Énergies sans dépenser de points
@@ -745,7 +745,7 @@ Le meneur de jeu (ou le joueur) débutant a parfois des **difficultés** à savo
 quels Composantes, Moyens ou Règnes utiliser pour les actions les plus
 courantes en jeu de rôle. L’habitude vient rapidement, et la force de
 Simulacres vient également du fait qu’il y a plusieurs méthodes pour résoudre
-le même problème.  Néanmoins, pour vous aidez, nous vous proposons une liste
+le même problème.  Néanmoins, pour vous aider, nous vous proposons une liste
 des **tests** les plus fréquents. Attention, chaque **test** est modifié par
 une **difficulté** qui dépend des circonstances extérieures et parfois des
 **talents** du personnage.
@@ -868,7 +868,7 @@ une **difficulté** qui dépend des circonstances extérieures et parfois des
       adversaires en combat essayent de se porter chacun un coup.
     :PJ: Personnage-joueur, un personnage animé par un joueur.
     :PMJ: Personnage incarné par le Meneur de Jeu. La plupart des
-      autres jeux de rôle utilise le terme PNJ, ce qui veut dire Personnage-
+      autres jeux de rôle utilisent le terme PNJ, ce qui veut dire Personnage-
       Non joueur, traduction littérale du terme anglais Non Player Character
       (NPC).
     :PS: point de souffle.
