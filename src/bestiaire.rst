@@ -13,13 +13,14 @@ Bestiaire
  .. class:: red
 
   **Le terme de bestiaire est impropre dans le cas présent puisqu'il comprend à
-  la fois de vrais animaux, des «monstres » et des races où peuples humanoïdes.
-  Il s’agit juste d'une commodité de langage. La plupart des créatures décrites
-  ici sont des archétypes présents dans la plupart des univers ou jeux à thème
-  médiéval-fantastique.  Nous vous engageons d'ailleurs à faire preuve de
-  discernement et à ne pas utiliser toutes ces créatures à la fois.**
+  la fois de vrais animaux, des «** |s| **monstres** |s| **» et des races où
+  peuples humanoïdes.  Il s’agit juste d'une commodité de langage. La plupart
+  des créatures décrites ici sont des archétypes présents dans la plupart des
+  univers ou jeux à thème médiéval-fantastique.  Nous vous engageons d'ailleurs
+  à faire preuve de discernement et à ne pas utiliser toutes ces créatures à la
+  fois.**
 
-  **Le bestiaire présenté ici réuni celui de SangDragon, qui était plutôt
+  **Le bestiaire présenté ici réunit celui de SangDragon, qui était plutôt
   succinct, avec celui du HS14. Mais même si vous pensez déjà connaître les
   monstres mythologiques, lisez nos variantes ; elles peuvent intéresser celui
   qui cherche des «** |s| **variations sur un thème imposé** |s| **». Ainsi,
@@ -105,7 +106,7 @@ Les animaux
 Aigle
 -----
 
-lieu de vie :
+Lieu de vie :
     montagne
 Fréquence :
     peu commun
@@ -131,7 +132,7 @@ Déplacement :
 Baleine
 -------
 
-lieu de vie :
+Lieu de vie :
     océans
 Fréquence :
     rare
@@ -162,7 +163,7 @@ Description :
 Cheval
 ------
 
-lieu de vie :
+Lieu de vie :
     plaine
 Fréquence :
     commun
@@ -650,8 +651,8 @@ Déplacement:
 
 ----
 
-Les «monstres »
-===============
+Les « |s| monstres |s| »
+========================
 
 Les créatures féeriques
 -----------------------
@@ -662,7 +663,7 @@ nombreux pouvoirs magiques. On dit une Færie, même si c'est un être masculin.
 
 Dans *SangDragon*, ces créatures sont magiques, et sont issues de
 l’extériorisation des instincts et des croyances es peuples plus ou moins
-primitifs. À priori il n'y à pas de Færies sur l'île de Malienda, mais vous
+primitifs. À priori il n'y a pas de Færies sur l'île de Malienda, mais vous
 pouvez décider qu'il en existe dans les forêts les plus profondes. Il n'y a pas
 de Færie typique, bien que la plupart répondent aux critères suivants |s| :
 
@@ -716,15 +717,16 @@ guides |s| :
 - Un cadeau (objet ou service) se monnaye par un service à rendre au peuple
   féerique en entier.
 - Une malédiction jetée par une créature féerique ne peut être levée que par
-  cette même créature féerique.  Voici quelques exemples créatures féeriques
-  (attention, les noms des Færies désignent parfois d'autres créatures, de
-  nature différente; ainsi l’elfe ou la dryade féeriques ne ressemblent pas aux
-  créatures humanoïdes qui ont le même nom): elfes (esprits des airs), dryades
-  (esprits des arbres), gnomes (esprits constructeurs), trolls (esprits des
-  cavernes), lutins (esprits des maisons), korrigans (voleurs de trésors),
-  nymphes (esprits des eaux), goblins (farceurs), kobolds (fainéants), nains
-  (créateurs de vie), farfadets (travailleurs), bonnets rouges (douleur),
-  gloutons (gourmandise).
+  cette même créature féerique.
+
+Voici quelques exemples de créatures féeriques (attention, les noms des Færies
+désignent parfois d'autres créatures, de nature différente |s| ; ainsi l’elfe
+ou la dryade féeriques ne ressemblent pas aux créatures humanoïdes qui ont le
+même nom): elfes (esprits des airs), dryades (esprits des arbres), gnomes
+(esprits constructeurs), trolls (esprits des cavernes), lutins (esprits des
+maisons), korrigans (voleurs de trésors), nymphes (esprits des eaux), goblins
+(farceurs), kobolds (fainéants), nains (créateurs de vie), farfadets
+(travailleurs), bonnets rouges (douleur), gloutons (gourmandise).
 
 En termes de jeu, une Færie ne combattra jamais et même deviendra invisible en
 cas de combat. Elle ne sera jamais présente dans un lieu où il y a trop de fer
@@ -797,7 +799,7 @@ Résistance à la magie :
 Description :
     Ces démons sont ceux que la plupart des invocateurs ou sorciers appellent
     des profondeurs des « |s| enfers |s| ». Leur apparence est variable mais
-    tourne toujours autour des archétypes |s| : comes sur Le crâne, crocs,
+    tourne toujours autour des archétypes |s| : cornes sur le crâne, crocs,
     griffes, queue fourchue. Ils mesurent entre 1m et 3m. Leur puissance se
     mesure en grades, qui vont de 1 à 7. Leurs caractéristiques dépendent
     directement de ce grade, qui est noté **x**.
@@ -907,7 +909,7 @@ Déplacement dans la terre :
 Résistance à la magie :
     6
 Description :
-    Il à une forme humaine, et fait environ 1,50 m de haut.
+    Il a une forme humaine, et fait environ 1,50 m de haut.
 
 Élémental moyen de Terre
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -933,7 +935,7 @@ Déplacement dans la terre :
 Résistance à la magie :
     8
 Description :
-    Il à une forme humaine, et fait environ 2m de haut.
+    Il a une forme humaine, et fait environ 2m de haut.
 
 Élémental fort de Terre
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -959,7 +961,7 @@ Déplacement dans la terre :
 Résistance à la magie :
     9
 Description :
-    Il à une forme humaine plutôt trapue, et fait environ 3m de haut.
+    Il a une forme humaine plutôt trapue, et fait environ 3m de haut.
 
 ----
 
@@ -1175,7 +1177,7 @@ Description :
     Cet élémental ressemble à un petit incendie, d'environ 4m de surface, aux
     nombreuses flammes et flammèches, de près de 2 mètres de haut.
 
-Elémental fort de Feu
+Élémental fort de Feu
 ^^^^^^^^^^^^^^^^^^^^^
 
 Test de Combat :
@@ -2142,7 +2144,7 @@ Description :
 Gorgone
 -------
 
-lieu de vie :
+Lieu de vie :
     montagne, caverne
 Fréquence :
     rare
@@ -2250,7 +2252,7 @@ Description :
 Hydre
 -----
 
-lieu de vie :
+Lieu de vie :
     marais
 Fréquence :
     rare

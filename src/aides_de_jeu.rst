@@ -345,7 +345,7 @@ Amoureux (1d6)
     2
         Vous vous êtes fâchés puis quittés
     3
-        ous vous êtes quittés bons amis
+        Vous vous êtes quittés bons amis
     4
         Il/elle est parti(e); vous êtes toujours amoureux
     5
@@ -460,7 +460,7 @@ Aventure (2d6)
     caillou qu’il a dans la main est recouvert d’une fine pellicule de glace,
     commençant déjà à fondre, et qu’il s’empresse de lécher.
 
-  A l’avenir, Algor n’aura sans doute pas d’autres pouvoirs magiques (à moins
+  À l’avenir, Algor n’aura sans doute pas d’autres pouvoirs magiques (à moins
   de devenir magicien), mais il pourra recommencer à loisir le même **test**,
   sans le malus de 2 et en dépensant un point de souffle, pour obtenir le même
   effet magique. Cette capacité magique à survivre a été pour le moins
@@ -518,7 +518,7 @@ Famille (2d6)
 Cicatrices
 ----------
 
-A chaque fois qu’un risque important a été pris dans les tables ci-dessus, il y
+À chaque fois qu’un risque important a été pris dans les tables ci-dessus, il y
 a une chance d’avoir été blessé. Tirez une fois pour chaque occasion avec 2d6.
 S’il y a un double, vous avez été blessé. La gravité allant de 1–1
 (égratignure) à 6–6 (presque mortelle). Tirez sur la table de localisation de
