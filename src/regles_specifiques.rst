@@ -17,7 +17,7 @@ Poursuites de véhicules
 
   **Tout le monde a vu au cinéma une poursuite de voitures, de camions, de
   vaisseaux spatiaux... On s'engouffre entre deux astéroïdes, on prend une
-  ruelle à contresens.., Et pendant ce temps-là les mitraillettes crépitent,
+  ruelle à contresens..., Et pendant ce temps-là les mitraillettes crépitent,
   les lasers fusent, le blindage s'étiole... Si vous désirez jouer de telles
   poursuites, les règles qui suivent sont là pour ça. Elles sont divisées en
   deux sections, une pour gérer très rapidement une poursuite, l'autre pour
@@ -119,7 +119,7 @@ moyenne. Sauf en cas d'échec critique bien sûr.
   c'est une MR de 3, il lance 2d6 et obtient 10, donc sur la table, à la rangée
   [C] il lit qu'il avance de 1 unité. Jacques fait 8, c'est une MR de 1, il
   lance 2d6 et obtient 7, il avance aussi de 1 unité. Une minute plus tard, ils
-  recommencent. Aknis fait 9 : un échec. Il suis normalement le flot de la
+  recommencent. Aknis fait 9 : un échec. Il suit normalement le flot de la
   circulation. Jacques fait 5, une MR de 4 à laquelle il rajoute 2d6 (résultat:
   8) soit 12 et avance de 2 unités. La distance qui les sépare est passée de 6
   à 4 unités.
@@ -238,12 +238,13 @@ Pour cela on lit la table des dégâts. En colonne, on prend donc la vitesse
 actuelle du véhicule. Puis on lit la ligne correspondant à la vitesse choisie :
 
 :Vitesse économique: Ligne **7 8 9**, la première des lignes bleues, indiquée à
-                     droite par un signe **-**. On va moins vite mais on
+                     droite par un signe **-**. On va moins vite, mais on
                      économise le carburant.
 :Vitesse de croisière: Ligne **10 11**, indiquée par un signe **=** à droite.
                        C'est la vitesse normale.
 :Sur-régime: Ligne **12 13 14**, indiquée par un signe **+** à droite. On va
-             plus vite mais on consomme plus et on risque de casser la machine.
+             plus vite, mais on consomme plus et on risque de casser la
+             machine.
 
 Poursuite
 ^^^^^^^^^
@@ -318,7 +319,7 @@ Travaux pratiques
 Enomias l’elfe monte un cheval de course (1)[E] avec une valeur de course de
 10. Enomias a +1 en Equitation (donc une valeur de **test** total de 11). Au
 détour d’un grand chemin, il aperçoit au loin (distance 12) un orque monté sur
-un loup géant, à quelque distance d’un bois (distance 2). A sa vue, l’orque
+un loup géant, à quelque distance d’un bois (distance 2). À sa vue, l’orque
 s’enfuit et Enomias décide de le poursuivre. Le loup a un déplacement de
 2(1)[C], une valeur de course de 9, et l’orque a +1 en Chevaucher un loup
 (valeur de **test** totale de 10).
@@ -397,9 +398,10 @@ Classes de blindage
 
 Ces classes vont de A à L, et les dégâts que l'on inflige à des structures
 solides ne sont plus des points de vie, mais des points de choc (PC). Les PC de
-classe B sont deux fois plus résistants que ceux de classe A; ceux de classe C
-sont deux fois plus résistants que ceux de classe B, et donc quatre fois plus
-que ceux de classe A; etc. Le tout est résumé dans le tableau ci-dessous.
+classe B sont deux fois plus résistants que ceux de classe A |s| ; ceux de
+classe C sont deux fois plus résistants que ceux de classe B, et donc quatre
+fois plus que ceux de classe A |s| ; etc. Le tout est résumé dans le tableau
+ci-dessous.
 
 .. table::
   :align: center
@@ -463,7 +465,7 @@ Liste des classes d'arme
 :Classe B: Canon (petit calibre)
 :Classe C: Canon moyen calibre)
 :Classe D: Canon (gros calibre)
-:Classe E: Batterie 'artillerie
+:Classe E: Batterie d'artillerie
 :Classe F: Canon blaster
 :Classe G: Missile laser
 :Classe H: Laser de haute puissance
@@ -506,7 +508,7 @@ et combien.
   vaisseau dont les boucliers énergétiques sont de 40 PC\ :supt:`H`. Le
   résultat final du jet de dégâts est 21, ce qui donnerait 8 si la protection
   était de classe G. Mais elle est de classe H, on lit donc le résultat en
-  décalant d'une colonne sur la droite : on ne retire que 4 PCH au vaisseau. A
+  décalant d'une colonne sur la droite : on ne retire que 4 PCH au vaisseau. À
   l'inverse, sur un immeuble de 100 PC\ :supt:`D`, Wilfor aurait infligé 64 PC\
   :supt:`D`, le détruisant à moitié.
 
@@ -547,8 +549,8 @@ niveau requis dans l’Énergie correspondante. On peut dépenser 2PS au lieu d�
  .. class:: darkred
   
   *Exemple :* Pour lancer un pouvoir du **Bien** de niveau 2, il faut avoir au
-  moins 2 dans l’Énergie du **Bien**, et dépenser 2 EP (ou 1 EP et 2PS; ou 4PS
-  mais on risque de s’évanouir).
+  moins 2 dans l’Énergie du **Bien**, et dépenser 2 EP (ou 1 EP et 2PS |s| ; ou
+  4PS, mais on risque de s’évanouir).
 
 Pour les pouvoirs de niveau 0, on dépense 1PS mais il faut quand même avoir
 l’Énergie correspondante au niveau 1. On ne peut pas utiliser de focus. Ces
@@ -562,7 +564,7 @@ Utilisation des autres Energies de base
 
 - Par point de Précision |precision| ou de Puissance |puissance| : on rajoute
   1d6 par point investi au calcul de la marge de réussite (on divise le total
-  des dés, y compris celui initial, par deux et on arrondi à l'entier
+  des dés, y compris celui initial, par deux et on arrondit à l'entier
   supérieur).
 - Par point de Rapidité |rapidite| : on fait faire à l’adversaire autant de
   **tests** supplémentaires de résistance à la magie que de points investis en
@@ -599,8 +601,8 @@ une des deux autres.
 Apprendre les pouvoirs
 ----------------------
 
-Apprendre un pouvoir de niveau 0 coûte 1PA; de niveau 1 : 3PA; de niveau 2 :
-6PA; de niveau 3 : 9PA.
+Apprendre un pouvoir de niveau 0 coûte 1PA |s| ; de niveau 1 : 3PA |s| ; de
+niveau 2 : 6PA |s| ; de niveau 3 : 9PA.
 
 Quand on atteint un nouveau niveau en Energie, on a droit gratuitement à un
 pouvoir de niveau inférieur ou égal au niveau atteint, au choix du joueur.
@@ -673,7 +675,7 @@ Restrictions
 
 Il faut avoir au moins 2 points dans le règne que l’on veut cibler (qui ne peut
 jamais être Mécanique |mecanique|, sauf Inaction. Voir plus loin). Certains
-pouvoirs ne peuvent être utilisé qu’avec les Règnes Animal |animal| et Végétal
+pouvoirs ne peuvent être utilisés qu’avec les Règnes Animal |animal| et Végétal
 |vegetal| et pas Humain |humain| D’autres pouvoirs sont du Règne Minéral
 |mineral|, même s’ils ont pour cible des humains, animaux ou végétaux. Le Règne
 nécessaire est indiqué entre parenthèses quand il n’est pas évident.
@@ -697,7 +699,7 @@ Niveau 1
 :Amitié animale: L’animal ciblé s’approche de vous, se laisse caresser, monter,
                   pendant MR heures. Il aura ensuite un a priori favorable à
                   votre égard.
-:Croissance optimale: (non |humain|) L’animal, le fruit, la plante ciblé aura
+:Croissance optimale: (non |humain|) L’animal, le fruit, la plante ciblée aura
                       pendant les MR mois qui suivent une croissance optimale.
                       C’est-à-dire qu’elle restera naturelle, dans les normes,
                       mais au mieux de ce qui est possible.
@@ -856,10 +858,10 @@ Fonctionnement des pouvoirs psis
 Tous les pouvoirs psis fonctionnent si on réussit un **test** de Composante
 (presque toujours Esprit |esprit|) + Moyen + Règne + Pouvoir psi +
 **difficulté**. Le **test** exact est donné un peu plus loin pour chaque
-pouvoir psi; la **difficulté** variant en fonction d’une règle spéciale (voir
-plus bas). On doit également dépenser autant de points d’équilibre psychique
-(EP) que le niveau d’Énergie psionique requis par le pouvoir (et donc posséder
-un score suffisant dans cette Énergie).
+pouvoir psi |s| ; la **difficulté** variant en fonction d’une règle spéciale
+(voir plus bas). On doit également dépenser autant de points d’équilibre
+psychique (EP) que le niveau d’Énergie psionique requis par le pouvoir (et donc
+posséder un score suffisant dans cette Énergie).
 
 Si le pouvoir fonctionne, la victime a parfois droit à un **test** de
 résistance (c’est précisé dans chaque cas). Enfin, l’effet du pouvoir est géré
@@ -874,7 +876,7 @@ autres **talents**.
 - Avec les règles de base: la **difficulté** est de -4. À chaque **test** où on fait un
   double-|1|, la **difficulté** diminue de +1, jusqu’à un maximum possible de +3.
 
-- Avec les règles de campagne: il n’y a pas de **difficulté** mais on met au
+- Avec les règles de campagne: il n’y a pas de **difficulté**, mais on met au
   départ le **talent** au niveau -4 (ce qui revient au même). À chaque **test**
   du pouvoir où l’on fait un double-|1|, le niveau augmente de 1, jusqu’à un
   maximum possible de +3. Les règles sur les succès critiques s’appliquent,
@@ -1131,9 +1133,9 @@ Réussites et échc critiques
 
    .. class:: darkred
 
-    *Exemple :* Pour deux |6|, il se tord un membre; pour trois |6|, il se
-    casse un bras; pour cinq |6|, il y a un tremblement de terre; pour sept
-    |6|, une météorite s'écrase sur lui, etc.
+    *Exemple :* Pour deux |6|, il se tord un membre |s| ; pour trois |6|, il se
+    casse un bras |s| ; pour cinq |6|, il y a un tremblement de terre |s| ;
+    pour sept |6|, une météorite s'écrase sur lui, etc.
 
 Actions usuelles
 ----------------
@@ -1162,7 +1164,7 @@ utilisé) infligé au perdant.
 
   La Force Bleue frappe sur Super Sauterelle. La Force Bleue a 6 en Corps
   |corps|, 4 en Action |action| et fait 5 réussites. La Sauterelle essaye
-  d'esquiver et fait 2 réussites. Elle perd donc 3PV( ou 3PS : ça dépend si la
+  d'esquiver et fait 2 réussites. Elle perd donc 3PV (ou 3PS : ça dépend si la
   Force Bleue frappe « gentiment » ou « méchamment »).
 
 Mort
@@ -1195,13 +1197,13 @@ que la valeur à atteindre est plus basse que celle du Moyen.
 
   *Exemple :* Super Sauterelle résiste à tous les venins, cela se joue sur
   Corps |corps| (-1)/Résistance |resistance| (-1). Comme son Corps |corps| vaut
-  5, elle lance 4 dés; sa Résistance valant 3, elle fait autant de réussites
-  que de dés inférieurs ou éaux à 2.
+  5, elle lance 4 dés |s| ; sa Résistance valant 3, elle fait autant de
+  réussites que de dés inférieurs ou éaux à 2.
 
 Quelques mini-pouvoirs
 ^^^^^^^^^^^^^^^^^^^^^^
 
-:Résister au chocs: Chute d'un étage, collision avec un véhicule, ...) Corps
+:Résister aux chocs: Chute d'un étage, collision avec un véhicule, ...) Corps
                      |corps| (-1) / Résistance |s| |resistance| |s| (0).
 :Se retenir de respirer: Corps |corps| (-1) / Résistance |s| |resistance| |s| (0), la
                          marge de réussite qui en résulte (voir tableau) donne
@@ -1257,11 +1259,11 @@ Un monde plus gris
 ------------------
 
 Si les inhumains se cachent, c'est surtout parce qu'ils ont compris qu'être des
-surhommes n'est pas suffisant pour lutter contre des armées, des États; ou même
-tout simplement contre une rafale bien ajustée d'arme automatique. De plus, la
-« magie » est singulièrement faible de nos jours. Non pas tant qu'elle ait été
-plus forte au Moyen Âge, mais qu'entreprendre un rituel de deux jours pour
-échanger quelques mots avec un autre magicien à l'autre bout du pays
+surhommes n'est pas suffisant pour lutter contre des armées, des États |s| ; ou
+même tout simplement contre une rafale bien ajustée d'arme automatique. De
+plus, la « magie » est singulièrement faible de nos jours. Non pas tant qu'elle
+ait été plus forte au Moyen Âge, mais qu'entreprendre un rituel de deux jours
+pour échanger quelques mots avec un autre magicien à l'autre bout du pays
 impressionne peu les abonnés du téléphone portable. Heureusement, c'est
 également cette incroyance pour le merveilleux qu’on ne croira jamais celui qui
 affirme que son voisin est un loup-garou. Ce phénomène est si fort que même un
@@ -1274,8 +1276,8 @@ Quelques bases
 Si vous désirez jouer une série de scénarios en donnant à vos joueurs la
 possibilité de jouer des inhumains, voici quelques ajustements généraux à faire
 aux règles de Simulacres. Chaque type d'inhumain sera décrit sous le même
-format: Race, Avantages, Désavantages, Talent inné; tout en sachant que le plus
-grand des désavantages est d'avoir à vivre en cachant sa vraie nature.
+format: Race, Avantages, Désavantages, Talent inné |s| ; tout en sachant que le
+plus grand des désavantages est d'avoir à vivre en cachant sa vraie nature.
 
 La magie
 ^^^^^^^^
@@ -1361,14 +1363,14 @@ Nephilim ou être mythique
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Ces êtres sont les minotaures, les géants, les faunes les êtres de pensée qui
-on disparu de notre terre. En fait, ils sont toujours là, mais ils se cachent
+ont disparu de notre terre. En fait, ils sont toujours là, mais ils se cachent
 sous une apparence plus ou moins humaine. Pour survivre, ils pratiquent souvent
 les sorts de changement d'apparence (être mythiques) ou de transfert d'esprit
 (Nephilim).
 
 :Avantages: Ils peuvent pratiquer la magie sans restriction (comme dans un
             univers médiéval-fantastique, mais elle dépend malgré tout de leur
-            espèce; exemple: un faune utilisera peu la magie du Feu).
+            espèce |s| ; exemple: un faune utilisera peu la magie du Feu).
 :Désavantages: Ils sont extrêmement sensibles à certaines substances (très
                souvent des métaux). Cela peut être le cuivre, l'aluminium,
                l'orichalque, la kryptonite, le pétrole (suivant leur espèce).
@@ -1640,7 +1642,7 @@ Lamies, totems et fantômes
   sait qu’un fantôme peut être «** |s| **tué** |s| **» à coups d’épée, la peur
   qu’il suscite n’est pas plus terrible que celle ressentie face à un gros
   ours. Nous vous proposons ici d’introduire dans vos campagnes la notion
-  d’esprits qui vivent en marge de notre monde et qui cherchent a s’y nourrir
+  d’esprits qui vivent en marge de notre monde et qui cherchent à s’y nourrir
   et parfois même a s’y incarner. Heureusement, vous verrez qu’il n’y a pas que
   des désavantages à cela et quel que soit votre univers (médiéval-fantastique,
   horreur ou pirates) savoir qu’il y a «** |s| **autre chose** |s| **» que le
@@ -1661,14 +1663,14 @@ l'investissent donc et lui donne des capacités visant à lui faire découvrir l
 mort, la haine, l'amour, l'art dans des formes exacerbées.
 
 Le possédé devient alors un « |s| artiste |s| » particulièrement doué dans le
-domaine concerné.  Mais dés que la lamie l'abandonne, ou qu'il ne la nourrit
+domaine concerné.  Mais dès que la lamie l'abandonne, ou qu'il ne la nourrit
 plus, elle se laisse dans un état de manque chronique.
 
 Les esprits-totems
 ^^^^^^^^^^^^^^^^^^
 
 Ces esprits sont souvent liés à des dieux animaux ou païens. L'exemple le plus
-fréquent est fourni par ces tributs d'homme-lions , d'homme-jaguards..., qui
+fréquent est fourni par ces tributs d'homme-lions, d'homme-jaguards..., qui
 passent un pacte avec l'esprit totémique pour bénéficier de sa protection.
 
 Evidemment, ce lien se paye aussi, et plus le totem est primitif, plus le mode
@@ -1696,7 +1698,7 @@ Attirer leur attention
     Les lamies étant voraces de sensations, elles auront tendance à aller
     d'elles-mêmes vers les sujets qu'elles sentent prometteurs. Mais des
     manifestations excessives, comme des orgies, des happenings artistiques,
-    peuvent les attirer. Elles entrerons alors en contact avec le futur possédé
+    peuvent les attirer. Elles entreront alors en contact avec le futur possédé
     par le biais d'un rêve, lui promettant ce qu'il désire (célébrité,
     richesse, amour...) s'il se laisse investir. Comme les vampires de la
     légende une lamie ne peut posséder un humain de cette manière que si
@@ -1717,9 +1719,9 @@ Esprits-totems
 
 Invocation temporaire
     Les tributs sauvages connaissent les chants et les danses qui appellent les
-    esprits totems, dieux ou loas (pour les vaudou).
+    esprits totems, dieux ou loas (pour les vaudous).
 
-    L'attention de l'esprit en question capté par le chant, et investit le
+    L'attention de l'esprit en question est captée par le chant, et investit le
     corps du prêtre ou du guerrier qui l'invoque. Son action dépend de sa
     nature (l'esprit-lion donnera force et rapidité, le lao des carrefours
     fournira des conseils avisés).
@@ -1728,12 +1730,12 @@ Invocation temporaire
     l'humain et le laisse à bout de souffle.
 Lien définitif
     Un humain peut vouloir se lier définitivement à un esprit-totem. Cela
-    nécessite généralement une cérémonie, au cours de laquelle on tatou les
+    nécessite généralement une cérémonie, au cours de laquelle on tatoue les
     symboles du totem sur son corps (les scarifications sont également très
     efficaces). L'humain acquerra définitivement certains pouvoirs de son
     totem, mais de façon moins forte que par une invocation temporaire. Ce
     genre de lien est souvent pratiqué lors de la cérémonie initiatique qui
-    marque le passage à l'age adulte.
+    marque le passage à l'âge adulte.
 
 Fantômes
 ^^^^^^^^
@@ -1746,12 +1748,12 @@ Mauvais endroit
     veut dire hanté par une nuée de fantômes).
 Envoûtement
     Les sorciers peuvent obliger des fantômes à posséder des humains. Pour un
-    envoûtement classique, il faut qu'il possède une « |s| relique |s| » c'est
-    à dire une composante organique de la cible à envoûter. (ongle, cheveux,
-    sang ...).  Sinon il existe se que le vaudou appelle « |s| l'envoi de morts
-    |s| », qui consiste à préparer un piège avec de la terre provenant d'un
-    cimetière. La personne qui touchera ou tombera dans ce piège sera alors
-    infestée de fantômes.
+    envoûtement classique, il faut qu'il possède une « |s| relique |s| »
+    c'est-à-dire une composante organique de la cible à envoûter. (ongle,
+    cheveux, sang ...).  Sinon il existe ce que le vaudou appelle « |s| l'envoi
+    de morts |s| », qui consiste à préparer un piège avec de la terre provenant
+    d'un cimetière. La personne qui touchera ou tombera dans ce piège sera
+    alors infestée de fantômes.
 
 Les avantages
 -------------
@@ -1880,12 +1882,12 @@ deux cas dans lesquels cette protection ne sert à rien |s| :
 S’en débarrasser
 ----------------
 
-Quels que soient les civilisations, les univers ou les religions, la notion
+Quelles que soient les civilisations, les univers ou les religions, la notion
 d’exorcisme existe partout, car la volonté de se débarrasser des esprits est
 universelle. Quoi que vous choisissiez comme méthode (à vous de l’inventer),
 elle doit être difficile et longue à mettre en œuvre. D’autant que plus la
 possession est volontaire (lamies et totems), plus l’esprit est difficilement
-délogeable. A noter qu’après son départ, le réceptacle perdra tous les
+délogeable. À noter qu’après son départ, le réceptacle perdra tous les
 bénéfices de la possession, tout en restant souvent psychiquement affecté par
 l’aventure.
 
@@ -1909,7 +1911,7 @@ l’aventure.
   - Usage double des Energies (un point d'Energie donne deux points de bonus au
     lieu d'un) |s| ;
   - Augmentation temporaire d'un point de vie ou de souffle |s| ;
-  - Insensibilité aux agressions physique (feu, froid) |s| ;
+  - Insensibilité aux agressions physiques (feu, froid) |s| ;
   - Don de voyage |s| ;
   - Usage ou augmentation des pouvoirs magiques ...
 
@@ -1924,4 +1926,4 @@ l’aventure.
   En cas d'infection de fantômes, 1 EP est perdu temporairement. Il est
   récupéré quand la possession s'achève. Par conte, chaque épreuve pénible
   psychiquement, qui serait affrontée normalement avec un léger stress, est
-  susceptible de faire perdre un points d'Equilibre Psychique.
+  susceptible de faire perdre un point d'Equilibre Psychique.
