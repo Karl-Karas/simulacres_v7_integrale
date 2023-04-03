@@ -77,7 +77,7 @@ Description :
 Niveau 2
 --------
 
-:bred:`Contrôler les mort-vivants`
+:bred:`Contrôler les morts-vivants`
 
 Formule :
     |esprit| + |action| + |neant|
@@ -92,7 +92,7 @@ Résistance :
 Magie noire :
     oui
 Échec :
-    les mort-vivants attaquent en priorité le magicien
+    les morts-vivants attaquent en priorité le magicien
 Magie H. :
     oui
 Apprentissage :
@@ -102,8 +102,8 @@ Lancer :
 Niveau H. :
     3
 Description :
-    Ce sort permet de contrôler MR mort-vivants présents dans la zone d'effet
-    quand le magicien lance le sortilège. Les mort-vivants qui quittent la zone
+    Ce sort permet de contrôler MR morts-vivants présents dans la zone d'effet
+    quand le magicien lance le sortilège. Les morts-vivants qui quittent la zone
     de contrôle continuent à suivre le dernier ordre qu'on leur a donné.
 
 :bred:`Créer une goule`
@@ -233,10 +233,10 @@ Description :
     peut d'ailleurs se suicider s'il le désire), il revient à la « vie » au
     bout de 4 minutes, sous forme de mort-vivant. Il gagne tous les avantages
     et tous les inconvénients d'être un mort-vivant matériel (voir Bestiaire p.
-    :pageref:`les-mort-vivants`). Il perd tous ses points de souffle et les
+    :pageref:`les-morts-vivants`). Il perd tous ses points de souffle et les
     rajoute à son total de points de « vie ». Il garde toutes les capacités
     magiques qu'il avait durant sa vie, et gagne 1 point de bonus dans le sort
-    Contrôler les mort-vivants.  Par contre, il ne conserve plus que les
+    Contrôler les morts-vivants.  Par contre, il ne conserve plus que les
     sortilèges de magie noire et perd tous les autres.
 
 ----
