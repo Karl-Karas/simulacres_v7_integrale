@@ -16,7 +16,7 @@ La magie
 
     **Par essence, la magie est en opposition avec la science.  Bien sûr, toute
     science suffisamment avancée peut être prise pour de la magie par des
-    sociétés primitives. A l’inverse, on peut considérer que la magie est un
+    sociétés primitives. À l’inverse, on peut considérer que la magie est un
     ensemble de techniques, théories et méthodes nées de manière empirique ou
     raisonnée. Cet aspect technique de la magie est encore plus accentué par
     l’existence dans les légendes de grimoires, ces sortes de manuels de
@@ -245,13 +245,13 @@ Un sortilège est défini par les paramètres suivants :
                 est indiquée comme étant instantanée. Cela signifie que le
                 sort a un effet immédiat et permanent.
 :Effet du sort: C’est la description de l’effet du sortilège.  S’il faut
-                quantifier cet effet (pour un boule de feu par exemple), il
+                quantifier cet effet (pour une boule de feu par exemple), il
                 sera toujours proportionnel à la marge de réussite ou calculé
                 suivant la table des dégâts. *Exemple :* un sort de Charme de
                 foule peut charmer MR personnes.  Tandis qu’un sort d’Éclair
-                peut faire [D] dégâts à sa cible; on ajoute alors 2d6 à la MR
-                pour connaître les dégâts, comme dans un combat avec une arme
-                normale.
+                peut faire [D] dégâts à sa cible |s| ; on ajoute alors 2d6 à la
+                MR pour connaître les dégâts, comme dans un combat avec une
+                arme normale.
 :Portée: Certains sortilèges ne s’utilisent que jusqu’à une certaine distance
           ou sur une surface précise donnée.  Si c’est le cas, c’est indiqué
           dans cette rubrique. Il existe également deux types de portée bien
@@ -381,10 +381,10 @@ Un sortilège est considéré comme un **talent**, à l’exception près que l�
 peut pas l’augmenter avec les points d’aventure, mais tout simplement en le
 pratiquant. Ainsi, à sa création, un sortilège est considéré comme un
 **talent** au niveau -4. Ensuite, on note toutes les fois où on l’utilise avec
-succès, et on augmente sa valeur avec le barème suivant : -4 pour les 4
-premières utilisations ; -3 pour les trois suivantes ; -2 pour les 2
-utilisations suivantes; -1 pour la suivante; 0 pour les dix suivantes ; +1 pour
-les 10 suivantes ; +2 au delà.
+succès, et on augmente sa valeur avec le barème suivant |s| : -4 pour les 4
+premières utilisations |s| ; -3 pour les trois suivantes |s| ; -2 pour les 2
+utilisations suivantes |s| ; -1 pour la suivante |s| ; 0 pour les dix suivantes
+|s| ; +1 pour les 10 suivantes |s| ; +2 au-delà.
 
  .. class:: darkred
 
@@ -504,7 +504,7 @@ Focus
 
 C’est un objet magique qui emmagasine des points de magie (PM) et permet au
 magicien de dépenser ceux de cette réserve plutôt que les siens propres. Un
-focus peut avoir n’importe quels forme et aspect. En tant que meneur de jeu,
+focus peut avoir n’importe quelle forme et aspect. En tant que meneur de jeu,
 vous pourrez ainsi récompenser vos joueurs magiciens en leur faisant trouver
 des focus au cours de leurs aventures.
 
@@ -756,7 +756,7 @@ Une relique est un focus religieux qui se recharge quand des fidèles prient
 devant lui, ou pensent à lui. Il gagne 1 PM par 100 personnes qui prient devant
 lui (une même personne peut prier plusieurs fois, mais à chaque fois pour un
 nouveau PM, pas pour le même).  Une relique peut aussi se charger, une fois par
-jour, de 1 PM par 10 000 personnes qui prient avec ferveur pour elle, mais à
+jour, de 1 PM par 10 |s| 000 personnes qui prient avec ferveur pour elle, mais à
 distance.  Une relique contient entre 2 et 100 PM (en moyenne 5 à 12 PM).
 
 Une relique ne peut pas être utilisée comme focus par des prêtres d’une
@@ -1088,11 +1088,11 @@ visité à un moment favorable).
 
 À l’opposé, la présence de la civilisation et surtout des industries
 métallurgiques a tendance à faire disparaître la magie. Les malus dus à cette
-présence vont de -1 (Europe paysanne du XVIIe siècle) à -4 (ville moderne).
-Comme la présence d’acier proche peut de la même manière empêcher un sortilège
-d’agir, on comprendra que la magie ait quasiment disparu du monde moderne, mais
-qu’elle puisse continuer à exister dans des régions particulièrement sauvages
-(les centres de l’Amazonie, de l’Australie).
+présence vont de -1 (Europe paysanne du XVII\ :supt:`e` siècle) à -4 (ville
+moderne).  Comme la présence d’acier proche peut de la même manière empêcher un
+sortilège d’agir, on comprendra que la magie ait quasiment disparu du monde
+moderne, mais qu’elle puisse continuer à exister dans des régions
+particulièrement sauvages (les centres de l’Amazonie, de l’Australie).
 
 Si l’eau salée a également une importance dans la magie, c’est parce qu’elle
 est très proche de la composition du sang humain (même taux de salinité). Et la
@@ -1172,7 +1172,7 @@ magiciens, même s’ils possèdent des pouvoirs proches des pouvoirs magiques.
 On suppose que leur origine est la conséquence des pluies toxiques. Dans
 n’importe quelle famille peut naître un enfant qui aura ce regard étrange
 (très bleu et clair) qu’ont les Illuminés. Cette proportion est néanmoins
-infime (un cas sur 10 000).
+infime (un cas sur 10 |s| 000).
 
 Les pouvoirs des Illuminés sont impressionnants et se rapprochent de ce que
 l’on nomme des pouvoirs psioniques dans d’autres univers. La plupart du temps,
@@ -1209,7 +1209,7 @@ trop longtemps à la Pure Magie.
 
 Tous les 100PM extraits par un magicien, il fait un jet sur 2d6. Si le résultat
 est strictement inférieur à (compteur de malemagite)/100, alors le magicien
-tombe malade. Sa peau devient bleu grise, il tombe à une valeur de 2 pour le
+tombe malade. Sa peau devient bleu-gris, il tombe à une valeur de 2 pour le
 Corps |corps| et de 1 pour la Résistance |resistance| (les pertes se produisent
 au rythme de 1 pt par mois) mais gagne en contrepartie 1EP à son maximum
 d’équilibre psychique. Son état reste stable ensuite.
@@ -1224,7 +1224,8 @@ Magie des Sphères
 -----------------
 
 Les Sphères peuvent avoir une influence sur la magie en fonction de leur
-passage dans le ciel. Ces influences sont détaillés dans l’univers de Malienda.
+passage dans le ciel. Ces influences sont détaillées dans l’univers de
+Malienda.
 
 Par contre, ce que ne sait quasiment personne sur Malienda, c’est que les
 Sphères sont de gigantesques focus, qui se rechargent constamment (puisque les
@@ -1290,7 +1291,7 @@ magie des Sphères vont de 100 à 1000 PM, ce qui est considérable.
 
     *Exemple :* Garthus a appris le sortilège Faire pleurer en dépensant 5PA.
     Il le lance en dépensant 1 EP (ou 2 PS) et jette 1d6. Il obtient 5, ce qui
-    donne une marge de réussite de 3 (5/2= 2,5 arrondi à 3).
+    donne une marge de réussite de 3 (5/2= 2,5 arrondis à 3).
 
   |s|
 
