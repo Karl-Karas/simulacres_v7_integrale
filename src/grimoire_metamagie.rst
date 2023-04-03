@@ -260,7 +260,7 @@ Description :
     sont au maximum de MR, elles sont déterminées par ordre de proximité par
     rapport à la cible principale du magicien. De plus, aucune des cibles ne
     peut être à plus de 12 mètres de la précédente. Si le second sort échoue,
-    les conséquences de l'échecs sont multipliées.
+    les conséquences de l'échec sont multipliées.
 
 :bred:`Déplacer la magie`
 

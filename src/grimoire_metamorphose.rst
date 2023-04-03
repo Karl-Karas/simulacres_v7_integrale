@@ -3,7 +3,7 @@ Métamorphose
 ============
 
 Les métamorphes sont plus souvent des créatures qui ont des pouvoirs de
-métamorphose que des magiciens, qui généralement considèrent cette voie omme
+métamorphose que des magiciens, qui généralement considèrent cette voie comme
 trop primaire, pas assez intellectuelle.
 
 Niveau 1

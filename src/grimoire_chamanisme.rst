@@ -90,7 +90,7 @@ Description :
     minimum à purifier son corps et son esprit, et doit s'être nourri de la
     même façon que son totem dans la semaine écoulée. Dès que le chaman la
     touche, la personne est liée au totem. Cela veut dire que tous les animaux
-    membres du totem deviendront amicales, prêts à rendre service quand ils
+    membres du totem deviendront amicaux, prêts à rendre service quand ils
     croiseront la personne liée. Par contre, à chaque fois que cette personne
     laissera un de ces animaux en danger ou sans protection, alors qu'elle
     pourrait le faire, elle gagnera de la magie noire. Il lui sera impossible
@@ -122,7 +122,7 @@ Description :
     ressentir à ce moment. Il peut passer en 1 minute d'un animal à un autre,
     mais ne peut « voir » à travers deux animaux à la fois. Les animaux ainsi
     visités sentent la présence du chaman et sont capables de changer de
-    position pour que le chaman voit ce qu'il désire.
+    position pour que le chaman voie ce qu'il désire.
 
 ----
 
@@ -185,7 +185,6 @@ Description :
     des guérisons, etc.), pendant un temps qui est au maximum de MR heures
     (mais qui peut être plus court). Une fois l'esprit parti, le chaman perd
     des PS et des EP jusqu'à se retrouver à 1 point dans chaque.
-
 
 ----
 

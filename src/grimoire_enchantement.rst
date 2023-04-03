@@ -5,7 +5,7 @@ Enchantement
 Les enchanteurs sont considérés comme les plus puissants ou les plus
 techniciens des magiciens, même s’ils ne sont pas aptes à combattre par
 eux-mêmes. C’est en effet vers eux que l’on se tourne quand on n’est pas
-magicien mais que l’on veut quand même pouvoir utiliser la magie, fusse à
+magicien mais que l’on veut quand même pouvoir utiliser la magie, fût-ce à
 travers un objet. Il est fortement conseillé, même si vous ne tenez pas compte
 pour les autres listes des conséquences des échecs des sortilèges, de les
 appliquer pour les enchantements de niveau 2 et 3. À moins que vous ne décidiez
@@ -157,13 +157,13 @@ Description :
     la manie est augmenté d'autant). Si on précise une condition concernant les
     créatures contre lesquelles l'arme est efficace on rajoute le score suivant
     à la MR : une espèce (humanoïdes, félins, dragons...) +2, une race (Elfes,
-    chats persans, dragons rouges...) +4, un soustype de race ou un type précis
-    de comportement magique (Elfes aux yeux verts, nécromanciens...) +6. En
-    contrepartie, l'arme ne sera plus efficace que contre les créatures
+    chats persans, dragons rouges...) +4, un sous-type de race ou un type
+    précis de comportement magique (Elfes aux yeux verts, nécromanciens...) +6.
+    En contrepartie, l'arme ne sera plus efficace que contre les créatures
     désignées. Si on lance ce sort sur une armure, on procède de la même
     manière, mais le bonus sera de [D] et s'applique sur l'absorption et non
-    pas sur la protection (sur de « a » du d/g/a de l'armure, et pas sur le
-    «d»).
+    pas sur la protection (sur de « |s| a |s| » du d/g/a de l'armure, et pas
+    sur le « |s| d |s| »).
 
 :bred:`Commande de sort`
 
@@ -387,7 +387,7 @@ Niveau H. :
     3
 Description :
     L'objet en acier ou en fer ainsi enchanté a toutes les caractéristiques
-    d'un objet « enchanté » (c'est-àdire l'efficacité contre les êtres
+    d'un objet « enchanté » (c'est-à-dire l'efficacité contre les êtres
     magiques) mais perd également toutes les restrictions magiques de stockage
     de sort, de résistance magique, d'impossibilité, etc., qu'ont le fer et
     l'acier par rapport aux autres métaux. On peut donc lier une épée d'acier

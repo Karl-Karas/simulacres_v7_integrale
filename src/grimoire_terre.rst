@@ -571,9 +571,9 @@ Niveau H. :
     3
 Description :
     La victime (vivante) est transformée en un tas de poussière équivalent à
-    environ 1/100 e de son poids. Si on lance le même sort sur ce tas de
-    poussière, il redevient la créature qu'il était auparavant, quel que soit
-    le temps écoulé entre les deux opérations. Par contre, il ne doit pas
+    environ 1/100\ :supt:`e` de son poids. Si on lance le même sort sur ce tas
+    de poussière, il redevient la créature qu'il était auparavant, quel que
+    soit le temps écoulé entre les deux opérations. Par contre, il ne doit pas
     manquer plus de 10 grammes de la poussière pour que la reconstitution ait
     lieu.
 

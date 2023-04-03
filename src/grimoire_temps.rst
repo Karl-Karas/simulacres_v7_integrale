@@ -99,14 +99,14 @@ Description :
     Toutes les actions ou mouvements de la cible du sort se déroulent comme au
     ralenti (un sauteur restera plus longtemps en l'air). À l'inverse,
     l'individu sujet du sort voit le monde s'accélérer autour de lui.
-    C'està-dire que tous ses mouvements ou actions prennent [D] unités de temps
-    supplémentaires. L'unité de temps dépend de la concentration : pour 1 passe
-    d'armes, un combattant ne frappera que tous les [D]+1 passes d'armes. Pour
-    1 heure, une voie d'eau qui déverse 10 m3 par heure ne les déversera plus
-    qu'en [D]+1 heures. De même pour l'effet d'un poison ou d'une blessure sur
-    un individu « ralenti » (seul cas où le sort n'est pas de la magie noire).
-    S'il ne s'agit pas d'une créature le magicien décide de la zone touchée
-    dans l'aire de portée du sort.
+    C'est-à-dire que tous ses mouvements ou actions prennent [D] unités de
+    temps supplémentaires. L'unité de temps dépend de la concentration : pour 1
+    passe d'armes, un combattant ne frappera que tous les [D]+1 passes d'armes.
+    Pour 1 heure, une voie d'eau qui déverse 10 m3 par heure ne les déversera
+    plus qu'en [D]+1 heures. De même pour l'effet d'un poison ou d'une blessure
+    sur un individu « ralenti » (seul cas où le sort n'est pas de la magie
+    noire).  S'il ne s'agit pas d'une créature le magicien décide de la zone
+    touchée dans l'aire de portée du sort.
 
 ----
 
@@ -230,7 +230,7 @@ Lancer :
 Niveau H. :
     3
 Description :
-    La personne touchée tombe comme en catalepsie, son corps se refroidi, les
+    La personne touchée tombe comme en catalepsie, son corps se refroidit, les
     battements de cœur deviennent imperceptibles. Mis à l'abri, elle peut
     rester dans cet état MR mois, et tout poison ou blessure reste presque au
     même stade (équivalent d'une passe d'armes par mois). Le magicien qui a
@@ -295,7 +295,7 @@ Description :
 :bred:`Permanence`
 
 Description :
-    Identique à celui la liste Enchantement.
+    Identique à celui de la liste Enchantement.
     
 :bred:`Rajeunissement`
 

@@ -3,8 +3,8 @@ Charme
 ======
 
 Les magiciens qui utilisent cette Énergie sont parfois appelés illusionnistes,
-sorciers, enchanteurs, mais le terme qui les désignent le plus justement c’est
-ensorceleurs
+sorciers, enchanteurs, mais le terme qui les désigne le plus justement c’est
+ensorceleurs.
 
 Niveau 1
 --------
@@ -162,9 +162,9 @@ Niveau H. :
     2
 Description :
     La victime tombe en état d'hypnose. Le magicien peut lui poser des
-    questions : si la victime ignore la réponse et qu'on insiste, elle
+    questions |s| : si la victime ignore la réponse et qu'on insiste, elle
     inventera des détails en toute bonne foi, et s'en souviendra comme de faits
-    réels pas la suite. Le magicien peut également lui suggérer un
+    réels par la suite. Le magicien peut également lui suggérer un
     comportement, maintenant ou après son réveil, tant que ce comportement
     n'est pas en opposition avec ses convictions profondes. Il peut aussi la
     rendre insensible à une douleur précise. Si le magicien ne provoque pas le

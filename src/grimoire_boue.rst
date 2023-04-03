@@ -405,7 +405,7 @@ Description :
     personnalité), complètement autonome (comme les jumeaux). Il est nécessaire
     de disposer du même volume de boue que le volume de l'être que l'on veut
     cloner. Le clone vit MR années (à la fin desquelles il redevient boue). Le
-    magicien ne peut pas se cloner luimême.
+    magicien ne peut pas se cloner lui-même.
 
 :bred:`Création d'un golem`
 

@@ -68,7 +68,7 @@ Niveau H. :
     1
 Description :
     Tout ce qui est en fer ou en acier (sauf armes enchantées), dans une sphère
-    de 12 m (portée du sort) autour du magicien s'échauffe violemment, de 10° C
+    de 12 m (portée du sort) autour du magicien s'échauffe violemment, de 10°C
     par passe d'armes, jusqu'à ce que le métal soit porté au rouge.
 
 :bred:`Recouvrir de métal`
@@ -221,7 +221,7 @@ Niveau H. :
 Description :
     Tout ce qui est en métal (sauf armes enchantées, fer et acier), dans une
     sphère de 12 m (portée du sort) autour du magicien, s'échauffe violemment,
-    de 5° C par passe d'armes, jusqu'à ce que le métal soit porté au rouge.
+    de 5°C par passe d'armes, jusqu'à ce que le métal soit porté au rouge.
 
 :bred:`Métal souple`
 

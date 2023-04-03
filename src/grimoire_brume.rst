@@ -378,7 +378,7 @@ Description :
     et du type d'événement qui vont déclencher l'illusion. Puis il imagine la
     scène illusoire, qui peut durer MR minutes et comporter MR éléments
     distincts (voir Envoyer un rêve). Par contre, cette scène peut être hors de
-    la zone où agit le sort (ex : illusion lancée sur une pièce d'un dragon
+    la zone où agit le sort (ex. : illusion lancée sur une pièce d'un dragon
     passant dans le ciel). Si le magicien veut que l'illusion puisse se
     déclencher plusieurs fois, il doit diviser d'autant la durée de la scène.
     Une scène unique et immobile peut se répéter tant que dure le sort.

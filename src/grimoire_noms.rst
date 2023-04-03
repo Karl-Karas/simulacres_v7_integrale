@@ -204,7 +204,7 @@ Description :
     corps (bout d'écorce, rognure d'ongle...), ou qu'il possède une page
     complète de son écriture. Il dépense 5 points d'aventure pour chaque
     nouveau Nom d'individu appris. Noms d'individus typiques : Gadar, le Sapin
-    du noël 82 de ma tante Ursule, Clarence le Lion, la Cuvée Beaujolais 87.
+    du Noël 82 de ma tante Ursule, Clarence le Lion, la Cuvée Beaujolais 87.
 
 :bred:`Apprendre un Verbe de Création/Destruction`
 
@@ -225,7 +225,7 @@ Magie noire :
 Magie H. :
     impossible
 Description :
-    Ce sortilège est presque le même que pour le Verbe simples. On dépense 5
+    Ce sortilège est presque le même que pour le Verbe simple. On dépense 5
     points d'aventure pour chaque nouveau Verbe appris. Les Verbes de
     Création/Destruction peuvent être permanents. Verbes typiques : Stocker
     magie (dans un focus), Rendre permanent, Envoûter, Invoquer...

@@ -40,24 +40,24 @@ si le meneur de jeu devait à chaque fois calculer leurs actions. Une créature
 est décrite avec les données suivantes (dont certaines peuvent ne pas
 apparaître sur certaines fiches) |s| :
 
-Test de Combat
+Test de Combat :
     C’est une valeur (variant entre 3 et 15, généralement inférieure à 12) qui
     indique le score à réaliser pour toucher l'adversaire dans le type de
     combat pratiqué par la créature. Si cette valeur peut dépasser 12, c'est
     que certaines créatures sont bien meilleures combattantes que l'homme
     normal.
 
-Test de Perception
+Test de Perception :
     C'est une valeur (variant entre 3 et 15, généralement inférieure à 12) qui
     indique le score à réaliser pour que la créature remarque une présence,
     suive une piste, comprenne une situation (selon sa propre intelligence bien
     sûr).
 
-Points de vie et de souffle
+Points de vie et de souffle :
     Ils sont gérés comme ceux des personnages. Mais leur maximum peut être très
     élevé : un éléphant a bien plus de PV qu’un humain (environ 10).
 
-Points d'énergie
+Points d'énergie :
     Les créatures n'ont pas de points d'équilibre psychique (on suppose
     qu'elles ne pensent pas de la même manière que les êtres humains) mais
     elles peuvent utiliser des Énergies et avoir des points en réserve.
@@ -66,7 +66,7 @@ Puissance |puissance|, Rapidité |rapidite|, Précision |precision| :
     Les créatures utilisent les Énergies de la même manière que les
     personnages. Ne sont indiquées que les valeurs différentes de 0.
 
-Armure
+Armure :
     L'armure des créatures est gérée de la façon indiquée dans les règles de
     base (voir pages :pageref:`armure-base`).  Elle est divisée en trois
     scores, **d/g/a**, qui représentent: la difficulté pour l'adversaire à
@@ -76,11 +76,11 @@ Armure
     absorption n’est pas «magique» mais représente en général l'épaisseur de la
     peau de la créature).
 
-Type de dégâts
+Type de dégâts :
     Ce sont les dégâts infligés par la créature quand elle réussit à toucher
     son adversaire.
 
-Résistance à la magie
+Résistance à la magie :
     Dans un univers médiéval-fantastique, il est courant que l'on essaye de
     lancer des sortilèges sur les créatures. Certains de ces sortilèges (en
     général ceux qui agissent sur l'esprit) peuvent être annulés si la créature
@@ -89,12 +89,12 @@ Résistance à la magie
     n'est indiqué, la valeur du **test** de la créature est de 6 (comme un PMJ
     faible, voir page :pageref:`pmj-faible`).
 
-Test de déplacement et Déplacement
+Test de déplacement et Déplacement :
     Les caractéristiques de déplacement des créatures sont données ici pour
     correspondre aux règles de poursuite avancées, qui sont décrites en détail
     à la page :pageref:`regles-deplacements-avancees`.
 
-Données optionnelles
+Données optionnelles :
     On peut également indiquer quel est l'habitat de la créature, si elle est
     commune ou rare, et tout autre point de règle spécifique.
 
@@ -1207,13 +1207,13 @@ Description :
 
 ----
 
-Les mort-vivants
-----------------
+Les morts-vivants
+-----------------
 
-Les mort-vivants sont les corps animés de personnes ou de créatures qui ne sont
+Les morts-vivants sont les corps animés de personnes ou de créatures qui ne sont
 plus ni tout à fait mortes ni tout à fait vivantes. En général, leur état est
 dû à l'action d'un démon, d'un nécromancien, donc d'une action magique. On ne
-peut pas « |s| tuer |s| » les mort-vivants mais on peut les détruire. Îls ont
+peut pas « |s| tuer |s| » les morts-vivants mais on peut les détruire. Ils ont
 quelques points communs avec les démons |s| :
 
 - Il existe des cercles de protection (voir liste de Protection, page
@@ -1222,16 +1222,16 @@ quelques points communs avec les démons |s| :
   psychiques ou magiques, mais n'ont pas de points de souffle. Elles ne peuvent
   être assommées.
 - Les prêtres et les personnes qui ont une foi sincère peuvent repousser les
-  mort-vivants par leur seule volonté. En terme de jeu, il faut réussir un
+  morts-vivants par leur seule volonté. En terme de jeu, il faut réussir un
   **test** Cœur |coeur| + Désir |desir| + Humain |humain| (une seule
   tentative), que l'on nommera **test de Foi**, en indiquant clairement ce que
   l'on tente de faire. Cela ne détruit pas le mort-vivant, mais cela le fait
   reculer, hésiter, éviter d'aller au contact du prêtre et même parfois fuir.
 
-À part pour les mort-vivants immatériels (comme les fantômes ou les spectres),
+À part pour les morts-vivants immatériels (comme les fantômes ou les spectres),
 il ne faut pas une arme magique pour réussir à les toucher. Leur résistance à
 la magie est normale (valeur de 6) à une exception près |s| : les sortilèges
-qui affectent l'esprit n'ont aucun effet sur les mort-vivants. Ainsi, les sorts
+qui affectent l'esprit n'ont aucun effet sur les morts-vivants. Ainsi, les sorts
 de Peur, Sommeil, Lire les pensées, etc., ne fonctionnent jamais sur eux.
 
 Squelette
@@ -1252,7 +1252,7 @@ Test de course :
 Déplacement :
     1 (1) [B]
 Résistance à la magie :
-    voir Mort-vivants
+    voir Morts-vivants
 Description :
     Les squelettes sont les membres les plus faibles mais aussi les plus
     nombreux des armées des nécromanciens.  Ils sont lents et malhabiles. Leur
@@ -1280,7 +1280,7 @@ Test de course :
 Déplacement :
     1 (1) [B]
 Résistance à la magie :
-    voir Mort-vivants.
+    voir Morts-vivants.
 Description :
     Les zombies sont des cadavres animés, se mouvant très lentement. Leur seule
     force est leur grande capacité d'absorption des coups. Il faut vraiment
@@ -1304,10 +1304,10 @@ Test de course :
 Déplacement :
     1 (1) [B]
 Résistance à la magie :
-    voir Mort-vivants
+    voir Morts-vivants
 Description :
     Les goules ne sont pas des adversaires très puissants mais ce sont les
-    premiers mort-vivants à avoir un semblant de réflexion. Si une goule touche
+    premiers morts-vivants à avoir un semblant de réflexion. Si une goule touche
     quelqu'un, cette personne doit faire un **test** de Résistance à la magie
     ou être paralysée pour la passe d'armes suivante.
 
@@ -1332,9 +1332,9 @@ Test de course :
 Déplacement terrestre :
     1 (1) [B]
 Résistance à la magie :
-    10, et voir également Mort-vivants
+    10, et voir également Morts-vivants
 Description :
-    Le vampire est l'un des plus redoutables mort-vivants.  S'il tue quelqu'un
+    Le vampire est l'un des plus redoutables morts-vivants.  S'il tue quelqu'un
     en lui suçant le sang, il le transforme en goule. Tous les points de vie
     qu'il vole en suçant le sang sont rajoutés à son total de points de vie,
     mais seulement pour 48 heures. C'est le seul mort-vivant matériel qui soit
@@ -1361,7 +1361,7 @@ Test de course :
 Déplacement :
     - (-) [E]
 Résistance à la magie :
-    voir Mort-vivants
+    voir Morts-vivants
 Description
     Il existe quantité de fantômes différents. Leurs points communs sont d'être
     impalpables et que seules les armes capables de toucher les démons peuvent
@@ -1417,7 +1417,7 @@ Description :
     [D]PS).
 
     Il peut, jusqu'à trois fois par jour, exhaler un souffle puissant et
-    fétide, d'un gaz extrémement acide et corrosif, de couleur rouge, à une
+    fétide, d'un gaz extrêmement acide et corrosif, de couleur rouge, à une
     distance efficace de 24m (largeur de 2m, [D]PV et [D]PS).
 
     Certains dragons (1 sur 100) possèdent des Énergies magiques d'Air, de
@@ -1451,7 +1451,7 @@ Déplacement :
     8 (4) [E]
 Description :
     Les dragons terrestres ressemblent à de grands lézards, assez trapus,
-    parfois à des tyrannosaures, Îls sont un peu plus nombreux (1 sur 30) à
+    parfois à des tyrannosaures. Ils sont un peu plus nombreux (1 sur 30) à
     posséder des capacités magiques, et parfois même de façon puissante
     (jusqu'au niveau 3). Ces dragons dorment souvent au fond de grandes
     cavernes, mais un sixième sens (**test** de Perception |perception| réussi)
@@ -1527,7 +1527,7 @@ personnages-joueurs ou Intervenants |s| :
   l'Elfe s'éloigne pendant plus d'un mois d’une grande forêt, et ne lui revient
   qu’en séjournant six mois dans une forêt.
 - Un Elfe qui n'a jamais quitté sa forêt natale ne vieillit qu'au rythme de 1
-  jour pour 1 mois. Ce pouvoir disparait à jamais dès qu'il passe plus de 24
+  jour pour 1 mois. Ce pouvoir disparaît à jamais dès qu'il passe plus de 24
   heures en dehors de sa forêt. Cela a parfois fait croire que le temps passait
   plus lentement dans les pays elfes, ce qui est faux.
 - Un Elfe peut augmenter son Énergie magique en Brume et Électricité sans être
@@ -1647,7 +1647,7 @@ Déplacement :
     1 (1) [B]
 Description :
     Repoussants tant par leur aspect que par leur odeur, les Orques se divisent
-    en deux espèces, La première se caractérise par une peau verdâtre, de
+    en deux espèces. La première se caractérise par une peau verdâtre, de
     petits yeux porcins, un énorme groin et une mâchoire portant de minuscules
     défenses. La seconde est velue, de couleur noirâtre, avec les canines du
     bas proéminentes. Couards, ils ne combattent qu'en bande et fuient dès
@@ -1829,7 +1829,7 @@ Description:
     Les araignées géantes ne sont pas si grandes qu'on l'imagine, puisque
     qu'elles ont en général la taille d'un chat. Mais on en trouve également
     d'aussi grosses qu'un chien. Plus grandes, elles ne sont plus géantes mais
-    « |s| monstrueuses |s| ». Ces araignées ne font pas de dégâts de part leurs
+    « |s| monstrueuses |s| ». Ces araignées ne font pas de dégâts de par leurs
     mandibules mais à cause du poison. La virulence varie de 0 à 6 (c'est la
     difficulté que l'on affecte au **test** de Résistance au poison) et les
     dégâts vont d'un simple Malaise (1 ou 2 points) à une mort possible (dégâts
@@ -2093,8 +2093,8 @@ Résistance à la magie :
     10 + spécial
 Description :
     Les génies portent divers noms suivant leur origine : djinn, éfrit, genn,
-    daïmon, etc. D'apparence, ce. sont des géants (environ 2,5 m), et qui
-    semblent disposer d'immenses pouvoirs magiques. Ils se comportent vis à vis
+    daïmon, etc. D'apparence, ce sont des géants (environ 2,5 m), et qui
+    semblent disposer d'immenses pouvoirs magiques. Ils se comportent vis-à-vis
     de la magie comme les démons (p. :pageref:`demons`) à l'exception près que
     l'on ne peut les repousser. Cela vient sans doute du fait qu'on est obligé
     de les appeler pour les faire venir, un génie ne se déplaçant jamais de
@@ -2202,7 +2202,7 @@ Déplacement :
     3 (1) [E]
 Description :
     Le griffon est une espèce de chimère (voir plus haut), mélange entre un
-    aigle (tète et ailes) et un lion (corps et pattes). Ce sont de féroces
+    aigle (tête et ailes) et un lion (corps et pattes). Ce sont de féroces
     carnivores, d'une intelligence uniquement animale.
 
 ----
@@ -2236,7 +2236,7 @@ Résistance à la magie :
     8 (2e espèce)
 Description :
     Les harpies sont des créatures au corps et ailes de vautour, au torse et
-    tète de femme. Il existe deux sortes de harpies, mais chacune des espèces
+    tête de femme. Il existe deux sortes de harpies, mais chacune des espèces
     semble uniquement féminine, aucun zoologue n'ayant jamais vu de harpie
     mâle.
 
@@ -2244,7 +2244,7 @@ Description :
     sirènes, qui attire irrésistiblement les mâles de n'importe quelle espèce
     (possibilité de résister en réussissant un **test** Instincts |instinct| +
     Résistance |resistance| + Humain |humain| - 2). On les reconnaît à la
-    beauté de leur visage. Quand à la deuxième espèce de harpie, elle a le
+    beauté de leur visage. Quant à la deuxième espèce de harpie, elle a le
     visage abominablement laid, et pratique la sorcellerie à divers niveaux.
 
 ----
@@ -2283,12 +2283,12 @@ Description :
     têtes (T). Si vous jouez en points de vie localisés, chaque tête à deux
     points de vie. Ce qui reste toujours vrai est le fait que chaque tête
     semble vivre indépendamment des autres, ce qui doit poser des problèmes
-    évident de comportement.
+    évidents de comportement.
 
     Son régime alimentaire est omnivore et, si elle ne crache pas sur la
     viande, elle engloutit d'impressionnantes quantités de joncs et autres
-    hautes herbes par jour. Des légendes parlent d'hydres qui crache le feu, ou
-    d'autres dont les têtes repoussent, aucun témoignage fiable ne semblant
+    hautes herbes par jour. Des légendes parlent d'hydres qui crachent le feu,
+    ou d'autres dont les têtes repoussent, aucun témoignage fiable ne semblant
     corroborer ces versions.
 
 ----
@@ -2326,7 +2326,7 @@ Description:
     personnes comme la peste. Craintive, timide, on raconte qu'elle peut se
     laisser approcher par de jeunes enfants.
 
-    Rencontrer une licorne est considéré comme un signe de chance. Peut-ètre
+    Rencontrer une licorne est considéré comme un signe de chance. Peut-être
     parce que (et ceci est un secret que personne encore n'a jamais écrit
     ailleurs qu'ici), elle donne jusqu'à la prochaine lune noire sa valeur de
     résistance magique à la personne qui a pu s'approcher à moins d'un mètre
@@ -2485,23 +2485,23 @@ Résistance à la magie :
     9 + spécial
 Description : 
     Les momies sont des morts-vivants matériels (voir p.
-    :pageref:`les-mort-vivants`) et sont donc sujets aux mêmes avantages et
+    :pageref:`les-morts-vivants`) et sont donc sujets aux mêmes avantages et
     restrictions que les autres morts-vivants. En ce qui concerne leur « |s|
     conscience |s| » elle est plus élevée que celle des squelettes, goules et
     zombies mais différente néanmoins de celle d'un humain ou d'un vampire. Il
     faut savoir que la momie, avant d'être « |s| réveillée |s| » par un
-    nécromancien ou tout autre intervention non naturelle, est le cadavre d'un
+    nécromancien ou toute autre intervention non naturelle, est le cadavre d'un
     être humain qui a été momifié. Or, toutes les civilisations qui pratiquent
     la momification ont un sens très élevé des classes sociales. il y a donc
     des momies de rois, de fonctionnaires, de paysans. Toute momie qui se
     réveille « |s| sait |s| » quel était son rang parmi les vivants et compte
-    bien le garder parmi les morts, En ce qui concerne leurs talents et leur
-    mémoire: comme le cerveau, les intestins, ont été enlevés, il leur reste
-    plutôt des bribes.  Ce qui n'empêche pas quelques exceptions, et on
+    bien le garder parmi les morts. En ce qui concerne leurs talents et leur
+    mémoire |s| : comme le cerveau, les intestins, ont été enlevés, il leur
+    reste plutôt des bribes.  Ce qui n'empêche pas quelques exceptions, et on
     pourrait sans doute trouver d'admirables momies mathématiciennes ou
     expertes à l'épée.
 
-    Si vous crée des personnages momies, ou des PMJ momies spéciales, utilisez
+    Si vous créez des personnages momies, ou des PMJ momies spéciales, utilisez
     les règles normales, mais supprimez tout simplement la composante Esprit
     |esprit| pour ne plus garder que Corps |corps|, Cœur |coeur| et Instincts
     |instinct|. Diminuez aussi la Perception |perception| de 1 et considérez la
@@ -2549,7 +2549,7 @@ Déplacement :
 Résistance à la magie :
     7
 Description :
-    Le pégase est un cheval ailé, qui peul aussi bien courir que voler. Cet
+    Le pégase est un cheval ailé, qui peut aussi bien courir que voler. Cet
     animal est relativement intelligent, et ne s'attachera qu'à un maître qui
     le respecte.
 
@@ -2616,7 +2616,7 @@ Résistance à la magie :
     10
 Description :
     Ces êtres hybrides ont des torses et têtes humaines, et des pieds de chèvre
-    ou bouc. Contrairement aux nymphes, dryades on autres créatures qui
+    ou bouc. Contrairement aux nymphes, dryades ou autres créatures qui
     semblent d'origine féerique, les satyres paraissent tout à fait « |s|
     humains |s| », quoique plus instinctifs qu'intelligents .
 
@@ -2625,7 +2625,7 @@ Description :
     l'accouplement reste stérile. Et surtout, que contrairement aux idées
     reçues, il y a des satyres femelles. Mais peut-être les hommes ne
     tiennent-ils pas à ébruiter leurs ébats avec les satyres femelles ? Tout en
-    demandant à leur épouses de fuir les satyres, qu'ils nomment parfois
+    demandant à leur épouse de fuir les satyres, qu'ils nomment parfois
     injustement démons.
 
 ----
@@ -2693,14 +2693,14 @@ Résistance à la magie :
 Description :
     Les sphinx sont le résultat, comme les chimères, d'expériences d'hybrides
     sur les animaux (lion, aigle ou griffon) et les humains. Pouvant se
-    reproduire, on voit, suivant les gênes récessifs, des êtres qui ont une
+    reproduire, on voit, suivant les gènes récessifs, des êtres qui ont une
     ascendance tantôt humaine tantôt lionne dans leur visage. Or, si les sphinx
     « |s| lions |s| » se reconnaissent tout à fait dans leur animalité et
     vivent de chasse, les sphinx « |s| humains |s| » n'ont de cesse de vouloir
     prouver leur ascendance humaine, il est donc fréquent que ces derniers
     désirent parler aux humains, les entretenir de culture et d'intelligence,
     voire leur proposer des énigmes. Et évidemment, un homme qui ne saurait
-    répondre au questions d'un sphinx ne saurait mériter le vrai nom d'homme,
+    répondre aux questions d'un sphinx ne saurait mériter le vrai nom d'homme,
     et serait donc destiné à périr sous ses griffes du sphinx redevenu animal
     pour l'occasion.
 
@@ -2735,9 +2735,9 @@ Résistance à la magie :
     8
 Description :
     Les yétis vivent au milieu de ces hautes montagnes, reposant sous le
-    manteau immaculé des neiges éternelles.  Haut de 2,50m, pesant leur 230 kg,
-    ce sont bien plus des singes évolués que des géants à fourrure ; Ce sont de
-    redoutables prédateurs qui ne semblent redouter qu'une seule chose : le
+    manteau immaculé des neiges éternelles. Hauts de 2,50m, pesant leur 230 kg,
+    ce sont bien plus des singes évolués que des géants à fourrure. Ce sont de
+    redoutables prédateurs qui ne semblent redouter qu'une seule chose |s| : le
     feu.
 
 
