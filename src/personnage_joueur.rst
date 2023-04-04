@@ -12,7 +12,7 @@ La première chose que doit faire un joueur avant de commencer une partie de jeu
 de rôle, c’est de choisir le personnage qu’il va incarner. S’il est débutant,
 indécis ou pressé, nous lui conseillons de choisir un personnage prétiré,
 c’est-à-dire un personnage tout fait. Il y en a six de prévus, que vous
-trouverez dnas le HS11, dont vous pouvez vous inspirer et qu’il est possible de
+trouverez dans le HS11, dont vous pouvez vous inspirer et qu’il est possible de
 photocopier ou même de découper.
 
 Un paradoxe de la création de personnage dans le jeu de rôle est qu’il faut
