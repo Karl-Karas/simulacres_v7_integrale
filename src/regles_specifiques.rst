@@ -1386,7 +1386,7 @@ les sorts de changement d'apparence (être mythiques) ou de transfert d'esprit
 
                Quand ils passent à la génération supérieure, certains de leurs
                traits physiques originels s'affirment et deviennent visibles.
-:Talent inné: Les sorts de niveau 1 qui ne coûtent qu’1 PS peuvent être «
+:Talent inné: Les sorts de niveau 1 qui ne coûtent que 1PS peuvent être «
                gratuits » s'ils réussissent le **test** inné: jeune (test = 8),
                adulte (test = 10), ancêtre (test = 12).
 

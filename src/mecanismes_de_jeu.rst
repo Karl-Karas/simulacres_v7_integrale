@@ -59,9 +59,9 @@ Règle principale
 
 Si vous voulez connaître le résultat d’une tentative quelconque : définissez la
 Composante qui intervient, à travers quel Moyen elle s’exprime, dans quel Règne
-(aidezvous du tableau principal pour voir comment combiner Composantes et
+(aidez-vous du tableau principal pour voir comment combiner Composantes et
 Moyens). Estimez la difficulté de la tentative selon la table de difficulté
-ci-dessous N’oubliez pas qu’un talent ou un métier peuvent aider à une
+ci-dessous. N’oubliez pas qu’un talent ou un métier peuvent aider à une
 tentative, estimez donc cette difficulté en en tenant compte. Lancez deux dés à
 6 faces. Si la somme du résultat est strictement inférieure à la somme
 Composante + Moyen + Règne + difficulté, la tentative a réussi. Si la somme du
@@ -525,7 +525,7 @@ moyen qui lui donne quand même une MR de 4. Celui qui contrôle Aramir fait 4,
 un beau score, mais qui ne donne qu’une MR de 3, c’est donc l’attaque d’Urlog
 qui passe. Le joueur lance deux dés, fait 7, ce qui donne un total de 11 pour
 les dégâts. La table des dégâts indique que Aramir perd 3PV et 1PS. Il ne lui
-reste donc plus qu’1PV et 1PS. Quand il a utilisé son Énergie, Aramir aurait
+reste donc plus que 1PV et 1PS. Quand il a utilisé son Énergie, Aramir aurait
 peut-être dû dépenser des points d’équilibre psychique plutôt que des points de
 souffle.*
 
