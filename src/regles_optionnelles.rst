@@ -530,7 +530,7 @@ adversaire, même si celui-ci a réussi à le blesser.
   débutant et a évité une partie du coup.
 
 En ce qui concerne les PMJ, accordez cette possibilité à tous les guerriers
-confirmés (qu’ils soient Faibles, Moyens ou forts n’a pas d’importance).
+confirmés (qu’ils soient Faibles, Moyens ou Forts n’a pas d’importance).
 Accordez aussi, si vous le désirez, ce talent aux monstres les plus « combatifs
 ».  Cette règle permet d’utiliser enfin efficacement le bouclier en parade (p.
 :pageref:`la-parade`), une règle qui, il faut le reconnaître, n’est pas très
