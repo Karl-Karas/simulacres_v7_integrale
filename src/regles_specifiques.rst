@@ -17,7 +17,7 @@ Poursuites de véhicules
 
   **Tout le monde a vu au cinéma une poursuite de voitures, de camions, de
   vaisseaux spatiaux... On s'engouffre entre deux astéroïdes, on prend une
-  ruelle à contresens..., Et pendant ce temps-là les mitraillettes crépitent,
+  ruelle à contresens... Et pendant ce temps-là les mitraillettes crépitent,
   les lasers fusent, le blindage s'étiole... Si vous désirez jouer de telles
   poursuites, les règles qui suivent sont là pour ça. Elles sont divisées en
   deux sections, une pour gérer très rapidement une poursuite, l'autre pour
@@ -131,16 +131,16 @@ Comme vous l'avez vu sur le tableau, on peut essayer de tirer sur son
 adversaire. Auquel cas, en fonction de la distance, il faut rajouter un malus
 ou un bonus à son test de tir.
 
-Manoeuvre
-^^^^^^^^^
+Manœuvre
+^^^^^^^^
 
-On peut également essayer de manoeuvrer, de prendre des risques. Pour cela, on
-décrit une manoeuvre au meneur de jeu et aux autres joueurs. Il faut que tout
-le monde imagine bien la scène. Cette manoeuvre, vous allez l'estimer avec une
+On peut également essayer de manœuvrer, de prendre des risques. Pour cela, on
+décrit une manœuvre au meneur de jeu et aux autres joueurs. Il faut que tout
+le monde imagine bien la scène. Cette manœuvre, vous allez l'estimer avec une
 **difficulté**, qui ira de -6 à -1. C'est cette **difficulté** que vous allez
 ajouter à votre **test** normal de poursuite. Les conséquences sont simples :
 
-:test réussi: vous rajoutez le double de la valeur de la manoeuvre à votre
+:test réussi: vous rajoutez le double de la valeur de la manœuvre à votre
                marge de réussite (+6 à votre MR pour une difficulté de -3).
 :test raté: vous vous éloignez réellement de votre adversaire (ou il se
              rapproche si c'est lui qui vous poursuit) d'une distance de [c]
@@ -181,7 +181,7 @@ gros (plus de 8).
 
 Pour chaque véhicule on indique sa taille et sa maniabilité par la formule
 **t(m)**. La taille du véhicule est **t**, **m** sa maniabilité, c'est-à-dire
-l'espace minimum dans lequel il peut manoeuvrer.
+l'espace minimum dans lequel il peut manœuvrer.
 
  .. class:: darkred
 
@@ -250,7 +250,7 @@ Poursuite
 ^^^^^^^^^
 
 Les **tests** de poursuite se font comme dans les règles simples, y compris les
-prises de risques avec les manoeuvres.
+prises de risques avec les manœuvres.
 
 Le **test** est Corps |corps| (ou Esprit |esprit| ou Instincts |instinct|) +
 Perception |perception| + Mécanique |mecanique| + talent de pilotage. La seule
@@ -287,7 +287,7 @@ a un score de +1 ou supérieur au **talent** d’Équitation.
 Autres « véhicules »
 ^^^^^^^^^^^^^^^^^^^^
 
-A titre de comparaison, on pourra utiliser les valeurs de déplacement suivantes
+À titre de comparaison, on pourra utiliser les valeurs de déplacement suivantes
 (pour les poursuites bien sûr) :
 
 :Un homme: 1(1)[B]. **Test** de course : Corps |corps| + Action |action| +
@@ -361,7 +361,7 @@ déplacera plus que de [B] et le cheval de [C].
 
 Bref, tous les cas de figure montrent que l’orque a toutes ses chances de se
 faire rattraper. Sa seule chance est de rentrer suffisamment vite dans les
-bois, ou la visibilité est moins grande, et de tendre une embuscade à l’elfe
+bois, où la visibilité est moins grande, et de tendre une embuscade à l’elfe
 (ou tenter de se cacher).
 
 Des objets magiques
@@ -369,7 +369,7 @@ Des objets magiques
 
 :Licol d’obéissance: Une fois passé au cou d’un cheval, l’animal obéit et court
                         avec son cavalier comme si celui-ci avait un **talent**
-                        d’Équitation à 0. il existe le même genre de harnais
+                        d’Équitation à 0. Il existe le même genre de harnais
                         pour les loups géants et les aigles, mais pas pour les
                         dragons.
 :Bague de course: Le porteur de la bague dépense 1EP et peut courir pendant une
@@ -693,7 +693,7 @@ Niveau 0
                         pouvoir pour nuire à un animal, ce pouvoir disparaît
                         ensuite à tout jamais.
 :Main verte: Une plante sur le point de mourir, à cause de mauvais soins,
-             retrouve santé si on lui donne de quoi se « soigner » (terre,
+             retrouve la santé si on lui donne de quoi se « soigner » (terre,
              eau).
 
 Niveau 1
@@ -743,7 +743,7 @@ Niveau 3
 :Transformation: (non |humain|) L’utilisateur du pouvoir peut se transformer,
                  pendant MR heures, en un minéral, un animal ou un végétal dont
                  il a le modèle à portée de vue, et qui est de masse à peu près
-                 comparable à celle d’un homme
+                 comparable à celle d’un homme.
 
 Le Mal
 ------
@@ -1089,8 +1089,8 @@ valeur du Moyen. Les Règnes ne sont pas utilisés.
  .. class:: darkred
 
   *Exemple :* Super Sauterelle (qui a acquis son pouvoir en se faisant mordre
-  par une sauterelle radio-active) a le pouvoir de Saut Exceptionnel, qui dé
-  pend de son Corps |corps| (qui vaut 5) et de son Action |action| (qui vaut
+  par une sauterelle radio-active) a le pouvoir de Saut Exceptionnel, qui
+  dépend de son Corps |corps| (qui vaut 5) et de son Action |action| (qui vaut
   3). Pour savoir s’il réussit un saut, il lance 5 dés à six faces (3, 2, 4, 6,
   1) et compte les valeurs inférieures ou égales à 3. Ici il a réussi avec 3
   dés.
@@ -1100,9 +1100,9 @@ Comparaison avec des personnages normaux
 
 Si un super-héros affronte un personnage normal (en combat ou dans toute autre
 sorte de **duel**) dans le domaine de son pouvoir, il faut calculer les marges
-de réussite. Pour le personnage normal, prodédez comme d'habitude. Pour le
+de réussite. Pour le personnage normal, procédez comme d'habitude. Pour le
 super-héros, comptez le nombre de réussites et regardez sur la table ci-dessous.
-Vosu vous rendrez compte qu'au-delà de trois réussites, aucun être humain ne
+Vous vous rendrez compte qu'au-delà de trois réussites, aucun être humain ne
 peut concurrencer un super-héros.
 
 .. image:: images/mr_superheros.pdf
@@ -1113,7 +1113,7 @@ Utilisation des Énergies
 ------------------------
 
 La Puissance |puissance| permet de lancer un dé supplémentaire par point
-d’Énergie dépensé. La Précision |precision| augmentent de 1 la valeur à ne pas
+d’Énergie dépensé. La Précision |precision| augmente de 1 la valeur à ne pas
 dépasser par point dépensé. En cas d'égalité dans un **duel**, c'est le
 super-héros qui a mis le plus de Rapidité |rapidite| qui remporte le duel.
 Comme d’habitude on dépense 1 PS ou 1 EP par point d’Énergie utilisé.
@@ -1125,8 +1125,8 @@ Valeurs limites
 d’une Composante ne peut dépasser 7, et celle d’un Moyen 5 (et en dépensant des
 points d'aventure bien entendu).
 
-Réussites et échc critiques
----------------------------
+Réussites et échecs critiques
+-----------------------------
 
 - Si dans le **test** d'un super-héros, tous les dés indiquent |1|, on augmente
   le nombre de réussites de un.
@@ -1143,7 +1143,7 @@ Réussites et échc critiques
 Actions usuelles
 ----------------
 
-En dehors de leurs super-pouvoirs, les super-héros font preque tous leurs
+En dehors de leurs super-pouvoirs, les super-héros font presque tous leurs
 **tests** de façon normale. Une exception : tous les **tests** normaux qui font
 agir la Composante utilisée par le pouvoir ont un bonus de +4.
 
@@ -1185,9 +1185,9 @@ Nombre de super-pouvoirs
 À vous de décider combien de pouvoirs auront les personnages. Contrairement aux
 **talents**, les pouvoirs ne peuvent pas s'acquérir par l'expérience. Mais
 chaque grande aventure (au moins quatre séances de jeu) peut être le prétexte à
-découvrir de nouvelles possiblités, suivant ce que le meneur de jeu aura
+découvrir de nouvelles possibilités, suivant ce que le meneur de jeu aura
 imaginé. Il est néanmoins conseillé de ne donner qu'un ou deux super-pouvoirs
-aux héros, quitte à les donter de un à quatre mini-pouvoirs.
+aux héros, quitte à les doter de un à quatre mini-pouvoirs.
 
 Les mini-pouvoirs
 -----------------
@@ -1201,12 +1201,12 @@ que la valeur à atteindre est plus basse que celle du Moyen.
   *Exemple :* Super Sauterelle résiste à tous les venins, cela se joue sur
   Corps |corps| (-1)/Résistance |resistance| (-1). Comme son Corps |corps| vaut
   5, elle lance 4 dés |s| ; sa Résistance valant 3, elle fait autant de
-  réussites que de dés inférieurs ou éaux à 2.
+  réussites que de dés inférieurs ou égaux à 2.
 
 Quelques mini-pouvoirs
 ^^^^^^^^^^^^^^^^^^^^^^
 
-:Résister aux chocs: Chute d'un étage, collision avec un véhicule, ...) Corps
+:Résister aux chocs: Chute d'un étage, collision avec un véhicule ...) Corps
                      |corps| (-1) / Résistance |s| |resistance| |s| (0).
 :Se retenir de respirer: Corps |corps| (-1) / Résistance |s| |resistance| |s| (0), la
                          marge de réussite qui en résulte (voir tableau) donne
@@ -1246,7 +1246,7 @@ Ils sont parmi nous depuis des millénaires
 
   **Dans tout univers fantastique-contemporain, Il y a les « autres »
   c'est-à-dire ceux qui sont en marge de l'humanité (monstres extraterrestres,
-  fantômes, vampires, immortels, être féeriques). Il y a alors deux solutions:
+  fantômes, vampires, immortels, êtres féeriques). Il y a alors deux solutions:
   soit on joue les humains contre les marginaux (L'appel de Cthulhu, Chill
   ...), soit on joue les marginaux en butte à l'humanité (Vampire, Nephilim,
   Scales ...). La première approche est la plus simple et ne demande, en fait,
@@ -1399,7 +1399,7 @@ mais certains en doutent quand même. Un immortel mène une vie normale jusqu'au
 jour où il est « tué » pour la première fois. C'est à ce moment-là qu'il
 devient vraiment immortel et arrête de vieillir.
 
-:Avantages: Aucun à part l'immortalité. Cela inclue la résistance totale aux
+:Avantages: Aucun à part l'immortalité. Cela inclut la résistance totale aux
             maladies, une guérison rapide des blessures (1 PV par heure, 1 PS
             par 10 minutes). Seuls les hommes peuvent avoir des descendants,
             mais ils n'ont qu'une chance sur cent de féconder une femme. Si
@@ -1640,13 +1640,13 @@ Lamies, totems et fantômes
  .. class:: red
 
   **Esprit vampire, fantôme, tous ces mots ont souvent perdu l’aura de mystère
-  et d’angoisse qui les distinguait auparavant Cela est dû au fait que l’on
+  et d’angoisse qui les distinguait auparavant. Cela est dû au fait que l’on
   rencontre souvent ces entités dans la plupart des jeux de rôle. Et dès qu’on
   sait qu’un fantôme peut être «** |s| **tué** |s| **» à coups d’épée, la peur
   qu’il suscite n’est pas plus terrible que celle ressentie face à un gros
   ours. Nous vous proposons ici d’introduire dans vos campagnes la notion
   d’esprits qui vivent en marge de notre monde et qui cherchent à s’y nourrir
-  et parfois même a s’y incarner. Heureusement, vous verrez qu’il n’y a pas que
+  et parfois même à s’y incarner. Heureusement, vous verrez qu’il n’y a pas que
   des désavantages à cela et quel que soit votre univers (médiéval-fantastique,
   horreur ou pirates) savoir qu’il y a «** |s| **autre chose** |s| **» que le
   monde visible y ajoutera de la profondeur.**
@@ -1660,23 +1660,23 @@ d'esprits, sachant que vous pouvez détailler vous-même chacune d'elles.
 Les lamies
 ^^^^^^^^^^
 
-On les appelle aussi, vampire, succube, muse, selon les cultures Ce sont des
+On les appelle aussi, vampire, succube, muse, selon les cultures. Ce sont des
 êtres qui ont besoin de percevoir les émotions à travers un être humain. Elles
-l'investissent donc et lui donne des capacités visant à lui faire découvrir la
+l'investissent donc et lui donnent des capacités visant à lui faire découvrir la
 mort, la haine, l'amour, l'art dans des formes exacerbées.
 
 Le possédé devient alors un « |s| artiste |s| » particulièrement doué dans le
 domaine concerné.  Mais dès que la lamie l'abandonne, ou qu'il ne la nourrit
-plus, elle se laisse dans un état de manque chronique.
+plus, elle le laisse dans un état de manque chronique.
 
 Les esprits-totems
 ^^^^^^^^^^^^^^^^^^
 
 Ces esprits sont souvent liés à des dieux animaux ou païens. L'exemple le plus
-fréquent est fourni par ces tributs d'homme-lions, d'homme-jaguards..., qui
+fréquent est fourni par ces tribus d'homme-lions, d'homme-jaguars..., qui
 passent un pacte avec l'esprit totémique pour bénéficier de sa protection.
 
-Evidemment, ce lien se paye aussi, et plus le totem est primitif, plus le mode
+Évidemment, ce lien se paye aussi, et plus le totem est primitif, plus le mode
 de paiement l'est également.
 
 Les âmes des morts
@@ -1710,7 +1710,7 @@ Attirer leur attention
     visite.
 Objets et lieux « |s| magiques |s| »
     Lorsque l'humain qu'elles possèdent meurt, certaines lamies entrent dans
-    une sorte de stase et restent liés à un lieu ou à un objet. Si quelqu'un
+    une sorte de stase et restent liées à un lieu ou à un objet. Si quelqu'un
     utilise l'objet, ou exerce une certaine activité dans le lieu, c'est comme
     s'il acceptait d'être possédé.  La lamie se réveille et investit son nouvel
     « |s| époux |s| » (terme approprié car de nombreuses lamies se mettent en
@@ -1721,7 +1721,7 @@ Esprits-totems
 ^^^^^^^^^^^^^^
 
 Invocation temporaire
-    Les tributs sauvages connaissent les chants et les danses qui appellent les
+    Les tribus sauvages connaissent les chants et les danses qui appellent les
     esprits totems, dieux ou loas (pour les vaudous).
 
     L'attention de l'esprit en question est captée par le chant, et investit le
