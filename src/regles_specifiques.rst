@@ -258,6 +258,10 @@ différence est que les unités de distance ne se calculent plus avec [C] à
 chaque fois, mais avec la vitesse de chaque véhicule, et qu'il n'y a donc plus
 de bonus de vitesse.
 
+.. image:: images/terrains.png
+    :width: 7.7cm
+    :align: center
+
 Les différents types de terrain
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -269,10 +273,6 @@ où l’on vole : de 1 (taille d’un aigle) à 10 (ciel ouvert). Des conditions
 météo défavorables peuvent également diminuer la maniabilité (par exemple, une
 tempête peut être considérée comme empêchant de voler les créatures de
 maniabilité inférieure à 6).
-
-.. image:: images/terrains.png
-    :width: 7cm
-    :align: center
 
 Animal monté
 ^^^^^^^^^^^^
@@ -296,22 +296,25 @@ A titre de comparaison, on pourra utiliser les valeurs de déplacement suivantes
            Le fait d’avoir deux ou quatre chevaux ne modifie pas la vitesse
            mais l’endurance de l’attelage.
 
-.. table::
-  :align: center
-  :widths: auto
- 
-  ================= =========== =======
-  Exemples          Dplct.      Test
-  ================= =========== =======
-  Humain            1 (1) [B]   |ldash|
-  Loup Géant        2 (1) [C]   8 à 9
-  Cheval            3 (1) [E]   9 à 11
-  Attelage          4 (3) [E]   9
-  Guépard           1 (1) [G]   13            
-  Aigle géant       3 (3) [G]   10
-  Dragon adulte     8 (4) [I]   12
-  ================= =========== =======
+.. image:: images/tableau_deplacements.pdf
+    :width: 5cm                
+    :align: center
 
+.. .. table::
+..   :align: center
+..   :widths: auto
+..  
+..   ================= =========== =======
+..   Exemples          Dplct.      Test
+..   ================= =========== =======
+..   Humain            1 (1) [B]   |ldash|
+..   Loup Géant        2 (1) [C]   8 à 9
+..   Cheval            3 (1) [E]   9 à 11
+..   Attelage          4 (3) [E]   9
+..   Guépard           1 (1) [G]   13            
+..   Aigle géant       3 (3) [G]   10
+..   Dragon adulte     8 (4) [I]   12
+..   ================= =========== =======
 
 Travaux pratiques
 -----------------
