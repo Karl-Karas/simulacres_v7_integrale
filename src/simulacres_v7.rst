@@ -115,7 +115,7 @@ avoir fait un système abordable et ouvert qui a préfiguré, plus d'une décenn
 |s|
 
  *La réalisation de cette compilation n'aurait pas non plus été possible sans
- la contribution des relecteurs d'Arandor |s| : qu'ils en soient remerciés !
+ la contribution des relecteurs d'Arandor* |s| *: qu'ils en soient remerciés !
  5PA pour chacun !*
 
 .. raw:: latex
