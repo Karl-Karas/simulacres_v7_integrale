@@ -6,18 +6,18 @@ Le vaudou est la magie des Antilles qui mélange christianisme et sorcellerie.
 Il n’est pas prévu de l’utiliser dans le monde de *SangDragon* mais vous pouvez
 l’introduire dans des univers contemporains ou de pirates. Il existe un jeu de
 rôle complet qui utilise d’ailleurs le vaudou dans un univers de pirates au
-XVIIe siècle : *Capitaine Vaudou*, disponible chez Descartes Éditeur (épuisé,
-ré-édité chez Black Book Edition). En termes de magie, le vaudou est donc à la
-fois une magie et une religion, proche des recettes de sorciers et de la magie
-divine. Tous les sortilèges sont donc donnés par les dieux de cette religion,
-que l’on appelle loas. Ces loas sont à la fois dieux et créatures féeriques,
-ils peuvent être « dans le ciel » et s’incarner dans des êtres humains. De
-plus, les sortilèges sont toujours des « recettes ».  C’est-à-dire qu’il faut
-des composants matériels (sang de poulet, boisson alcoolisée, fruits frais,
-etc.) préparés d’une certaine façon, et que l’effet du sort sera légèrement
-différent à chaque utilisation. Les objets magiques sont également faits en
-matières périssables et s’usent. On les nomme wangas. Ainsi, un wanga de
-protection contre les maladies peut être fait d’une écorce de cocotier et de
+XVII\ :supt:`e` siècle : *Capitaine Vaudou*, disponible chez Descartes Éditeur
+(épuisé, ré-édité chez Black Book Edition). En termes de magie, le vaudou est
+donc à la fois une magie et une religion, proche des recettes de sorciers et de
+la magie divine. Tous les sortilèges sont donc donnés par les dieux de cette
+religion, que l’on appelle loas. Ces loas sont à la fois dieux et créatures
+féeriques, ils peuvent être « dans le ciel » et s’incarner dans des êtres
+humains. De plus, les sortilèges sont toujours des « recettes ».  C’est-à-dire
+qu’il faut des composants matériels (sang de poulet, boisson alcoolisée, fruits
+frais, etc.) préparés d’une certaine façon, et que l’effet du sort sera
+légèrement différent à chaque utilisation. Les objets magiques sont également
+faits en matières périssables et s’usent. On les nomme wangas. Ainsi, un wanga
+de protection contre les maladies peut être fait d’une écorce de cocotier et de
 quelques plumes de poulet, et perdre son pouvoir en quelques semaines.
 
 En ce qui concerne la pratique magique, il y a également quelques différences :
@@ -37,13 +37,13 @@ pourront se reporter à *Capitaine Vaudou*.
 
 Liste des loas les plus connus : Legba (loa des voyageurs), Shango (loa des
 tempêtes), Loco (loa des guérisseurs), Ogou (dieu de la guerre), les Guédé
-(esprits des morts, des âmes et des mort-vivants) Agoue (loa de la mer, seul
+(esprits des morts, des âmes et des morts-vivants) Agoue (loa de la mer, seul
 esprit que l’on peut appeler sur l’eau salée), Erzulie (déesse de l’amour),
 Damballah Vedo (loa serpent, dieu des richesses), Marinette (déesse des zombies
 et des loups-garous), Taureau Trois Graines (loa de la fureur guerrière).
 
 Les sortilèges suivants sont accessibles en vaudou : Créer des zombies
-(Sorcellerie), Envoûtement (Sorcellerie), Contrôler les mort-vivants
+(Sorcellerie), Envoûtement (Sorcellerie), Contrôler les morts-vivants
 (Sorcellerie), Envoyer un rêve (Brume), Maladie (Sorcellerie), Guérir les
 maladies (Guérison), Réparer les corps (Guérison), et quelques autres encore...
 
@@ -65,7 +65,7 @@ Résistance :
 Magie noire :
     non, sauf pour les Guédé et Marinette
 Échec :
-    en fontion du loa
+    en fonction du loa
 Magie H. :
     impossible
 Description :
