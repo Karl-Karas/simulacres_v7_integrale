@@ -71,7 +71,7 @@ Perte de points de vie, gain de malaise
 dé à 6 faces la zone touchée (à moins que l'adversaire n'ait visé une zone
 précise), et on coche le nombre de PV perdus dans cette zone (en commençant
 toujours par les cases les plus en haut et à gauche, puis en allant vers la
-droite, puis le bas). Dès q'une zone a encaissé une perte de 2PV (case notée
+droite, puis le bas). Dès qu'une zone a encaissé une perte de 2PV (case notée
 M), on coche, en partant de la gauche, une case du compteur de malaise (M).
 Cela signifie que le personnage a reçu une blessure grave et qu'il s'en trouve
 handicapé.
@@ -91,7 +91,7 @@ empoisonné ou que des brûlures ne sont pas encore bien guéries.
   bras gauche, 2 au bras droit, 3 à la jambe gauche, 1 à la jambe droite. Trois
   cases de malaise sont cochées, ce qui amène Arthur dans la case indiquée par
   un petit -3. On tire aussi la perte de points de souffle, une seule fois, ce
-  qui donne une perte de 3 PS. Arthur est vraiment très gravement blessé Mais
+  qui donne une perte de 3 PS. Arthur est vraiment très gravement blessé. Mais
   c'est normal avec une grenade !
 
 Conséquences
@@ -394,7 +394,7 @@ de 6 (petit bouclier) ou 12 (grand bouclier).
   *Exemple :* Aramir porte une maille sur le torse et les bras, plus un
   pantalon de cuir.  L'encombrement total est donc de 16 (4x3 + 2x2), auquel il
   ajoute un grand bouclier, qui diminue de 2 les attaques de son adversaire, et
-  Porte sa protection totale à 28 (16+12), ce qui lui donne un malus de -2 à
+  porte sa protection totale à 28 (16+12), ce qui lui donne un malus de -2 à
   toutes les actions physiques.
 
 ----
@@ -409,7 +409,7 @@ de 6 (petit bouclier) ou 12 (grand bouclier).
 Utilisation alternative des Énergies
 ====================================
 
-En plus des modes normaux, les Energies peuvent être utilisés d'une manière qui
+En plus des modes normaux, les Énergies peuvent être utilisés d'une manière qui
 n'augmente pas la valeur du test auxquelles elles s'appliquent, mais seulement
 les résultats en cas de réussite.
 
@@ -448,13 +448,13 @@ les résultats en cas de réussite.
   |rapidite| divise le temps par deux, 2 points de Rapidité |rapidite| divisent
   le temps par quatre).
 
-Evidemment, on peut combiner toutes les sortes d'utilisation des Energies. Par
+Évidemment, on peut combiner toutes les sortes d'utilisation des Énergies. Par
 exemple: 1 point de Puissance |puissance| pour augmenter ses chances de 1 à son
 test, 1 point de Puissance |puissance| pour augmenter de 1 dé sa marge de
 réussite (en cas de réussite), 1 point de Précision |precision| pour augmenter
 de 1 ses chances de réussite critique. Le tout est de disposer de suffisamment
 de points de souffle ou d'équilibre psychique, et avoir des scores suffisants
-en Energies (dans l'exemple, il faut avoir un score de 2 en Puissance
+en Énergies (dans l'exemple, il faut avoir un score de 2 en Puissance
 |puissance|, d'au moins 1 en Précision |precision|, et dépenser trois points en
 PS et/ou EP).
 
@@ -627,7 +627,7 @@ Encore plus vite ?
 
 À partir du niveau +2 dans une arme, on peut utiliser 1 point de Rapidité pour
 porter une attaque supplémentaire. Rappelons que l’usage de 1 EP au lieu de 1
-PS permet d’avoir les avantages de l’Energie pendant plusieurs passes d’armes
+PS permet d’avoir les avantages de l’Énergie pendant plusieurs passes d’armes
 de suite.
 
 ----
@@ -684,7 +684,7 @@ Si on trouve un livre de magie hermétique qui contient la liste des composants
 nécessaires à un sort, il suffit de suivre la recette. Pour ce faire, il faut
 avoir le **talent** Alchimie. Deux cas se présentent.
 
-A. On a le niveau de magie requis pour lancer le sort (et on possède l’Energie
+A. On a le niveau de magie requis pour lancer le sort (et on possède l’Énergie
    correspondante). Il suffit alors de réussir un **test** Esprit |esprit| +
    Désir |desir| + Mécanique |mecanique| + Alchimie - Niveau du sort.
 #. On veut lancer un sort d’un niveau supérieur de 1 au sien. Il faut alors que

@@ -278,11 +278,11 @@ Animal monté
 ^^^^^^^^^^^^
 
 Lorsqu’il s’agit d’une poursuite entre animaux seuls, chacun fait son **test**
-de course, avec la possibilité d’utiliser ses points d’Energie. Par contre, si
+de course, avec la possibilité d’utiliser ses points d’Énergie. Par contre, si
 l’animal est monté, le **test** se fait avec sa valeur mais en ajoutant le
-score d’Equitation de cavalier. Les points d’Energie sont alors toujours ceux
+score d’Équitation de cavalier. Les points d’Énergie sont alors toujours ceux
 de l’animal, mais le cavalier ne peut les faire utiliser à sa monture que s’il
-a un score de +1 ou supérieur au **talent** d’Equitation.
+a un score de +1 ou supérieur au **talent** d’Équitation.
 
 Autres « véhicules »
 ^^^^^^^^^^^^^^^^^^^^
@@ -320,7 +320,7 @@ Travaux pratiques
 -----------------
 
 Enomias l’elfe monte un cheval de course (1)[E] avec une valeur de course de
-10. Enomias a +1 en Equitation (donc une valeur de **test** total de 11). Au
+10. Enomias a +1 en Équitation (donc une valeur de **test** total de 11). Au
 détour d’un grand chemin, il aperçoit au loin (distance 12) un orque monté sur
 un loup géant, à quelque distance d’un bois (distance 2). À sa vue, l’orque
 s’enfuit et Enomias décide de le poursuivre. Le loup a un déplacement de
@@ -369,7 +369,7 @@ Des objets magiques
 
 :Licol d’obéissance: Une fois passé au cou d’un cheval, l’animal obéit et court
                         avec son cavalier comme si celui-ci avait un **talent**
-                        d’Equitation à 0. il existe le même genre de harnais
+                        d’Équitation à 0. il existe le même genre de harnais
                         pour les loups géants et les aigles, mais pas pour les
                         dragons.
 :Bague de course: Le porteur de la bague dépense 1EP et peut courir pendant une
@@ -536,7 +536,7 @@ Le bon, le méchant et le druide
   possibilités se restreignent. Les « prêtres », eux, ont l’avantage d’avoir
   des sorts de magies diverses puisque « donnés » par leurs dieux.**
 
-  **Pour compenser, nous vous proposons trois nouvelles Energies, qui ont
+  **Pour compenser, nous vous proposons trois nouvelles Énergies, qui ont
   l’avantage d’être à mi-chemin entre la « magie » et la « religion ». Elles
   s’utilisent sans tests à faire, juste en dépensant des PS ou EP (d’une
   manière proche des règles simples de magie, page** :pageref:`magie-simple`\
@@ -562,7 +562,7 @@ fait alors un duel de résistance à la magie (valeur de 6 par défaut. Exceptio
 : voir p. :pageref:`resistancemagique`). La marge de réussite de l’utilisateur
 du pouvoir est de 1d6/2 (comme pour la Magie Simple, on arrondit au supérieur).
 
-Utilisation des autres Energies de base
+Utilisation des autres Énergies de base
 ---------------------------------------
 
 - Par point de Précision |precision| ou de Puissance |puissance| : on rajoute
@@ -598,7 +598,7 @@ Incompatibilité
 On ne peut jamais avoir en même temps des points en Énergie du **Bien** et du
 **Mal**.  Si on a des points dans l’une de ces Énergies et que l’on souhaite en
 avoir dans celle opposée, on perd aussitôt tous les points de la première. On
-peut par contre avoir à la fois des points dans l’Energie **Nature** et dans
+peut par contre avoir à la fois des points dans l’Énergie **Nature** et dans
 une des deux autres.
 
 Apprendre les pouvoirs
@@ -607,7 +607,7 @@ Apprendre les pouvoirs
 Apprendre un pouvoir de niveau 0 coûte 1PA |s| ; de niveau 1 : 3PA |s| ; de
 niveau 2 : 6PA |s| ; de niveau 3 : 9PA.
 
-Quand on atteint un nouveau niveau en Energie, on a droit gratuitement à un
+Quand on atteint un nouveau niveau en Énergie, on a droit gratuitement à un
 pouvoir de niveau inférieur ou égal au niveau atteint, au choix du joueur.
 
 Le Bien
@@ -1911,7 +1911,7 @@ l’aventure.
 
   - Augmentation d'un talent d'un ou deux niveaux (de 0 à +1, de +1 à +3 par
     exemple) |s| ;
-  - Usage double des Energies (un point d'Energie donne deux points de bonus au
+  - Usage double des Énergies (un point d'Énergie donne deux points de bonus au
     lieu d'un) |s| ;
   - Augmentation temporaire d'un point de vie ou de souffle |s| ;
   - Insensibilité aux agressions physiques (feu, froid) |s| ;

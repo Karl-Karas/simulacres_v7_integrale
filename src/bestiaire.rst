@@ -1532,7 +1532,7 @@ personnages-joueurs ou Intervenants |s| :
   heures en dehors de sa forêt. Cela a parfois fait croire que le temps passait
   plus lentement dans les pays elfes, ce qui est faux.
 - Un Elfe peut augmenter son Énergie magique en Brume et Électricité sans être
-  obligé d'augmenter avant l'Energie magique d'Air (voir la magie élémentaire,
+  obligé d'augmenter avant l'Énergie magique d'Air (voir la magie élémentaire,
   page :pageref:`magie-elementaire`).
 
 ----
