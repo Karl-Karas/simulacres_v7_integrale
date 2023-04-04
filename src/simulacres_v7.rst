@@ -76,7 +76,7 @@ continue du jeu depuis sa sortie en 1994. Étudiant sans le sou à l'époque, le
 hors-série de Casus Belli avait un prix abordable pour moi et a été ma porte
 d'entrée dans le jeu de rôle. Je ne l'ai plus quitté depuis. Malgré quelques
 infidélités au cours du temps, il reste mon jeu principal, que ce soit pour
-faire de l'initiation ou pour une campagne qui dure depuis plus de 15 ans.
+faire de l'initiation ou pour une campagne qui dure depuis plus de 20 ans.
 
 Cependant, pour ceux qui n'ont pas (encore) suivi Pierre Rosenthal avec la v8
 et qui pratiquent toujours Simulacres v7, l'utilisation des textes de référence
@@ -111,6 +111,12 @@ avoir fait un système abordable et ouvert qui a préfiguré, plus d'une décenn
 |s|
 
 **Karl Karas**
+
+|s|
+
+ *La réalisation de cette compilation n'aurait pas non plus été possible sans
+ la contribution des relecteurs d'Arandor |s| : qu'ils en soient remerciés !
+ 5PA pour chacun !*
 
 .. raw:: latex
 
