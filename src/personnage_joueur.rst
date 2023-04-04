@@ -16,7 +16,7 @@ trouverez dans le HS11, dont vous pouvez vous inspirer et qu’il est possible d
 photocopier ou même de découper.
 
 Un paradoxe de la création de personnage dans le jeu de rôle est qu’il faut
-souvent un peu savoir comment «fonctionnent » les règles pour savoir si son
+souvent un peu savoir comment « fonctionnent » les règles pour savoir si son
 personnage correspond bien à ce que l’on veut, mais que l’on ne peut bien
 saisir le mécanisme des règles qu’après avoir créé un personnage. C’est un peu
 le problème de l’œuf et de la poule. Mais ne paniquez pas, tout cela n’est pas

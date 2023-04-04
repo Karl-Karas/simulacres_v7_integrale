@@ -172,7 +172,7 @@ Zoologie à 0 (de X à 0 : 5 pts), Poésie à 0 (de -2 à 0 : 3 pts), Équitatio
 
 .. admonition:: Points d’aventure et règles de base
 
-  Même utilisant que les règles de base, vous pouvez quand même donner des
+  Même en n'utilisant que les règles de base, vous pouvez quand même donner des
   points d’aventure à vos joueurs. Les augmentations de caractéristiques et la
   possibilité de regagner sa « dernière chance » sont conservées. Par contre on
   applique les modifications suivantes :
