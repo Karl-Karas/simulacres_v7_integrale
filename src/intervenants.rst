@@ -221,7 +221,7 @@ Opiniâtre/Velléitaire :
 Chanceux/Malchanceux :
     Dans les dessins animés, les acolytes sont souvent très malchanceux...
 Touche-à-tout/Spécialiste :
-    Etre spécialiste n'est pas forcément un avantage car cela veut dire que
+    Être spécialiste n'est pas forcément un avantage car cela veut dire que
     l'on ne sait pas faire grand-chose en dehors de sa spécialité.
 
 
