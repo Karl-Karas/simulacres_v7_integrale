@@ -123,8 +123,8 @@ Un nouveau Règne : le Néant
 ---------------------------
 
 Certains sortilèges ne s’appliquent pas aux créatures ou aux éléments naturels,
-et aucun Règne « normal » n’y correspond. On utilisera donc à la place un nou-
-veau Règne, le Néant |neant|, qui a une particularité par rapport aux autres
+et aucun Règne « normal » n’y correspond. On utilisera donc à la place un
+nouveau Règne, le Néant |neant|, qui a une particularité par rapport aux autres
 Règnes : il vaut toujours -1 (et un être humain normal ne peut jamais
 l’augmenter). On utilisera le Néant |neant| chaque fois que les **tests**
 porteront exclusivement sur des domaines magiques (sorts agissant sur la magie
@@ -308,7 +308,7 @@ Les Règnes, sortilèges universels
 
 La plupart des sorts de Simulacres ne fonctionnent que sur un individu ou un
 objet. Dans la formule il y a toujours un Règne qui correspond à la cible du
-sort. Si l’on veut qu’un sortilège fonctionne sur une créature d’un ègne
+sort. Si l’on veut qu’un sortilège fonctionne sur une créature d’un Règne
 différent de celui pour lequel il a été créé, il faut « fabriquer » un nouveau
 sortilège (Soigner un animal n’est pas le même sort que Soigner un humain). On
 bénéficie quand même d’un avantage : le nouveau sortilège ne coûte que 1 point
@@ -357,7 +357,7 @@ des marges de réussite). Néanmoins, on y apporte deux petits aménagements :
   sortilège en nécessite plusieurs.
 - En cas d’échec critique (c’est-à-dire de double-|6|), le sortilège provoque
   un choc en retour. Et on perd autant de points (en souffle, équilibre
-  psychique et vie) que l’on avait investi en tout de points d’Énergies dans le
+  psychique et vie) que l’on avait investis en tout de points d’Énergies dans le
   sortilège. La perte se traduit d’abord en PS, puis en EP puis en PV. Si on
   utilise la règle sur la localisation des points de vie, ils sont perdus dans
   la zone du torse.
@@ -469,19 +469,19 @@ durées du sortilège.
   
   Cependant, quand un sort demande un temps de concentration supérieur ou égal
   à une heure dans sa version de base, on doit toujours payer la dépense
-  d’Energie avec de l’Equilibre Psychique (EP) et pas avec des points de
+  d’Énergie avec de l’Équilibre Psychique (EP) et pas avec des points de
   Souffle (PS), même si on a diminué le temps avec de la Rapidité |rapidite|.
   Les sorts demandant une longue concentration sont toujours très éprouvants
   psychiquement.
 
    .. class:: darkred
 
-    *Exemple :* Un sort d’invocation de Faerie demande un temps de
-    concentration d’une heure. Si on décide de faire passer le temps de
-    concentration à 30mn en dépensant un point de Rapidité |rapidite|, on peut
-    utiliser 1PS pour la Rapidité |rapidite|; mais le sort lui-même (du niveau
-    1) nécessite toujours de dépenser 1EP et non 1PS (même si le temps final
-    est passé sous la barre d’une heure).
+    *Exemple :* Un sort d’invocation de Færie demande un temps de concentration
+    d’une heure. Si on décide de faire passer le temps de concentration à 30mn
+    en dépensant un point de Rapidité |rapidite|, on peut utiliser 1PS pour la
+    Rapidité |rapidite|; mais le sort lui-même (du niveau 1) nécessite toujours
+    de dépenser 1EP et non 1PS (même si le temps final est passé sous la barre
+    d’une heure).
 
   Au contraire, un sort dont le temps de concentration a été allongé (en
   utilisant des composantes gestuelles et verbales par exemple) au-delà d’une
@@ -876,7 +876,7 @@ victime.
     magique, même si le commanditaire n’est pas l’exécutant.
   - Un sort d’attaque, même contre des criminels.
   - Un sort de destruction conditionnel destiné à une seule personne (par
-    exemple, enchanter un cachot pour qu’un certain criminel meurt s’il en
+    exemple, enchanter un cachot pour qu’un certain criminel meure s’il en
     sort).
   - Un sort a priori bénéfique, mais lancé sur quelqu’un contre son gré, ou à
     son insu (rendre une personne invisible, la faire voler, etc.).
@@ -1026,7 +1026,7 @@ ces objets déchargent la magie qu’ils contiennent (comme la vie s’écoule p
 les blessures). Il ne faut donc pas confondre les objets enchantés (en général
 des armes) qui n’ont pas forcément de pouvoirs, et les objets magiques, dans
 lesquels on peut stocker des sortilèges.  Les sortilèges d’enchantement sont
-décrits dans la liste Enchantement. Mais en voici les principes de base : Les
+décrits dans la liste Enchantement. Mais en voici les principes de base : les
 esprits (quel que soit le nom qu’on leur donne) ne peuvent être blessés que par
 des armes qui déchargent leur magie (fer ou acier trempé). Le problème est
 qu’en les touchant, l’acier conduit la magie et la transmet au porteur de
