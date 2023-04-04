@@ -89,7 +89,7 @@ En outre, si on souhaite utiliser certaines des règles optionnelles parues dans
 les différents Petits Capharnaüms, il faut alors utiliser des copies ou
 manipuler encore d'autres numéros de Casus. Bien entendu, les fichiers pdf
 permettent de consulter les textes sans avoir recourt à leur support physique
-d'antant, mais ce n'est tout de même pas la même chose.
+d'antan, mais ce n'est tout de même pas la même chose.
 
 Enfin, par la nature de sa publication originale, Simulacres v7 ne s'insère pas
 facilement dans une bibliothèque (réelle) de rôliste et, pour mon jeu
@@ -105,8 +105,8 @@ servir à d'autres vieux passionnés, je pense que ça vaut la peine de le mettr
 
 En conclusion, je tiens à remercier ici **Pierre Rosenthal**, non seulement
 d'avoir imaginé et publié Simulacres, mais aussi et peut-être surtout d'en
-avoir fait un système abordable et ouvert qui a préfiguré, plus d'une décénie à
-l'avance, tout le mouvement des licences ouvertes en jeux de rôle.
+avoir fait un système abordable et ouvert qui a préfiguré, plus d'une décennie
+à l'avance, tout le mouvement des licences ouvertes en jeux de rôle.
 
 |s|
 
