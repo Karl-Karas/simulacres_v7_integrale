@@ -386,6 +386,11 @@ premières utilisations |s| ; -3 pour les trois suivantes |s| ; -2 pour les 2
 utilisations suivantes |s| ; -1 pour la suivante |s| ; 0 pour les dix suivantes
 |s| ; +1 pour les 10 suivantes |s| ; +2 au-delà.
 
+.. image:: images/sort.pdf
+   :width: 7.7cm
+   :align: center
+
+\
  .. class:: darkred
 
   *Exemple :* Le joueur qui incarne Garthus a noté sur sa feuille de magicien
