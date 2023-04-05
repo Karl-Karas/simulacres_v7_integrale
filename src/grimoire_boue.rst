@@ -253,7 +253,7 @@ Description :
     corps. Pour créer un mélange à partir de trois êtres, il faut donc répéter
     l'opération deux fois. Les êtres ainsi créés peuvent se reproduire, à
     condition d'avoir fabriqué un mâle et une femelle compatibles. Ne permet
-    pas de croiser des règnes différents, sauf humanoïde et animal en utilisant
+    pas de croiser des Règnes différents, sauf humanoïde et animal en utilisant
     le Néant |neant|.
 
 :bred:`Croissance accélérée`
@@ -443,7 +443,7 @@ Description :
     Virtuellement éternel, s'il est laissé longtemps au soleil, il sèche et
     craquelle en quelques jours.
 
-:bred:`Croisement de règne`
+:bred:`Croisement de Règnes`
 
 Formule :
     |corps| + |desir| + |neant|
@@ -462,7 +462,7 @@ Magie noire :
 Magie H. :
     non
 Description :
-    Permet de mélanger des traits d'organismes de règnes différents
+    Permet de mélanger des traits d'organismes de Règnes différents
     (homme-arbre, lion de pierre, etc.). Ces créatures n'étant viables que
     magiquement, elles ne peuvent pas se reproduire, sauf par magie.
 

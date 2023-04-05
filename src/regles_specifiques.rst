@@ -676,7 +676,7 @@ La Nature
 Restrictions
 ^^^^^^^^^^^^
 
-Il faut avoir au moins 2 points dans le règne que l’on veut cibler (qui ne peut
+Il faut avoir au moins 2 points dans le Règne que l’on veut cibler (qui ne peut
 jamais être Mécanique |mecanique|, sauf Inaction. Voir plus loin). Certains
 pouvoirs ne peuvent être utilisés qu’avec les Règnes Animal |animal| et Végétal
 |vegetal| et pas Humain |humain| D’autres pouvoirs sont du Règne Minéral

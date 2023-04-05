@@ -150,7 +150,7 @@ Lancer :
 Niveau H. :
     2
 Description :
-    Le règne est Humain |humain|, Animal |animal| ou Végétal |vegetal| selon la
+    Le Règne est Humain |humain|, Animal |animal| ou Végétal |vegetal| selon la
     nature de la cible. Les dégâts, de [C]PV et [C]PS, sont dus à la perte
     d’eau / sang / sève.
 

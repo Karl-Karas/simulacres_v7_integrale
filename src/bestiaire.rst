@@ -1870,7 +1870,7 @@ Description :
     S'il réussit à capter le regard de sa cible (**test** ou **duel** de
     Perception), celle-ci reste fascinée et ne peut plus bouger.
 
-    Un humain a le droit pour résister à un **test** d'esprit |esprit| +
+    Un humain a le droit pour résister à un **test** d'Esprit |esprit| +
     Résistance |resistance| + Humain |humain|. Les petits crocs du basilic
     injectent un venin faible qui provoque une paralysie musculaire.
 
