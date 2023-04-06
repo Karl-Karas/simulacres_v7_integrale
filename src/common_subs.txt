@@ -54,133 +54,49 @@
 .. role:: subt
 
 .. Simulacres symbols
-.. |corps| image:: images/corps.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |coeur| image:: images/coeur.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |instinct| image:: images/instinct.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |esprit| image:: images/esprit.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |action| image:: images/action.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |perception| image:: images/perception.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |desir| image:: images/desir.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |resistance| image:: images/resistance.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |humain| image:: images/humain.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |animal| image:: images/animal.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |vegetal| image:: images/vegetal.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |mineral| image:: images/mineral.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |mecanique| image:: images/mecanique.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |neant| image:: images/neant.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |precision| image:: images/precision.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |puissance| image:: images/puissance.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |rapidite| image:: images/rapidite.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |1| image:: images/un.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |2| image:: images/deux.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |3| image:: images/trois.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |4| image:: images/quatre.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |5| image:: images/cinq.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |6| image:: images/six.bw.png
-            :height: 2.2ex
-            :align: bottom
-
-.. |baguette_blanc| image:: images/baguette_blanc.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |baguette_noir| image:: images/baguette_noir.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |bien| image:: images/bien.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |bouclier| image:: images/bouclier.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |carre| image:: images/carre.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |cercle| image:: images/cercle.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |disque| image:: images/disque.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |espace| image:: images/espace.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |exclam| image:: images/exclam.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |hexa1_blanc| image:: images/hexa1_blanc.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |hexa1_noir| image:: images/hexa1_noir.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |hexa2_blanc| image:: images/hexa2_blanc.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |hexa2_noir| image:: images/hexa2_noir.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |livre| image:: images/livre.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |mal| image:: images/mal.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |malcxe| image:: images/malcxe.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |shaman| image:: images/shaman.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |vaudou_blanc| image:: images/vaudou_blanc.bw.png
-            :height: 2.2ex
-            :align: bottom
-.. |vaudou_noir| image:: images/vaudou_noir.bw.png
-            :height: 2.2ex
-            :align: bottom
+.. |corps| replace:: :simb:`images/corps.bw.png`
+.. |coeur| replace:: :simb:`images/coeur.bw.png`
+.. |instinct| replace:: :simb:`images/instinct.bw.png`
+.. |esprit| replace:: :simb:`images/esprit.bw.png`
+.. |action| replace:: :simb:`images/action.bw.png`
+.. |perception| replace:: :simb:`images/perception.bw.png`
+.. |desir| replace:: :simb:`images/desir.bw.png`
+.. |resistance| replace:: :simb:`images/resistance.bw.png`
+.. |humain| replace:: :simb:`images/humain.bw.png`
+.. |animal| replace:: :simb:`images/animal.bw.png`
+.. |vegetal| replace:: :simb:`images/vegetal.bw.png`
+.. |mineral| replace:: :simb:`images/mineral.bw.png`
+.. |mecanique| replace:: :simb:`images/mecanique.bw.png`
+.. |neant| replace:: :simb:`images/neant.bw.png`
+.. |precision| replace:: :simb:`images/precision.bw.png`
+.. |puissance| replace:: :simb:`images/puissance.bw.png`
+.. |rapidite| replace:: :simb:`images/rapidite.bw.png`
+.. |1| replace:: :simb:`images/un.bw.png`
+.. |2| replace:: :simb:`images/deux.bw.png`
+.. |3| replace:: :simb:`images/trois.bw.png`
+.. |4| replace:: :simb:`images/quatre.bw.png`
+.. |5| replace:: :simb:`images/cinq.bw.png`
+.. |6| replace:: :simb:`images/six.bw.png`
+    
+.. |baguette_blanc| replace:: :simb:`images/baguette_blanc.bw.png`
+.. |baguette_noir| replace:: :simb:`images/baguette_noir.bw.png`
+.. |bien| replace:: :simb:`images/bien.bw.png`
+.. |bouclier| replace:: :simb:`images/bouclier.bw.png`
+.. |carre| replace:: :simb:`images/carre.bw.png`
+.. |cercle| replace:: :simb:`images/cercle.bw.png`
+.. |disque| replace:: :simb:`images/disque.bw.png`
+.. |espace| replace:: :simb:`images/espace.bw.png`
+.. |exclam| replace:: :simb:`images/exclam.bw.png`
+.. |hexa1_blanc| replace:: :simb:`images/hexa1_blanc.bw.png`
+.. |hexa1_noir| replace:: :simb:`images/hexa1_noir.bw.png`
+.. |hexa2_blanc| replace:: :simb:`images/hexa2_blanc.bw.png`
+.. |hexa2_noir| replace:: :simb:`images/hexa2_noir.bw.png`
+.. |livre| replace:: :simb:`images/livre.bw.png`
+.. |mal| replace:: :simb:`images/mal.bw.png`
+.. |malcxe| replace:: :simb:`images/malcxe.bw.png`
+.. |shaman| replace:: :simb:`images/shaman.bw.png`
+.. |vaudou_blanc| replace:: :simb:`images/vaudou_blanc.bw.png`
+.. |vaudou_noir| replace:: :simb:`images/vaudou_noir.bw.png`
 
 .. (for rst2pdf)
 .. .. |corps| replace:: :simb:`a`
