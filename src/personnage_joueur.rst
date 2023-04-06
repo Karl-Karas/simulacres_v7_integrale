@@ -16,17 +16,17 @@ trouverez dans le HS11, dont vous pouvez vous inspirer et qu’il est possible d
 photocopier ou même de découper.
 
 Un paradoxe de la création de personnage dans le jeu de rôle est qu’il faut
-souvent un peu savoir comment « fonctionnent » les règles pour savoir si son
-personnage correspond bien à ce que l’on veut, mais que l’on ne peut bien
-saisir le mécanisme des règles qu’après avoir créé un personnage. C’est un peu
-le problème de l’œuf et de la poule. Mais ne paniquez pas, tout cela n’est pas
-si compliqué.
+souvent un peu savoir comment « |s| fonctionnent |s| » les règles pour savoir
+si son personnage correspond bien à ce que l’on veut, mais que l’on ne peut
+bien saisir le mécanisme des règles qu’après avoir créé un personnage. C’est un
+peu le problème de l’œuf et de la poule. Mais ne paniquez pas, tout cela n’est
+pas si compliqué.
 
 Le plus simple, c’est de lire la description des caractéristiques d’un
 personnage avec une feuille vierge (page :pageref:`fdp-base`) devant soi, ou
 avec un des prétirés.  Vous pourrez créer un personnage au fur et à mesure,
-puis passer aux mécanismes du jeu (page 10 et suivantes) pour savoir comment va
-« fonctionner » votre personnage.
+puis passer aux mécanismes du jeu (page :pageref:`les-mecanismes-de-jeu` et
+suivantes) pour savoir comment va « |s| fonctionner |s| » votre personnage.
 
 Les Caractéristiques
 ====================
@@ -54,7 +54,7 @@ la force, l’agilité, l’endurance.
     :align: left
 
 **Les Instincts** regroupent toutes les forces et les faiblesses cachées et
-inconscientes de l’individu.  C’est par eux que s’exprime le sixième sens,
+inconscientes de l’individu.  C’est par eux que s’expriment le sixième sens,
 l’intuition, le côté animal du personnage ; mais aussi le fait de se laisser
 dominer par ses pulsions. Une personne instinctive pourra sentir des présences,
 se rattraper de justesse lors d’une chute, etc.
@@ -296,9 +296,10 @@ capable de révéler dans des circonstances extrêmes. Lors d’un sursaut de
 volonté, ou en se concentrant, il peut libérer ces capacités pour changer le
 cours du destin. Cette capacité particulière s’appelle l’Énergie. Attention,
 l’utilisation des Énergies engendre une dépense physique ou psychique
-(expliquée dans les mécanismes du jeu, voir page 10 et suivantes) et il vaut
-mieux les considérer comme des « |s| jokers |s| » (qui typent un peu plus les
-personnages) que de compter tout le temps sur elles.
+(expliquée dans les mécanismes du jeu, voir page
+:pageref:`les-mecanismes-de-jeu` et suivantes) et il vaut mieux les considérer
+comme des « |s| jokers |s| » (qui typent un peu plus les personnages) que de
+compter tout le temps sur elles.
 
 Il y a trois Énergies de base :
 
@@ -423,10 +424,10 @@ Tous les personnages ont 4 **points de souffle** (en abrégé : PS). Ces points
 peuvent être perdus quand ils reçoivent des coups d’objets contondants
 (matraque, coup de poing...) ou quand ils font des efforts (en général quand on
 utilise ses Énergies, la manière dont cela se déroule est expliquée dans les
-mécanismes de jeu, pages 10 et suivantes). Si le personnage tombe à 0 point de
-souffle, il perd conscience. Les points de souffle se récupèrent naturellement
-au rythme de 1 point par heure de repos. On ne peut dépasser le maximum de ses
-points de souffle.
+mécanismes de jeu, page :pageref:`les-mecanismes-de-jeu` et suivantes). Si le
+personnage tombe à 0 point de souffle, il perd conscience. Les points de
+souffle se récupèrent naturellement au rythme de 1 point par heure de repos. On
+ne peut dépasser le maximum de ses points de souffle.
 
 Points d’équilibre psychique
 ----------------------------
@@ -435,11 +436,12 @@ Tous les personnages ont 4 **points d’équilibre psychique** (en abrégé : EP
 Ces points peuvent être perdus quand ils subissent des chocs psychologiques
 (terreur, perte d’un être aimé...) ou s’ils se concentrent pour augmenter leurs
 chances de réussite (en général quand on utilise les Énergies, la manière
-dont cela se déroule est expliquée dans les mécanismes de jeu, pages 10 et
-suivantes). Si le personnage arrive à 0 point d’équilibre psychique, il devient
-fou ou tombe en état de choc. Les points d’équilibre psychique se récupèrent
-naturellement au rythme de 1 point par semaine de calme. On ne peut dépasser le
-maximum de ses points d’équilibre psychique.
+dont cela se déroule est expliquée dans les mécanismes de jeu, page
+:pageref:`les-mecanismes-de-jeu` et suivantes). Si le personnage arrive à 0
+point d’équilibre psychique, il devient fou ou tombe en état de choc. Les
+points d’équilibre psychique se récupèrent naturellement au rythme de 1 point
+par semaine de calme. On ne peut dépasser le maximum de ses points d’équilibre
+psychique.
 
 Résistance magique
 ------------------

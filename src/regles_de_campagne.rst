@@ -293,7 +293,7 @@ Gain de points d’aventure
   peut pas faire d’efforts dans des domaines différents. Partir en aventure ne
   permet pas de s’entraîner en même temps.
 
-Création d’un pour personnage SangDragon
+Création d’un personnage pour SangDragon
 ========================================
 
 La création d’un personnage pour SangDragon peut vous sembler un peu difficile
