@@ -174,7 +174,7 @@ Résistance :
 Magie noire :
     non
 Échec :
-    [A]PV, [B] EP, [C]PS
+    [A]PV, [B]EP, [C]PS
 Magie H. :
     impossible
 Description :

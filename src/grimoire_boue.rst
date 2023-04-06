@@ -239,7 +239,7 @@ Résistance :
 Magie noire :
     oui
 Échec :
-    [A] EP
+    [A]EP
 Magie H. :
     oui
 Apprentissage :
@@ -391,7 +391,7 @@ Résistance :
 Magie noire :
     oui
 Échec :
-    [B] EP
+    [B]EP
 Magie H. :
     oui
 Apprentissage :
@@ -422,7 +422,7 @@ Résistance :
 Magie noire :
     oui
 Échec :
-    [C] EP et [B]PV
+    [C]EP et [B]PV
 Magie H. :
     oui
 Apprentissage :
@@ -458,7 +458,7 @@ Résistance :
 Magie noire :
     oui
 Échec :
-    [B]PS et [A] EP
+    [B]PS et [A]EP
 Magie H. :
     non
 Description :
@@ -503,7 +503,7 @@ Résistance :
 Magie noire :
     oui
 Échec :
-    [B]PS et [A] EP
+    [B]PS et [A]EP
 Magie H. :
     oui
 Apprentissage :
@@ -514,7 +514,7 @@ Niveau H. :
     3
 Description :
     Ramène un mort à 1PV, à condition que la mort remonte à moins de MR jours.
-    Le sujet du sort perd définitivement 1 EP.
+    Le sujet du sort perd définitivement 1EP.
 
 :bred:`Transformation en animal`
 
@@ -531,7 +531,7 @@ Résistance :
 Magie noire :
     oui
 Échec :
-    [B]PS et [A] EP
+    [B]PS et [A]EP
 Magie H. :
     non
 Description :

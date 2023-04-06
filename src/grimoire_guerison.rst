@@ -157,7 +157,7 @@ Niveau H. :
     3
 Description :
     Neutralise les effets des troubles mentaux et amorce leur guérison,
-    permettant de redonner immédiatement [C] EP à une victime, puis 1 EP par
+    permettant de redonner immédiatement [C]EP à une victime, puis 1EP par
     jour d'effet. Si le patient avait une phobie, elle ne cesse que lorsqu'il
     est revenu à son maximum d'EP.
 

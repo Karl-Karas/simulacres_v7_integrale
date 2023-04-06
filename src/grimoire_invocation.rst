@@ -144,7 +144,7 @@ Résistance :
 Magie noire :
     oui
 Échec :
-    [A] EP
+    [A]EP
 Magie H. :
     oui
 Apprentissage :
@@ -207,7 +207,7 @@ Résistance :
 Magie noire :
     spécial
 Échec :
-    [A] EP
+    [A]EP
 Magie H. :
     oui
 Apprentissage :
@@ -223,8 +223,8 @@ Description :
     magicien (à portée de voix), il le conseille (l'Art magique du magicien
     devient égal à +2, s'il était inférieur) et lui donne plus de pouvoir (1 pt
     en plus dans une Énergie magique). Si le familier meurt (son enveloppe
-    charnelle) ou s'il est exorcisé, le magicien perd [D] EP (définitivement).
-    Le familier a 1 pt d'Énergie magique (à définir), 4 EP, Art magique à +2,
+    charnelle) ou s'il est exorcisé, le magicien perd [D]EP (définitivement).
+    Le familier a 1 pt d'Énergie magique (à définir), 4EP, Art magique à +2,
     il ne peut pas charger un focus mais possède 3 sortilèges de niveau 1. Ses
     caractéristiques physiques sont celles de l'animal qu'il possède.
     L'invocation réussie d'un familier fait gagner 20 points d'un seul coup au
@@ -279,7 +279,7 @@ Résistance :
 Magie noire :
     oui
 Échec :
-    [A] EP
+    [A]EP
 Magie H. :
     oui
 Apprentissage :
@@ -312,7 +312,7 @@ Résistance :
 Magie noire :
     oui (spécial)
 Échec :
-    [A] EP
+    [A]EP
 Magie H. :
     oui
 Apprentissage :
@@ -418,7 +418,7 @@ Résistance :
 Magie noire :
     oui
 Échec :
-    [B] EP
+    [B]EP
 Magie H. :
     oui
 Apprentissage :
@@ -483,7 +483,7 @@ Résistance :
 Magie noire :
     oui
 Échec :
-    [A] EP, [A]PS, [A]PV
+    [A]EP, [A]PS, [A]PV
 Magie H. :
     oui
 Apprentissage :
@@ -516,7 +516,7 @@ Résistance :
 Magie noire :
     non
 Échec :
-    [B] EP
+    [B]EP
 Magie H. :
     oui
 Apprentissage :

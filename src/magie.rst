@@ -366,10 +366,10 @@ des marges de réussite). Néanmoins, on y apporte deux petits aménagements :
 
   *Exemple :* Garthus lance son sort de Charme (1 PM). Il lui donne de la
   Puissance |puissance| pour pouvoir charmer son adversaire plus longtemps (2
-  points, qu’il choisit être 1PS et 1 EP), et de la Précision |precision| pour
+  points, qu’il choisit être 1PS et 1EP), et de la Précision |precision| pour
   augmenter ses chances de réussite (coût : 1PS). En tout il dépense 4 points
   d’Énergie. Il fait un échec critique. Il va donc perdre 4 points en tout. Il
-  lui restait 2PS qu’il perd (il tombe évanoui), et il perd 2 EP, sa valeur
+  lui restait 2PS qu’il perd (il tombe évanoui), et il perd 2EP, sa valeur
   d’équilibre psychique passant à 1 (il est au bord de la folie). S’il avait
   lancé un sort d’un niveau plus élevé, ou dépensé plus de points d’Énergie,
   cela aurait pu être pire : il aurait pu perdre des PV, voire mourir.
@@ -567,7 +567,7 @@ Recharger un focus
 - Il faut avoir le **talent** Art magique à au moins +1 pour recharger un
   focus. Cela prend une heure complète de concentration, sans interruption. Le
   **test** à réaliser est Esprit |esprit| + Action |action| + Néant |neant| +
-  Art magique. Au bout de l’heure le magicien a perdu 1 EP. Si le **test** est
+  Art magique. Au bout de l’heure le magicien a perdu 1EP. Si le **test** est
   réussi, le focus gagne 1 PM, sinon il ne se passe rien.
 - Si on charge un focus au-delà de son maximum, il ne se passe rien, mais le
   magicien sent alors que le focus est chargé à fond.
@@ -588,7 +588,7 @@ discrétion du meneur de jeu, et après que le prêtre ait réussi un **test** C
 |coeur| + Désir |desir| + Mécanique |mecanique| + Cérémonie.
 
 Une fois l’objet prêt, si c’est un magicien qui fait l’opération
-d’enchantement, il doit dépenser 2 EP, avoir un score minimum de +2 en Aptitude
+d’enchantement, il doit dépenser 2EP, avoir un score minimum de +2 en Aptitude
 magique et réussir un **test** Esprit |esprit| + Action |action| + Mécanique
 |mecanique| + Art magique. S’il réussit, le focus sera enchanté et contiendra
 1PM. De plus, sa capacité sera égale au plus petit chiffre entre la marge de
@@ -610,7 +610,7 @@ Dans un univers magique, tout personnage qui a au moins -4 au **talent** Art
 magique peut essayer de détecter la présence de la magie sur un lieu, un objet
 ou une personne, même s’il n’a pas de point en Énergie magique. Le **test** à
 réaliser est Esprit |esprit| + Perception |perception| + Néant |neant| + Art
-magique. Le personnage doit quand même dépenser 1 EP ou 1PS (au choix) à chaque
+magique. Le personnage doit quand même dépenser 1EP ou 1PS (au choix) à chaque
 tentative de détection de la magie. Si on réussit une détection de la magie sur
 un focus, on sait combien de points de magie il contient, mais pas quel est son
 maximum. Si on veut détecter les capacités d’un objet magique, chaque capacité
@@ -969,7 +969,7 @@ générateur de magie. Toutes ces considérations amènent aux remarques suivant
 - À chaque fois qu’un magicien lance un sort et qu’il a sur lui ou à la main
   plus de deux kilos de fer ou un kilo d’acier, son sortilège risque d’échouer
   et lui de subir des dégâts. Il a une **difficulté** de -1 supplémentaire pour
-  lancer le sort et s’il rate son **test**, il subit [B] EP et [B] PS de
+  lancer le sort et s’il rate son **test**, il subit [B]EP et [B]PS de
   dégâts.
 
   S’il a utilisé un focus, celui-ci peut se décharger. On lance deux dés à six
@@ -981,7 +981,7 @@ générateur de magie. Toutes ces considérations amènent aux remarques suivant
   échoue tout juste (c’est-à-dire qu’il aurait réussi sans la présence de
   l’armure), l’armure diffuse l’énergie magique sous la forme d’étincelles et
   d’une forte odeur d’ozone. Le porteur de l’armure subit alors une perte de
-  [B] PS.
+  [B]PS.
 - S’il y a plusieurs hommes en armes à moins de 12 mètres de l’un à l’autre, le
   malus de -1 est cumulatif par équivalent d’une armure entière (avec un malus
   maximum de -8). Il faut environ deux hommes en cotte de mailles pour faire
@@ -991,7 +991,7 @@ générateur de magie. Toutes ces considérations amènent aux remarques suivant
   reliant à la terre, fournit une protection de 2 (bonus de 2 au **test** de
   Résistance à la magie) contre les sortilèges. Au moment où on s’enfonce la
   chaînette, on fait un **test** Corps |corps| + Résistance |resistance| +
-  Humain |humain|. En cas d’échec, la blessure cause une perte de [C] PS.
+  Humain |humain|. En cas d’échec, la blessure cause une perte de [C]PS.
 - Un lieu extrêmement chargé en magie (grand temple, esprits magiques nombreux)
   fait s’échauffer les métaux ferreux présents en faible quantité. Attention
   donc aux boucles de ceinture, aux dagues, aux épées, qui deviennent
@@ -1046,7 +1046,7 @@ protection de -1 dans chaque catégorie de dégâts).
 
 Le fait de relier l’arme au sol par une chaînette en acier permet de réduire
 les dégâts du porteur de l’arme de 2.  Mais en cas de «presque» toucher (0 de
-marge), le guerrier subit [C] PS de dégâts électriques.
+marge), le guerrier subit [C]PS de dégâts électriques.
 
  .. class:: darkred
 
@@ -1056,7 +1056,7 @@ marge), le guerrier subit [C] PS de dégâts électriques.
   d’armes, il fait 10 et ne touche donc pas. À la troisième passe d’armes, il
   fait 9. Il n’a pas touché, mais c’était très près (0 de marge). Il se produit
   un éclair électrique entre le fantôme et Arald, l’air se charge d’ozone et
-  Arald subit [C] PS de dégâts électriques.
+  Arald subit [C]PS de dégâts électriques.
 
 C’est pour éviter ce phénomène électrique que l’on crée un sortilège spécial
 autour des armes en fer et en acier.  Le métal est alors entouré d’une gangue
@@ -1287,7 +1287,7 @@ magie des Sphères vont de 100 à 1000 PM, ce qui est considérable.
   Il n’y a plus de formule pour lancer les sortilèges, ni de **test** à faire.
   Il suffit de dépenser autant de points d’équilibre psychique que le niveau du
   sort, ou deux fois plus de points de souffle que le niveau du sort.  On est
-  obligé de dépenser au moins 1EP ou 2 PS venant de soi-même (les autres
+  obligé de dépenser au moins 1EP ou 2PS venant de soi-même (les autres
   peuvent venir d’un focus). Pour connaître la marge de réussite, on lance 1d6
   et le résultat est divisé par deux, arrondi à l'entier supérieur. Il n’y a
   plus ni réussite critique, ni échec critique.
@@ -1295,7 +1295,7 @@ magie des Sphères vont de 100 à 1000 PM, ce qui est considérable.
    .. class:: darkred
 
     *Exemple :* Garthus a appris le sortilège Faire pleurer en dépensant 5PA.
-    Il le lance en dépensant 1 EP (ou 2 PS) et jette 1d6. Il obtient 5, ce qui
+    Il le lance en dépensant 1EP (ou 2PS) et jette 1d6. Il obtient 5, ce qui
     donne une marge de réussite de 3 (5/2= 2,5 arrondis à 3).
 
   |s|

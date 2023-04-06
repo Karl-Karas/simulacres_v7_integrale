@@ -263,7 +263,7 @@ suivante (également résumée dans un tableau) :
   critique. Le talent étant à +3, le joueur lance 4 dés supplémentaires, et
   obtient 15.  Ce qui fait donc une marge de réussite finale de 24. Autant dire
   que Cyrano vient de placer une botte mortelle, puisqu’il faut encore rajouter
-  les dés de dégâts.  Ici, cela donne 24+7= 31 ; pour un fleuret : 12 PV.
+  les dés de dégâts.  Ici, cela donne 24+7= 31 ; pour un fleuret : 12PV.
 
 La dernière dernière chance
 ===========================

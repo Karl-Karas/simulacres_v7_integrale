@@ -88,7 +88,7 @@ Temps d'effet :
 Distance :
     12 mètres
 Résistance :
-    voir Mortvivants p. 48
+    voir Morts-vivants p. :pageref:`les-morts-vivants`
 Magie noire :
     oui
 Échec :
@@ -121,7 +121,7 @@ Résistance :
 Magie noire :
     oui
 Échec :
-    [A] EP
+    [A]EP
 Magie H. :
     oui
 Apprentissage :
@@ -154,7 +154,7 @@ Résistance :
 Magie noire :
     oui
 Échec :
-    [B] EP
+    [B]EP
 Magie H. :
     oui
 Apprentissage :

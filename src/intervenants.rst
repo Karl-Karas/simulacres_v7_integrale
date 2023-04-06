@@ -57,27 +57,27 @@ quatre catégories de PMJ sont donc :
 PMJ faible
 ----------
 
-Il a un score de **test** de 6, 4PV, 3PS et 3 EP. Il n’a pas d’Énergies, mais
+Il a un score de **test** de 6, 4PV, 3PS et 3EP. Il n’a pas d’Énergies, mais
 un **métier**, un **talent** et/ou un **hobby**.  C’est typiquement l’homme de
 troupe, le sans-nom, le sans-grade.
 
 PMJ moyen
 ---------
 
-Il a un score de **test** de 8, 5PV, 4PS et 4 EP. Il n’a pas d’Énergies, mais
+Il a un score de **test** de 8, 5PV, 4PS et 4EP. Il n’a pas d’Énergies, mais
 un **métier**, un **talent** et un **hobby**. C’est l’homme normal.
 
 PMJ fort
 --------
 
-Il a un score de **test** de 9, 6PV, 4PS et 4 EP. Il n’a pas d’Énergies, mais
+Il a un score de **test** de 9, 6PV, 4PS et 4EP. Il n’a pas d’Énergies, mais
 un **métier**, un ou deux **talents** et un ou deux **hobbies**. Ce sera un
 homme célèbre, le chef d’un groupe, un leader, un artiste, etc.
 
 PMJ exceptionnel
 ----------------
 
-Il a un score de **test** de 11, 6PV, 5PS et 4 EP. Il a 1 point d’Énergie, un
+Il a un score de **test** de 11, 6PV, 5PS et 4EP. Il a 1 point d’Énergie, un
 **métier**, deux **talents** et deux **hobbies**.  Comme son nom l’indique,
 n’utilisez ce type de personnage qu’une seule fois par grand scénario (et
 encore, plutôt une seule fois tous les cinq à dix scénarios).

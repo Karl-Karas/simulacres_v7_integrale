@@ -239,7 +239,7 @@ Résistance :
 Magie noire :
     non
 Échec :
-    [A] EP
+    [A]EP
 Magie H. :
     oui
 Apprentissage :
@@ -275,7 +275,7 @@ Résistance :
 Magie noire :
     non
 Échec :
-    [A] EP
+    [A]EP
 Magie H. :
     oui
 Apprentissage :

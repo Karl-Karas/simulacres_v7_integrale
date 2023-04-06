@@ -469,7 +469,7 @@ Points d'énergie :
 Armure:
     1/0/0
 Dégâts :
-    [F] PV
+    [F]PV
 Test de nage:
     13
 Déplacement:
@@ -500,7 +500,7 @@ Points de souffle :
 Armure:
     2/0/0
 Dégâts :
-    [B] PV
+    [B]PV
 Test de course:
     9
 Déplacement:
@@ -531,7 +531,7 @@ Points d'énergie :
 Armure :
     1/0/0
 Dégâts : 
-    [F] PV
+    [F]PV
 Test de nage:
     13
 Déplacement:
@@ -819,7 +819,7 @@ Ce type de créature est un démon de type 1 ou 2 (jamais plus) qui a un pouvoir
 psychique particulier. Quand sa victime dort, et que le démon est à portée de
 vue, il lui vole des points d'équilibre psychique. Si la victime ne réussit pas
 un **test** de résistance contre la magie, ou un **test de Foi** (valable même
-endormie), elle perd 1 EP dans la nuit.
+endormie), elle perd 1EP dans la nuit.
 
 Démons exotiques
 ^^^^^^^^^^^^^^^^
@@ -1834,7 +1834,7 @@ Description:
     mandibules mais à cause du poison. La virulence varie de 0 à 6 (c'est la
     difficulté que l'on affecte au **test** de Résistance au poison) et les
     dégâts vont d'un simple Malaise (1 ou 2 points) à une mort possible (dégâts
-    de [A] à [G] PV).
+    de [A] à [G]PV).
 
 ----
 
@@ -2167,7 +2167,7 @@ Déplacement:
     3 (1) [D]
 Description :
     La gorgone ressemble à un taureau couleur pierre. Elle peut lancer (en
-    dépensant 1 PS) un souffle paralysant. Celui-ci touche sa victime sur un
+    dépensant 1PS) un souffle paralysant. Celui-ci touche sa victime sur un
     **test** de valeur 11, si la gorgone est à moins de 5 mètres d'elle. La
     victime a le droit à un **test** de résistance contre la magie. Si elle
     échoue, elle est paralysée MR heures. La gorgone n'a pas une origine

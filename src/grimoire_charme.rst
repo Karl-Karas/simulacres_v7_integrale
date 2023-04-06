@@ -125,7 +125,7 @@ Résistance :
 Magie noire :
     oui
 Échec :
-    [A] EP
+    [A]EP
 Magie H. :
     imposible
 Description :

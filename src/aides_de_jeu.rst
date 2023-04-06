@@ -472,9 +472,9 @@ Aventure (2d6)
   pour cela que l’on trouve à Majistra des personnages dont le pouvoir magique
   se résume à savoir ouvrir une bouteille à distance. Cette pratique leur est
   néanmoins facilitée puisqu’ils peuvent activer le pouvoir magique en
-  dépensant 1 PS, sans faire de test. Ou bien en essayant de faire le **test**
+  dépensant 1PS, sans faire de test. Ou bien en essayant de faire le **test**
   sans dépenser de points de souffle. S’ils réussissent, tout va bien, sinon
-  ils perdent 1 EP.
+  ils perdent 1EP.
 
   Point important : tout individu séjournant plus de quelques jours à Majistra
   peut ainsi découvrir « |s| son |s| » pouvoir magique. D’où de nombreux

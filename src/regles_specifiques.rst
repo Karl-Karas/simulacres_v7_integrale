@@ -552,7 +552,7 @@ niveau requis dans l’Énergie correspondante. On peut dépenser 2PS au lieu d�
  .. class:: darkred
   
   *Exemple :* Pour lancer un pouvoir du **Bien** de niveau 2, il faut avoir au
-  moins 2 dans l’Énergie du **Bien**, et dépenser 2 EP (ou 1 EP et 2PS |s| ; ou
+  moins 2 dans l’Énergie du **Bien**, et dépenser 2EP (ou 1EP et 2PS |s| ; ou
   4PS, mais on risque de s’évanouir).
 
 Pour les pouvoirs de niveau 0, on dépense 1PS mais il faut quand même avoir
@@ -919,7 +919,7 @@ méthode.
 
 La **Méditation psi** est donc un **talent** de niveau (X). Le **test** de
 méditation se fait sur Esprit |esprit| + Désir |desir| + Humain |humain| +
-Méditation psi - EP perdus. Si le **test** réussit on récupère [b] EP au bout
+Méditation psi - EP perdus. Si le **test** réussit on récupère [B]EP au bout
 de 18 heures de méditation. Cette méditation doit être profonde et ne pas être
 interrompue par aucune activité d’aucune sorte. Pour pouvoir ensuite à nouveau
 méditer, il faut s’être reposé au moins 6 heures.
@@ -995,14 +995,14 @@ Niveau 2
 
 :Déplacer un objet(2): Test: idem niveau 1, mais on déplace jusqu’à MR x 100
                         kilos à MR x 10km/h.
-:Infliger des dégâts(2): Test: idem niveau 1, mais les dégâts sont de [d] PV.
+:Infliger des dégâts(2): Test: idem niveau 1, mais les dégâts sont de [D]PV.
 
 Niveau 3
 ********
 
 :Déplacer un objet(3): Test: idem niveau 1, mais on déplace jusqu’à MR x 100
                         tonnes à MR x 100km/h.
-:Infliger des dégâts(3): Test: idem niveau 1, mais les dégâts sont de [h] PV.
+:Infliger des dégâts(3): Test: idem niveau 1, mais les dégâts sont de [H]PV.
 
 ----
 
@@ -1041,7 +1041,7 @@ Niveau 1
 ********
 
 :Guérison: Test: Corps |corps| + Action |action| + (Humain |humain| ou Animal
-            |animal|). Effet: vous guérissez une créature de [b] PV et [b] PS
+            |animal|). Effet: vous guérissez une créature de [B]PV et [B]PS
             (répartissez les PV comme vous le désirez).
 
 Niveau 2
@@ -1116,7 +1116,7 @@ La Puissance |puissance| permet de lancer un dé supplémentaire par point
 d’Énergie dépensé. La Précision |precision| augmente de 1 la valeur à ne pas
 dépasser par point dépensé. En cas d'égalité dans un **duel**, c'est le
 super-héros qui a mis le plus de Rapidité |rapidite| qui remporte le duel.
-Comme d’habitude on dépense 1 PS ou 1 EP par point d’Énergie utilisé.
+Comme d’habitude on dépense 1PS ou 1EP par point d’Énergie utilisé.
 
 Valeurs limites
 ---------------
@@ -1304,7 +1304,7 @@ Capacités innées et génération
 - Chaque race inhumaine a une capacité innée. C'est-à-dire qu'elle peut
   utiliser un **talent** similaire à un sort magique. Pour cela, le personnage
   dépense 1, 2 ou 3PS ou EP en fonction du pouvoir. S'il utilise le pouvoir au
-  niveau minimum, sans préparation spéciale, il dépense en général juste 1 PS.
+  niveau minimum, sans préparation spéciale, il dépense en général juste 1PS.
   Or, comme ce talent est inné, le joueur a droit à un **test** supplémentaire
   (chaque race a une valeur pour ce **test**, dit **test inné**). Si le
   **test** est réussi, le PS n'est pas dépensé.
@@ -1330,7 +1330,7 @@ Vampire
             position peut être vue dans un miroir, on ne voit rien là où se
             tient l'illusion). Un vampire tué par des moyens classiques
             régénère de 1PV par semaine.
-:Désavantages: La lumière du soleil lui inflige [C] PV par passe d'armes. S'il
+:Désavantages: La lumière du soleil lui inflige [C]PV par passe d'armes. S'il
                 meurt de cette façon, sa mort est définitive. Si un vampire ne
                 boit pas au moins 4 litres de sang par semaine, il perd 1PV et
                 1PS de son maximum (jusqu'à une valeur de 1).
@@ -1400,7 +1400,7 @@ jour où il est « tué » pour la première fois. C'est à ce moment-là qu'il
 devient vraiment immortel et arrête de vieillir.
 
 :Avantages: Aucun à part l'immortalité. Cela inclut la résistance totale aux
-            maladies, une guérison rapide des blessures (1 PV par heure, 1 PS
+            maladies, une guérison rapide des blessures (1PV par heure, 1PS
             par 10 minutes). Seuls les hommes peuvent avoir des descendants,
             mais ils n'ont qu'une chance sur cent de féconder une femme. Si
             celle-ci a un enfant avec un homme normal dans les cinq ans, alors
@@ -1509,7 +1509,7 @@ plus loin).
 
 :Test: Esprit |esprit| + Désir |desir| + Humain |humain| + Méditation -4.
 :Temps de la méditation: 8 heures (sans perdre de PS ou d'EP).
-:Effet: donne [A] EP.
+:Effet: donne [A]EP.
 :Échec: on ne peut pas utiliser de pouvoirs spéciaux ni faire de magie pendant
          [A] jours. 
 
@@ -1522,17 +1522,17 @@ Mains dures
 - Niveau 1 
 
   :Durée: MR minutes.
-  :Effet: les mains deviennent dures et peuvent infliger [C] PV et [C] PS.
+  :Effet: les mains deviennent dures et peuvent infliger [C]PV et [C]PS.
 - Niveau 2
 
   :Durée: MR x 10 minutes.
-  :Effet: les mains peuvent infliger [D] PV et [C]PS, et sont capables de
+  :Effet: les mains peuvent infliger [D]PV et [C]PS, et sont capables de
           toucher les êtres magiques comme si elles étaient des armes
           enchantées.
 - Niveau 3
 
   :Durée: MR heures.
-  :Effet: les mains peuvent infliger [E] PV et [D] PS, et sont capables de
+  :Effet: les mains peuvent infliger [E]PV et [D]PS, et sont capables de
           toucher les êtres magiques comme si elles étaient des armes
           enchantées.
 
@@ -1611,19 +1611,19 @@ Concentration psychique
   :Effet: le moine dépense autant d'EP qu'il veut et gagne 2 fois autant de PS.
 - Niveau 2
 
-  :Effet: chaque 1 EP est échangé contre 4PS.
+  :Effet: chaque 1EP est échangé contre 4PS.
 - Niveau 3
 
-  :Effet: chaque 1 EP est échangé contre 6PS.
+  :Effet: chaque 1EP est échangé contre 6PS.
 
 Attention, contrairement aux règles normales relatives aux Énergies, la
 Concentration psychique ne fait dépenser aucun PS ou EP pour la mettre en
 œuvre. On perd simplement la passe d'armes de concentration. Néanmoins, en cas
-d'échec critique (double-|6|), on perd effectivement 1 EP ou 1 PS (au choix).
+d'échec critique (double-|6|), on perd effectivement 1EP ou 1PS (au choix).
 
 On peut, par le biais de ce pouvoir, dépasser son maximum en points de souffle.
 Toutes les heures, si on possède plus de points de souffle que son maximum
-(quatre en général), on perd 1 PS. 
+(quatre en général), on perd 1PS. 
 
 ----
 
@@ -1920,13 +1920,13 @@ l’aventure.
 
   En contrepartie, l'esprit exige un paiement (méditation, création d'œuvre
   d'art, débauche, sacrifice ...) une fois par semaine. Si le prix à payer
-  n'est pas accordé, le possédé perd 1 EP.
+  n'est pas accordé, le possédé perd 1EP.
 
   .. class:: red
 
     **Fantômes**
 
-  En cas d'infection de fantômes, 1 EP est perdu temporairement. Il est
+  En cas d'infection de fantômes, 1EP est perdu temporairement. Il est
   récupéré quand la possession s'achève. Par contre, chaque épreuve pénible
   psychiquement, qui serait affrontée normalement avec un léger stress, est
   susceptible de faire perdre un point d'Equilibre Psychique.

@@ -85,13 +85,13 @@ empoisonné ou que des brûlures ne sont pas encore bien guéries.
  .. class:: darkred
 
   *Exemple :* Une grenade explose à côté d'Arthur. Le tableau des armes indique
-  qu'une grenade au point d'impact inflige normalement[F] PV et [F] PS. Il est
+  qu'une grenade au point d'impact inflige normalement[F]PV et [F]PS. Il est
   précisé qu'en cas de localisation, les dégâts en PV sont diminués de deux
-  colonnes. Ce qui donne [D] PV : Arthur Perd 1 PV à la tête, 2 au torse, 1 au
+  colonnes. Ce qui donne [D]PV : Arthur Perd 1PV à la tête, 2 au torse, 1 au
   bras gauche, 2 au bras droit, 3 à la jambe gauche, 1 à la jambe droite. Trois
   cases de malaise sont cochées, ce qui amène Arthur dans la case indiquée par
   un petit -3. On tire aussi la perte de points de souffle, une seule fois, ce
-  qui donne une perte de 3 PS. Arthur est vraiment très gravement blessé. Mais
+  qui donne une perte de 3PS. Arthur est vraiment très gravement blessé. Mais
   c'est normal avec une grenade !
 
 Conséquences
@@ -155,13 +155,13 @@ donnée, on gagne un point sur le compteur de malaise.
 Séquelles
 ---------
 
-- Si une zone blessée tombe à 0 PV, elle peut être définitivement perdue. Il
+- Si une zone blessée tombe à 0PV, elle peut être définitivement perdue. Il
   faut réussir très vite un **test** de Premiers soins (ou Médecine) pour la
   sauver.  Ce temps de réaction est directement proportionnel à la Résistance
   |resistance| du personnage. Si la blessure est à la tête, on calcule ce temps
   en nombre de passes d'armes |s| ; au torse, en minutes |s| ; ailleurs, en
   heures.  Ainsi, un personnage qui a 3 en Résistance |resistance| et qui est
-  tombé à 0 PV à la tête doit être soigné dans les 3 passes d'armes suivant la
+  tombé à 0PV à la tête doit être soigné dans les 3 passes d'armes suivant la
   blessure.
 
   Quand ce délai est écoulé, le personnage a encore droit à une dernière
@@ -175,7 +175,7 @@ Séquelles
   ...). Le personnage coche une case de malaise pour cette perte, qui ne sera
   récupérée que quand le personnage aura maîtrisé son handicap.
 
-- Si une zone blessée tombe en dessous de 0 PV, c'est encore plus grave. Le
+- Si une zone blessée tombe en dessous de 0PV, c'est encore plus grave. Le
   personnage perd automatiquement tous ses PS et tombe évanoui. On ne peut plus
   utiliser Premiers soins, il faut obligatoirement agir avec le **talent**
   Médecine.  Les règles ci-dessus, concernant le délai d'intervention et le
@@ -184,7 +184,7 @@ Séquelles
   |humain| + Médecine + **difficulté**. La **difficulté** est égale au nombre
   de PV en dessous de zéro.
 
-Le but du test est de ramener les PV de la zone à 0 ou 1 PV.  Pour cela, on
+Le but du test est de ramener les PV de la zone à 0 ou 1PV.  Pour cela, on
 utilise les règles normales des tests, la valeur de la guérison se calculant
 comme s'il s'agissait d'une « arme », elle-même dépendant du matériel de soin
 disponible :
@@ -202,33 +202,33 @@ robotique) et cuve de régénération (ordinateur de soins) se font sur Esprit
 |esprit| + Action |action| + Mécanique |mecanique| + Médecine + **difficulté**.
 
 Une fois les soins prodigués et réussis, on détermine de combien de points la
-zone blessée a été « guérie ». Si elle est remontée à plus de 1 PV, elle reste
-à 1PV.  Si elle est portée à 0 PV, elle reste à ce score. Elle passera à 1 PV
+zone blessée a été « guérie ». Si elle est remontée à plus de 1PV, elle reste
+à 1PV.  Si elle est portée à 0PV, elle reste à ce score. Elle passera à 1PV
 le jour suivant, et une cicatrice subsistera sur la zone touchée. Si le score
 est négatif, on retire définitivement ce nombre du maximum des points de vie
-qu'avait cette zone. Le personnage récupère 1 PV par jour dans la zone, et ne
+qu'avait cette zone. Le personnage récupère 1PV par jour dans la zone, et ne
 pourra s'en servir que quand il sera au moins à 1 point positif. Dans le cas du
 tronc ou de la tête, cela correspond à des jours de coma profond.
 
  .. class:: darkred
 
-  *Exemple :* Arthur, un soldat huguenot, a perdu 6 PV au torse, il est donc
-  tombé à -2 PV sur cette zone, il est dans le coma.  Un de ces compagnons le
+  *Exemple :* Arthur, un soldat huguenot, a perdu 6PV au torse, il est donc
+  tombé à -2PV sur cette zone, il est dans le coma.  Un de ces compagnons le
   porte rapidement au camp de toile qui sert d'infirmerie. Malheureusement a
   une faible Résistance |resistance| : 2. Et son compagnon met plus de 2
   minutes à le transporter. Arthur fait un **test** Corps |corps| + Désir
   |desir| + Humain |humain|, qu'il réussit. Il a droit à 2 minutes de sursis,
   ce qui suffit pour qu'on l'allonge sur la table du chirurgien, Ambroise Paré.
   Celui-ci doit réussir un **test** Corps |corps| + Perception |perception| +
-  Humain |humain| + Médecine -2 (les -2 proviennent de -2 PV au torse). Il n'a
+  Humain |humain| + Médecine -2 (les -2 proviennent de -2PV au torse). Il n'a
   droit qu'à un essai. S'il échoue, Arthur meurt. La capacité de guérison d'un
   hôpital médiéval est de [C]. Si Paré fait 1 point de guérison, Arthur passe a
-  -1 PV.  Cela veut dire qu'il passe deux jours dans le coma (pour grimper
-  jusqu'à 1 PV) et que son maximum de PV va passer définitivement de 4 à 3 dans
-  la zone du torse. Si Paré fait 2 points de guérison, Arthur passe à 0 PV,
+  -1PV.  Cela veut dire qu'il passe deux jours dans le coma (pour grimper
+  jusqu'à 1PV) et que son maximum de PV va passer définitivement de 4 à 3 dans
+  la zone du torse. Si Paré fait 2 points de guérison, Arthur passe à 0PV,
   reste 1 jour dans le coma et n'aura comme séquelle qu'une profonde cicatrice.
   Mais Ambroise Paré est un chirurgien de génie (**talent** à +3), il obtient
-  une réussite critique, et soigne Arthur de 4 PV, celui-ci ne passe à 2 points
+  une réussite critique, et soigne Arthur de 4PV, celui-ci ne passe à 2 points
   de vie, mais à 1, ce qui est déjà bien. Il n'aura aucune cicatrice durable et
   se réveillera une heure plus tard (quand il aura récupéré un point de
   souffle).
@@ -309,7 +309,7 @@ Protection des types d'armure courants
   3 (marge de réussite) + 7 (somme du jet de deux dés) = 10 |s| ; Ulrog touche
   Aramir au tronc (tirage au hasard) qui a une protection de 4 (cotte de
   mailles). La somme finale est donc de 10-4 = 6, ce qui cause des dégâts de 2
-  PV et 0 PS, au lieu de 3 PV et 1 PS.
+  PV et 0PS, au lieu de 3PV et 1PS.
 
 Bouclier
 --------
@@ -626,9 +626,9 @@ Encore plus vite ?
 ------------------
 
 À partir du niveau +2 dans une arme, on peut utiliser 1 point de Rapidité pour
-porter une attaque supplémentaire. Rappelons que l’usage de 1 EP au lieu de 1
-PS permet d’avoir les avantages de l’Énergie pendant plusieurs passes d’armes
-de suite.
+porter une attaque supplémentaire. Rappelons que l’usage de 1EP au lieu de 1PS
+permet d’avoir les avantages de l’Énergie pendant plusieurs passes d’armes de
+suite.
 
 ----
 

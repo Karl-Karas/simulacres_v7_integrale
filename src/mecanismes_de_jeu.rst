@@ -499,7 +499,7 @@ Exemple complet d’un combat
 
 *Urlog le guerrier a une somme Corps* |corps| *+ Action* |action| *+ Mécanique*
 |mecanique| *égale à 10. Il est spécialisé dans les épées et utilise justement
-une épée à deux mains ([G] PV et [A] PS). La valeur de son test de combat est
+une épée à deux mains ([G]PV et [A]PS). La valeur de son test de combat est
 donc de 11, ce qui est beaucoup mais normal, c’est son* **métier**\ *. En face
 de lui, il a Aramir, un chasseur qui a un* **talent** *en archerie.*
 
@@ -677,7 +677,7 @@ maladies et les empoisonnements.
   |humain| + **difficulté**. La **difficulté** est égale au nombre d’EP perdus par le
   patient. Elle peut être diminuée si le « docteur » fait une très bonne
   réussite à son **test**. En cas de réussite, le patient récupère 1EP après une
-  journée de repos. Et regagnera normalement 1 EP au bout de 7 jours. On peut
+  journée de repos. Et regagnera normalement 1EP au bout de 7 jours. On peut
   faire une séance de ce type toutes les semaines.
 
 Dégâts automatiques
@@ -686,11 +686,11 @@ Dégâts automatiques
 Il peut arriver que l’on subisse des dégâts sans qu’une marge de réussite (ou
 d’échec) intervienne pour autant.  C’est le cas quand un personnage déclenche
 un piège, tombe dans une fosse, etc. Auquel cas les dégâts sont notés de la
-façon suivante : [x+y] PV (ou PS), x étant la catégorie des dégâts, y étant le
+façon suivante : [x+y]PV (ou PS), x étant la catégorie des dégâts, y étant le
 nombre à rajouter au lancer de deux dés à six faces.
 
-Ainsi [C+3] PS veut dire que l’on lance 2d6, on ajoute 3 et on regarde dans la
-colonne c le nombre de points de souffle perdus. Si on note simplement [C] PV,
+Ainsi [C+3]PS veut dire que l’on lance 2d6, on ajoute 3 et on regarde dans la
+colonne c le nombre de points de souffle perdus. Si on note simplement [C]PV,
 cela veut dire que l’on lance 2d6 et que l’on n’y rajoute rien. Nous vous
 conseillons de faire varier x entre 0 et 9, pas plus...
 
