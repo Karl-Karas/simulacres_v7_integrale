@@ -139,7 +139,7 @@ Description :
     l'attaquera jamais. La résistance magique au sort est celle de la victime
     humaine. Caractéristiques de la goule : voir Bestiaire p. :pageref:`goule`.
 
-:bred:`Envoûtement`
+:bred:`Envoûtement`\ :label:`envoutement`
 
 Formule :
     |esprit| + |action| + |humain|
@@ -177,7 +177,8 @@ Description :
 :bred:`Invocation d'un familier`
 
 Description :
-    C'est le même sortilège que celui de la liste d'Invocation.
+    C'est le même sortilège que celui de la liste d'Invocation p.
+    :pageref:`invocation-d-un-familier`.
 
 :bred:`Réparation des corps`
 

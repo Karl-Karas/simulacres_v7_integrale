@@ -12,9 +12,10 @@ Niveau 1
 :bred:`Brouiller un sens`
 
 Description :
-    Même sortilège que celui de la liste de Brume (Illusion).
+    Même sortilège que celui de la liste de Brume (Illusion) p.
+    :pageref:`brouiller-un-sens`.
 
-:bred:`Émotion`
+:bred:`Émotion`\ :label:`emotion`
 
 Formule :
     |coeur| + |desir| + |humain|/|animal|

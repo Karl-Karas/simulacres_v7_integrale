@@ -310,13 +310,13 @@ règle de duel, légèrement inspirée de la précédente, mais qui se jouera en
 phases distinctes.
 
 a. Dans un premier temps, le personnage subit une « attaque », que ce soit de
-   séduction (Cœur |coeur|), de faim (Corps a), d’hypnotisme ou de baratin
-   (Esprit |esprit|). Il fait un test Composante + Résistance |resistance| +
-   Humain |humain| + **difficulté**. La **difficulté** dépend des circonstances
-   (chaleur, nombre de jours sans manger) ou tout simplement de la marge de
-   réussite de l’autre (séduction, conviction).  Si le test est réussi, le
-   personnage a résisté passivement à l’attaque. En fait, c’est presque comme
-   si elle n’avait pas eu lieu.
+   séduction (Cœur |coeur|), de faim (Corps |corps|), d’hypnotisme ou de
+   baratin (Esprit |esprit|). Il fait un test Composante + Résistance
+   |resistance| + Humain |humain| + **difficulté**. La **difficulté** dépend
+   des circonstances (chaleur, nombre de jours sans manger) ou tout simplement
+   de la marge de réussite de l’autre (séduction, conviction).  Si le test est
+   réussi, le personnage a résisté passivement à l’attaque. En fait, c’est
+   presque comme si elle n’avait pas eu lieu.
 #. Si, dans un deuxième temps, le personnage n’a pas pu résister, et qu’il est
    conscient de subir une « attaque », il peut tenter, dans un sursaut
    d’énergie, de reprendre le dessus. Il fait alors un test Composante + Désir

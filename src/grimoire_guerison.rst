@@ -97,7 +97,7 @@ Description :
     perdre des points de vie, le patient récupère 1PV par heure d'effet, à
     concurrence des dommages subis de cette façon.
 
-:bred:`Guérir les maladies`
+:bred:`Guérir les maladies`\ :label:`guerir-les-maladies`
 
 Formule :
     |corps| + |resistance| + |vegetal|/|animal|/|humain|
@@ -285,11 +285,11 @@ Description :
 :bred:`Rajeunissement`
 
 Description :
-    Identique à celui de la liste Boue (Création de vie).
+    Identique à celui de la liste Boue (Création de vie) p. :pageref:`rajeunissement`.
 
 :bred:`Résurrection`
 
 Description :
-    Identique à celui de la liste Boue (Création de vie).
+    Identique à celui de la liste Boue (Création de vie) p. :pageref:`resurrection`.
 
 ----

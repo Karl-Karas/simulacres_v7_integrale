@@ -13,9 +13,10 @@ Niveau 1
 :bred:`Cercle de protection`
 
 Description :
-    Identique à celui de la liste Protection.
+    Identique à celui de la liste Protection p. 
+    :pageref:`cercle-de-protection`.
 
-bred:`Contrecoup`
+:bred:`Contrecoup`
 
 Formule :
     |instinct| + |action| + |mecanique|
@@ -55,19 +56,20 @@ Description :
 :bred:`Détection de la magie noire`
 
 Description :
-    Identique à celui de la liste Divination.
+    Identique à celui de la liste Divination p.
+    :pageref:`detection-de-la-magie-noire`.
 
 :bred:`Émotion`
 
 Description :
-    Identique à celui de la liste Charme, mais il ne peut être lancé qu’au
-    niveau 1, pas au niveau 2.
+    Identique à celui de la liste Charme p. :pageref:`emotion`, mais il ne peut
+    être lancé qu’au niveau 1, pas au niveau 2.
 
 :bred:`Guérir une maladie`
 
 Description :
-    Identique à Guérir les maladies de la liste Guérison. On ne peut guérir
-    qu’une maladie à la fois.
+    Identique à Guérir les maladies de la liste Guérison p.
+    :pageref:`guerir-les-maladies`. On ne peut guérir qu’une maladie à la fois.
 
 :bred:`Maladie`
 
@@ -133,7 +135,7 @@ Niveau 2
 :bred:`Envoûtement`
 
 Description :
-    Identique à celui de la liste Nécromancie.
+    Identique à celui de la liste Nécromancie p. :pageref:`envoutement`.
 
 :bred:`Exorciser`
 
@@ -168,7 +170,7 @@ Description :
     susceptible d'être à nouveau possédé. L'esprit ou le démon renvoyé dans son
     plan ne peut revenir avant MR années, même si un magicien l'invoque.
 
-:bred:`Interroger les morts`
+:bred:`Interroger les morts`\ :label:`interroger-les-morts`
 
 Formule :
     |esprit| + |perception| + |neant|
@@ -206,32 +208,36 @@ Description :
 :bred:`Invocation d’un familier`
 
 Description :
-    Identique à celui de la liste Invocation.
+    Identique à celui de la liste Invocation p.
+    :pageref:`invocation-d-un-familier`.
 
 :bred:`Retour de sort`
 
 Description :
-    C’est un autre nom pour désigner le sort Boomerang de la liste Métamagie.
+    C’est un autre nom pour désigner le sort Boomerang de la liste Métamagie p.
+    :pageref:`boomerang`.
 
 NIVEAU 3
 
 :bred:`Appeler un démon`
 
 Description :
-    Identique à celui de la liste Invocation, mais celui-ci est lancé au niveau
-    3.
+    Identique à celui de la liste Invocation p. |s|
+    :pageref:`appeler-un-demon`, mais celui-ci est lancé au niveau 3.
 
 :bred:`Renvoyer un esprit ou un démon`
 
 Description :
-    Identique à celui de la liste Invocation.
+    Identique à celui de la liste Invocation p. |s|
+    :pageref:`renvoyer-un-esprit-ou-un-demon`.
 
 :bred:`Transformation en animal`
 
 Description :
     C’est le même sort que Transformation en autre Règne de la liste
-    Métamorphose, à l’exception près que les sorciers ne peuvent apprendre ce
-    sort qu’avec le Règne Animal |animal|.
+    Métamorphose p. |s| :pageref:`transformation-en-un-autre-regne`, à
+    l’exception près que les sorciers ne peuvent apprendre ce sort qu’avec le
+    Règne Animal |animal|.
 
 ----
 

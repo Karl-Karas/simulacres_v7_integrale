@@ -105,7 +105,7 @@ Description :
     notamment le comportement ou le mot nécessaires pour activer un objet
     magique.
 
-:bred:`Détection de la magie noire`
+:bred:`Détection de la magie noire`\ :label:`detection-de-la-magie-noire`
 
 Formule :
     |esprit| + |perception| + |mineral|/|vegetal|/|animal|/|humain|/|mecanique|

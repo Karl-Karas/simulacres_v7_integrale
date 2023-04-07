@@ -34,7 +34,7 @@ Description :
     moins va venir voir ce que veut le magicien. Elles ne sont pas tenues
     d'obéir, ni même d'être gentilles.
 
-:bred:`Cercle de protection`
+:bred:`Cercle de protection`\ :label:`cercle-de-protection`
 
 Formule :
     |corps| + |resistance| + |neant|
@@ -129,7 +129,7 @@ Description :
 Niveau 2
 --------
 
-:bred:`Appeler un démon`
+:bred:`Appeler un démon`\ :label:`appeler-un-demon`
 
 Formule :
     |instinct| + |desir| + |neant|
@@ -192,7 +192,7 @@ Description :
     mais pas à attaquer quelqu'un. Le Règne du sort dépend du type de Færie.
     Pour les mort-vivants, c'est forcément Néant |neant|.
 
-:bred:`Invocation d'un familier`
+:bred:`Invocation d'un familier`\ :label:`invocation-d-un-familier`
 
 Formule :
     |instinct| + |resistance| + |neant|
@@ -264,7 +264,7 @@ Description :
     aide. Elles sont alors libres de venir (pas de jet de Résistance à la
     magie) ; ce n'est pas de la magie noire.
 
-:bred:`Lier un esprit simple`
+:bred:`Lier un esprit simple`\ :label:`lier-un-esprit-simple`
 
 Formule :
     |corps| + |resistance| + |mecanique|
@@ -501,7 +501,7 @@ Description :
     garde tous ses pouvoirs magiques, peut faire parler l'objet s'il sait
     parler lui-même, mais ne peut animer l'objet.
 
-:bred:`Renvoyer un esprit ou un démon`
+:bred:`Renvoyer un esprit ou un démon`\ :label:`renvoyer-un-esprit-ou-un-demon`
 
 Formule :
     |coeur| + |desir| + |neant|

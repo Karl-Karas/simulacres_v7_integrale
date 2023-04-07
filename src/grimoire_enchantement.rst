@@ -397,8 +397,9 @@ Description :
 :bred:`Lier un esprit simple`
 
 Description :
-    C'est le même sort que celui de la liste d'Invocation, à l'exception près
-    qu'ici, il est au niveau 3.
+    C'est le même sort que celui de la liste d'Invocation p.
+    :pageref:`lier-un-esprit-simple`, à l'exception près qu'ici, il est au
+    niveau 3.
 
 :bred:`Permanence`
 

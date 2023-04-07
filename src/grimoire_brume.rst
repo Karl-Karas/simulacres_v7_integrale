@@ -41,7 +41,7 @@ Description :
     qu'une seule créature vivante à la fois. Par exemple : faire croire que
     telle personne parle avec la voix de telle autre.
 
-:bred:`Brouiller un sens`
+:bred:`Brouiller un sens`\ :label:`brouiller-un-sens`
 
 Formule :
     |esprit| + |perception| + |animal|/|humain|

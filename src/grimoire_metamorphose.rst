@@ -142,7 +142,7 @@ Description :
 Niveau 3
 --------
 
-:bred:`Transformation en un autre Règne`
+:bred:`Transformation en un autre Règne`\ :label:`transformation-en-un-autre-regne`
 
 Formule :
     |corps| + |desir| + |mineral|/|vegetal|/|animal|

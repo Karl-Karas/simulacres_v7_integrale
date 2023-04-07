@@ -138,7 +138,7 @@ Description :
 Niveau 2
 --------
 
-:bred:`Boomerang`
+:bred:`Boomerang`\ :label:`boomerang`
 
 Formule :
     |instinct| + |resistance| + |neant|

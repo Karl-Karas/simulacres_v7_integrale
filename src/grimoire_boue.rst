@@ -466,7 +466,7 @@ Description :
     (homme-arbre, lion de pierre, etc.). Ces créatures n'étant viables que
     magiquement, elles ne peuvent pas se reproduire, sauf par magie.
 
-:bred:`Rajeunissement`
+:bred:`Rajeunissement`\ :label:`rajeunissement`
 
 Formule :
     |corps| + |desir| + |humain|
@@ -488,7 +488,7 @@ Description :
     La cible rajeunit de MR années. Le magicien ne peut pas lancer ce sort sur
     lui-même.
 
-:bred:`Résurrection`
+:bred:`Résurrection`\ :label:`resurrection`
 
 Formule :
     |instinct| + |desir| + |animal|/|humain|
