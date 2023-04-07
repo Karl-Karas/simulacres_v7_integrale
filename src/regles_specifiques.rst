@@ -341,16 +341,16 @@ Passe d’arme 2
 
 Enomias obtient 9, réussite de 2, plus 2d6 (5), soit une distance de 2 cases.
 L’orque prend peur et décide de faire bondir son loup (il le force à dépenser
-1pt de Puissance |puissance|), ce qui lui ajoute 1 au **test**. Il fait bien car le jet de
-dés donne 10, réussite de 1, plus 2d6 (8) : déplacement de 1 case, le loup et
-l’orque sont à l’orée du bois. La distance entre les deux poursuivants est
-passée à 9.
+1pt de Puissance |puissance|), ce qui lui ajoute 1 au **test**. Il fait bien
+car le jet de dés donne 10, réussite de 1, plus 2d6 (8) : déplacement de 1
+case, le loup et l’orque sont à l’orée du bois. La distance entre les deux
+poursuivants est passée à 9.
 
 Passe d’arme 3 et suivantes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Le meneur de jeu peut décider que l’elfe ne s’est pas suffisamment rapproché de
-l’orque pour la suivre dans les sous-bois. Il peut aussi décider que la
+l’orque pour le suivre dans les sous-bois. Il peut aussi décider que la
 poursuite continue. Auquel cas le loup n’est pas gêné par les sous-bois (il a
 une taille de 2 seulement). Mais si Enomias s’y engage, son cheval n’aura plus
 qu’une vitesse de [D], le malus d’une colonne étant dû au fait que sa taille
@@ -508,11 +508,11 @@ et combien.
  .. class:: darkred
 
   *Exemple :* Bruce Wilfor tire avec un missile laser\ :supt:`G`, sur un
-  vaisseau dont les boucliers énergétiques sont de 40 PC\ :supt:`H`. Le
-  résultat final du jet de dégâts est 21, ce qui donnerait 8 si la protection
-  était de classe G. Mais elle est de classe H, on lit donc le résultat en
-  décalant d'une colonne sur la droite : on ne retire que 4 PCH au vaisseau. À
-  l'inverse, sur un immeuble de 100 PC\ :supt:`D`, Wilfor aurait infligé 64 PC\
+  vaisseau dont les boucliers énergétiques sont de 40PC\ :supt:`H`. Le résultat
+  final du jet de dégâts est 21, ce qui donnerait 8 si la protection était de
+  classe G. Mais elle est de classe H, on lit donc le résultat en décalant
+  d'une colonne sur la droite : on ne retire que 4PC\ :sup:`H` au vaisseau. À
+  l'inverse, sur un immeuble de 100PC\ :supt:`D`, Wilfor aurait infligé 64PC\
   :supt:`D`, le détruisant à moitié.
 
 ----
@@ -640,7 +640,7 @@ Niveau 1
                             assimilé) a un malus de 2 à tous ses **tests** contre
                             la cible, pour MR heures.
 :Purifier eau et nourriture: (|mineral| et/ou |vegetal| et/ou |animal|) Purifie
-                             de quoi nourrir MRx4 personnes.
+                             de quoi nourrir MR x 4 personnes.
 :Renvoi de sort: On renvoie vers son adversaire un sort de magie noire dont on
                  est la cible. Le temps de concentration est quasi instantané,
                  il n’y a pas de Règne nécessaire minimum.
@@ -679,7 +679,7 @@ Restrictions
 Il faut avoir au moins 2 points dans le Règne que l’on veut cibler (qui ne peut
 jamais être Mécanique |mecanique|, sauf Inaction. Voir plus loin). Certains
 pouvoirs ne peuvent être utilisés qu’avec les Règnes Animal |animal| et Végétal
-|vegetal| et pas Humain |humain| D’autres pouvoirs sont du Règne Minéral
+|vegetal| et pas Humain |humain|. D’autres pouvoirs sont du Règne Minéral
 |mineral|, même s’ils ont pour cible des humains, animaux ou végétaux. Le Règne
 nécessaire est indiqué entre parenthèses quand il n’est pas évident.
 
@@ -706,7 +706,7 @@ Niveau 1
                       pendant les MR mois qui suivent une croissance optimale.
                       C’est-à-dire qu’elle restera naturelle, dans les normes,
                       mais au mieux de ce qui est possible.
-:Protection: (|mineral|) La cible est immunisée pendant MR x 4heures à la
+:Protection: (|mineral|) La cible est immunisée pendant MR x 4 heures à la
              chaleur, au froid, à la faim, la soif, ou tout autre « désagrément
              » naturel.
 
@@ -762,7 +762,7 @@ Niveau 0
 :Détection du Bien: Ne détecte que les personnes qui irradient de l’Énergie du
                      Bien : les saints ou les créatures surnaturelles dont la
                      nature est profondément bonne.
-:Malchance: La cible a-1 à son prochain **test** de résistance (vis-à-vis de
+:Malchance: La cible a -1 à son prochain **test** de résistance (vis-à-vis de
             tout).
 
 Niveau 1
