@@ -141,7 +141,7 @@ entre ces deux **talents**, c'est que Médecine permet, en plus, de soigner et
 de diagnostiquer des maladies. En cas de réussite, la zone blessée regagne
 automatiquement 1PV.
 
-Une fois soigné, chaque jour de repos complet permet de récupérer IPV par zone
+Une fois soignée, chaque jour de repos complet permet de récupérer 1PV par zone
 blessée. Toute activité durant cette journée, ou toute blessure non pansée,
 peuvent compromettre la guérison. Le blessé doit faire un **test** Corps
 |corps| + Résistance |resistance| + Humain |humain|, par zone touchée, pour
@@ -197,7 +197,7 @@ disponible :
 - Robodoc de grande taille: [F]
 - Cuve de régénération: [J]
 
-les **tests** avec les robodocs (instruments micro-chirurgicaux à commande
+Les **tests** avec les robodocs (instruments micro-chirurgicaux à commande
 robotique) et cuve de régénération (ordinateur de soins) se font sur Esprit
 |esprit| + Action |action| + Mécanique |mecanique| + Médecine + **difficulté**.
 
@@ -214,9 +214,9 @@ tronc ou de la tête, cela correspond à des jours de coma profond.
 
   *Exemple :* Arthur, un soldat huguenot, a perdu 6PV au torse, il est donc
   tombé à -2PV sur cette zone, il est dans le coma.  Un de ces compagnons le
-  porte rapidement au camp de toile qui sert d'infirmerie. Malheureusement a
-  une faible Résistance |resistance| : 2. Et son compagnon met plus de 2
-  minutes à le transporter. Arthur fait un **test** Corps |corps| + Désir
+  porte rapidement au camp de toile qui sert d'infirmerie. Malheureusement
+  Arthur a une faible Résistance |resistance| : 2. Et son compagnon met plus de
+  2 minutes à le transporter. Arthur fait un **test** Corps |corps| + Désir
   |desir| + Humain |humain|, qu'il réussit. Il a droit à 2 minutes de sursis,
   ce qui suffit pour qu'on l'allonge sur la table du chirurgien, Ambroise Paré.
   Celui-ci doit réussir un **test** Corps |corps| + Perception |perception| +
@@ -228,10 +228,10 @@ tronc ou de la tête, cela correspond à des jours de coma profond.
   la zone du torse. Si Paré fait 2 points de guérison, Arthur passe à 0PV,
   reste 1 jour dans le coma et n'aura comme séquelle qu'une profonde cicatrice.
   Mais Ambroise Paré est un chirurgien de génie (**talent** à +3), il obtient
-  une réussite critique, et soigne Arthur de 4PV, celui-ci ne passe à 2 points
-  de vie, mais à 1, ce qui est déjà bien. Il n'aura aucune cicatrice durable et
-  se réveillera une heure plus tard (quand il aura récupéré un point de
-  souffle).
+  une réussite critique, et soigne Arthur de 4PV. Celui-ci ne passe pas à 2
+  points de vie, mais à 1, ce qui est déjà bien. Il n'aura aucune cicatrice
+  durable et se réveillera une heure plus tard (quand il aura récupéré un point
+  de souffle).
 
 Viser
 -----
@@ -268,12 +268,12 @@ localisés.  En revanche, vous pouvez décider de n'avoir que des points de vie
 localisés, et d'utiliser les règles de base pour les armures (voir page
 :pageref:`armure-base`).
 
-Chaque partie du corps peut être couverte par une « armure » qui protège des
-coups.  Cette protection varie de 1 à 6 par partie du corps (en fonction du
-matériau employé). Notez-la sur votre feuille de personnage dans les petites
-cases Pr., pour chaque zone protégée. Si un agresseur porte un coup sur
-l'armure, ce nombre est retiré à la somme marge de réussite + résultat de deux
-dés à six faces, avant calcul des dommages en PV et PS.
+Chaque partie du corps peut être couverte par une « |s| armure |s| » qui
+protège des coups.  Cette protection varie de 1 à 6 par partie du corps (en
+fonction du matériau employé). Notez-la sur votre feuille de personnage dans
+les petites cases Pr., pour chaque zone protégée. Si un agresseur porte un coup
+sur l'armure, ce nombre est retiré à la somme marge de réussite + résultat de
+deux dés à six faces, avant calcul des dommages en PV et PS.
 
 Néanmoins, cette armure peut être gênante si elle est trop encombrante.  Faites
 la somme de toutes les protections du corps, et appliquez les conséquences
@@ -308,8 +308,8 @@ Protection des types d'armure courants
   Ulrog, qui donne un coup d'épée, réussit sa passe d'armes et fait un total de
   3 (marge de réussite) + 7 (somme du jet de deux dés) = 10 |s| ; Ulrog touche
   Aramir au tronc (tirage au hasard) qui a une protection de 4 (cotte de
-  mailles). La somme finale est donc de 10-4 = 6, ce qui cause des dégâts de 2
-  PV et 0PS, au lieu de 3PV et 1PS.
+  mailles). La somme finale est donc de 10-4 = 6, ce qui cause des dégâts de
+  2PV et 0PS, au lieu de 3PV et 1PS.
 
 Bouclier
 --------
@@ -348,16 +348,16 @@ l'autre main bien sûr). Ce test est alors un test simple et non plus un duel
   |corps| + Action |action| + Mécanique |mecanique| + bouclier -1, il fait une
   MR de 3, son adversaire aussi : leurs coups sont parés). À la seconde passe
   d'arme, Ulrog, fait 3 à son jet de dés (non seulement : il pare l'attaque,
-  mais c'est une réussite critique). il peut donc essayer de riposter avec son
+  mais c'est une réussite critique). Il peut donc essayer de riposter avec son
   épée, et il réussit sur un **test** simple Corps |corps| + Action |action| +
   Mécanique |mecanique| + Epée.
 
 La protection
 ^^^^^^^^^^^^^
 
-Pour utiliser le boucher en protection, il faut obligatoirement avoir le talent
-Boucher à 0 (pour les règles de base: avoir un talent Bouclier). Sinon le
-bouclier ne peut pas servir à se protéger, on ne sait pas suffisamment bien
+Pour utiliser le bouclier en protection, il faut obligatoirement avoir le
+talent Bouclier à 0 (pour les règles de base: avoir un talent Bouclier). Sinon
+le bouclier ne peut pas servir à se protéger, on ne sait pas suffisamment bien
 l'utiliser.
 
 Pour les règles, il faut faire la distinction entre deux cas |s| : si on
@@ -372,9 +372,9 @@ gêne |s| : 0) ou une armure légère |s| ; et avoir un grand bouclier (protecti
 débarrasser plus vite (en cas de poursuite, pour grimper un mur) mais en
 contrepartie, on ne peut se protéger que contre un seul adversaire à la fois
 avec le petit bouclier, et deux avec le grand. Par contre, avec une arme dans
-l'autre main, la possibilité de parade existe. Si on combine armure et boucher,
-il faut cumuler les gênes, plus une gêne supplémentaire de 1, les protections
-s'additionnent.
+l'autre main, la possibilité de parade existe. Si on combine armure et
+bouclier, il faut cumuler les gênes, plus une gêne supplémentaire de 1, les
+protections s'additionnent.
 
  .. class:: darkred
 
@@ -386,7 +386,7 @@ PV localisés
 
 Le bouclier diminue de 1 (petit bouclier) ou 2 (grand bouclier) le test de
 combat de l'adversaire. Si l'attaque passe, il n'offre pas de protection.
-Néanmoins, pour les acteurs d'encombrement et de gêne, il compte comme une Pr
+Néanmoins, pour les facteurs d'encombrement et de gêne, il compte comme une Pr
 de 6 (petit bouclier) ou 12 (grand bouclier).
 
  .. class:: darkred
@@ -409,9 +409,9 @@ de 6 (petit bouclier) ou 12 (grand bouclier).
 Utilisation alternative des Énergies
 ====================================
 
-En plus des modes normaux, les Énergies peuvent être utilisés d'une manière qui
-n'augmente pas la valeur du test auxquelles elles s'appliquent, mais seulement
-les résultats en cas de réussite.
+En plus des modes normaux, les Énergies peuvent être utilisées d'une manière
+qui n'augmente pas la valeur du test auxquelles elles s'appliquent, mais
+seulement les résultats en cas de réussite.
 
 - **La Puissance** |puissance| peut être utilisée pour augmenter de 1 dé la
   marge de réussite par point de Puissance |puissance| investi.
@@ -531,10 +531,10 @@ adversaire, même si celui-ci a réussi à le blesser.
 
 En ce qui concerne les PMJ, accordez cette possibilité à tous les guerriers
 confirmés (qu’ils soient Faibles, Moyens ou Forts n’a pas d’importance).
-Accordez aussi, si vous le désirez, ce talent aux monstres les plus « combatifs
-».  Cette règle permet d’utiliser enfin efficacement le bouclier en parade (p.
-:pageref:`la-parade`), une règle qui, il faut le reconnaître, n’est pas très
-intéressante alors à appliquer.
+Accordez aussi, si vous le désirez, ce talent aux monstres les plus « |s|
+combatifs |s| ».  Cette règle permet d’utiliser enfin efficacement le bouclier
+en parade (p.  :pageref:`la-parade`), une règle qui, il faut le reconnaître,
+n’est pas très intéressante alors à appliquer.
 
 ----
 
@@ -543,8 +543,8 @@ La Voie du Guerrier
 
 Quand on a peu de points de vie, il vaut mieux savoir se battre – et bien –
 quand le moment du combat est venu. Nous vous proposons ici des règles
-optionnelles, qui devraient « booster » de façon impressionnante les meilleurs
-des guerriers.
+optionnelles, qui devraient « |s| booster |s| » de façon impressionnante les
+meilleurs des guerriers.
 
 L'utilisation de la règle optionnelle précédente de **Maîtrise d'Arme** (p.
 :pageref:`maitrise-darme-et-parade`) est fortement conseillée conjointement
@@ -662,9 +662,9 @@ a. Composants génériques standard. Eau, bougie, poussière…, bref tout ce qu
    qui sont très liés au sort que l’on veut lancer. Par exemple, du sang de
    géant pour un sort de force, un cheveu d’une fille prénommée Ariane pour un
    sort d’orientation. Le bonus est alors de +4.
-#. Composants « alchimiques » préparés. Ce sont les « recettes » des sorcières
-   de la tradition comme : deux gouttes de bave de crapaud, trois racines
-   d’hellébore, etc. Ou bien un mélange de chants, gestes et composants
+#. Composants « alchimiques » préparés. Ce sont les « |s| recettes |s| » des
+   sorcières de la tradition comme : deux gouttes de bave de crapaud, trois
+   racines d’hellébore, etc. Ou bien un mélange de chants, gestes et composants
    matériels assemblés.
 
    Cette fois le bonus est variable, allant de +1 à +6, avec les composants
@@ -672,10 +672,10 @@ a. Composants génériques standard. Eau, bougie, poussière…, bref tout ce qu
    (un seul niveau gagné). Ainsi, un nécromancien de niveau 2 peut, après une
    très longue préparation de composants alchimiques, se transformer en
    mort-vivant (sort de niveau 3). Certains sorts plus puissants que les sorts
-   « normaux » des règles peuvent utiliser des composants. Par exemple, un sort
-   de la magie du Temps, Modifier le passé, serait un sort de niveau 3, pour
-   lequel il faudrait utiliser des fragments de l’objet ou de l’être dont on
-   veut modifier le passé.
+   « |s| normaux |s| » des règles peuvent utiliser des composants. Par exemple,
+   un sort de la magie du Temps, Modifier le passé, serait un sort de niveau 3,
+   pour lequel il faudrait utiliser des fragments de l’objet ou de l’être dont
+   on veut modifier le passé.
 
 « Inventer » les composants
 ---------------------------
@@ -715,7 +715,7 @@ Pérennité des composants
 Le fait de lancer un sort ne fait pas disparaître les composants du sort.
 Ainsi, l’usage d’une loupe pour améliorer les chances de réussite d’un sort de
 Suivre les traces n’envoie pas la loupe dans les limbes à la fin du sort. Par
-contre, il existe de très nombreux sorts pour lesquels le composant soit être
-utilisé au consommé (boire un liquide, brûler une bougie, déchirer un tissu
+contre, il existe de très nombreux sorts pour lesquels le composant doit être
+utilisé ou consommé (boire un liquide, brûler une bougie, déchirer un tissu
 ...), mais cela est fait de façon mécanique et non pas magique.
 

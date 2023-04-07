@@ -111,7 +111,7 @@ moyenne. Sauf en cas d'échec critique bien sûr.
 
  .. class:: darkred
 
-  *Exemple :* Jacques Ducoeur à bord de sa Porshe poursuit Aknis Devreaux sur
+  *Exemple :* Jacques Ducoeur à bord de sa Porsche poursuit Aknis Devreaux sur
   sa Honda 250. Comme ils sont en ville, dans une circulation moyennement
   dense, Aknis a un bonus de +1. Ducoeur vient d'apercevoir Devreaux à l'angle
   de la rue. La distance est de 6. Aknis doit réussir un **test** de 9 (le
@@ -143,7 +143,7 @@ ajouter à votre **test** normal de poursuite. Les conséquences sont simples :
 :test réussi: vous rajoutez le double de la valeur de la manœuvre à votre
                marge de réussite (+6 à votre MR pour une difficulté de -3).
 :test raté: vous vous éloignez réellement de votre adversaire (ou il se
-             rapproche si c'est lui qui vous poursuit) d'une distance de [c]
+             rapproche si c'est lui qui vous poursuit) d'une distance de [C]
              unités, en prenant cette fois la marge d'échec pour l'évaluer.
 
 ... Que je t'attrape (règle plus complexe)
@@ -160,12 +160,12 @@ Vitesse maximale
 Cette fois la vitesse n'est plus la même pour tout le monde. Vous devrez, dans
 l'univers dans lequel vous faites jouer, définir, pour une même classe de
 véhicules, quel est le plus lent et quel est le plus rapide. Attribuez la
-valeur [c] au plus lent, la valeur [J] au plus rapide. Vous pourrez ainsi
+valeur [C] au plus lent, la valeur [J] au plus rapide. Vous pourrez ainsi
 estimer la valeur d'un véhicule entre ces deux bornes.
 
  .. class:: darkred
 
-  *Exemple :* Sur une route moderne, on va de la mobylette [c] à la Ferrari
+  *Exemple :* Sur une route moderne, on va de la mobylette [C] à la Ferrari
   [J]. On aura ainsi des camions [E], des petites motos [F], etc. On ne tient
   pas compte des vélos (trop lents pour cette catégorie) pas plus que des
   voitures de course.
@@ -238,13 +238,13 @@ Pour cela on lit la table des dégâts. En colonne, on prend donc la vitesse
 actuelle du véhicule. Puis on lit la ligne correspondant à la vitesse choisie :
 
 :Vitesse économique: Ligne **7 8 9**, la première des lignes bleues, indiquée à
-                     droite par un signe **-**. On va moins vite, mais on
+                     droite par un signe |s| **-**. On va moins vite, mais on
                      économise le carburant.
-:Vitesse de croisière: Ligne **10 11**, indiquée par un signe **=** à droite.
-                       C'est la vitesse normale.
-:Sur-régime: Ligne **12 13 14**, indiquée par un signe **+** à droite. On va
-             plus vite, mais on consomme plus et on risque de casser la
-             machine.
+:Vitesse de croisière: Ligne **10 11**, indiquée par un signe |s| **=** à
+                        droite.  C'est la vitesse normale.
+:Sur-régime: Ligne **12 13 14**, indiquée par un signe |s| **+** à droite. On
+              va plus vite, mais on consomme plus et on risque de casser la
+              machine.
 
 Poursuite
 ^^^^^^^^^
@@ -267,7 +267,7 @@ Les différents types de terrain
 
 Suivant la nature du terrain où se déroule la poursuite, un facteur de
 maniabilité est donné. Il va de 1 (forêt dense) à 10 (désert plat de pierre
-dure). Le petit schéma ci-dessous vous fournira les valeurs les plus courantes.
+dure). Le petit schéma ci-dessus vous fournira les valeurs les plus courantes.
 S’il s’agit de poursuite en vol, la maniabilité dépend de la taille de la zone
 où l’on vole : de 1 (taille d’un aigle) à 10 (ciel ouvert). Des conditions
 météo défavorables peuvent également diminuer la maniabilité (par exemple, une
@@ -987,8 +987,8 @@ Niveau 1
 :Infliger des dégâts(1): Test: Esprit |esprit| + Action |action| + Néant
                            |neant|. Résistance: Corps |corps| + Résistance
                            |resistance| + Humain |humain|. Effet: une créature
-                           vivante que vous pouvez voir subit une perte de [a]
-                           PV.
+                           vivante que vous pouvez voir subit une perte de
+                           [A]PV.
 
 Niveau 2
 ********
@@ -1344,8 +1344,8 @@ Loup-garou
 
 :Avantages: Il a 1PV et 1PS de plus. S'il réussit un test de transformation, il
             devient hirsute, velu, et sa force augmente considérablement. Ses
-            ongles et ses dents deviennent des griffes [c]PV et des crocs
-            [c]PV.
+            ongles et ses dents deviennent des griffes [C]PV et des crocs
+            [C]PV.
 :Désavantages: Son armure naturelle redevient normale face aux armes en argent.
                Si on l'énerve, il peut se transformer sous le coup de la colère
                et perdre le contrôle de ses actes. Résister à la

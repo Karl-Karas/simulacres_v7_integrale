@@ -462,12 +462,15 @@ durées du sortilège.
 - La Précision |precision| peut s’utiliser pour augmenter de 1 les chances
   d’avoir une réussite critique, par point de Précision |precision| investi.
   Attention, cela augmente les chances d’obtenir une réussite critique, mais
-  pas le nombre de dés à lancer ensuite. Exemple : Garthus possède un sortilège
-  au niveau -2. Il fait une réussite critique sur un double-|1|. S’il met 2
-  points en Précision |precision| pour augmenter ses chances de réussite
-  critique, celle-ci s’obtiendra sur 2, 3 ou 4. Par contre, ses chances
-  normales ne sont pas augmentées, et même s’il réussit une critique, il ne
-  lance qu’un dé supplémentaire pour la MR.
+  pas le nombre de dés à lancer ensuite.
+
+   .. class:: darkred
+
+    *Exemple :* Garthus possède un sortilège au niveau -2. Il fait une réussite
+    critique sur un double-|1|. S’il met 2 points en Précision |precision| pour
+    augmenter ses chances de réussite critique, celle-ci s’obtiendra sur 2, 3
+    ou 4. Par contre, ses chances normales ne sont pas augmentées, et même s’il
+    réussit une critique, il ne lance qu’un dé supplémentaire pour la MR.
 - La Rapidité |rapidite|. La durée d’invocation d’un sort peut être diminuée de
   moitié pour 1 point investi, divisée par quatre pour 2 points, divisée par
   huit pour 3 points.
@@ -588,7 +591,7 @@ discrétion du meneur de jeu, et après que le prêtre ait réussi un **test** C
 |coeur| + Désir |desir| + Mécanique |mecanique| + Cérémonie.
 
 Une fois l’objet prêt, si c’est un magicien qui fait l’opération
-d’enchantement, il doit dépenser 2EP, avoir un score minimum de +2 en Aptitude
+d’enchantement, il doit dépenser 2EP, avoir un score minimum de +2 en Art
 magique et réussir un **test** Esprit |esprit| + Action |action| + Mécanique
 |mecanique| + Art magique. S’il réussit, le focus sera enchanté et contiendra
 1PM. De plus, sa capacité sera égale au plus petit chiffre entre la marge de
@@ -1307,8 +1310,8 @@ magie des Sphères vont de 100 à 1000 PM, ce qui est considérable.
   Il suffit de tenir l’objet en main, de penser au sort qu’il doit lancer, puis
   de jeter 2 dés. Sauf en cas de double-|6|, le sort est lancé par l’objet et
   les points dépensés par le focus. Si le joueur a fait un double-|1|, le
-  magicien ne dépense rien de lui-même. Dans tous les autres cas, il dépense 1
-  PS. En cas de double-|6| donc, le sort n’est pas lancé mais le PS est
+  magicien ne dépense rien de lui-même. Dans tous les autres cas, il dépense
+  1PS. En cas de double-|6| donc, le sort n’est pas lancé mais le PS est
   dépensé.
 
 .. raw:: latex
