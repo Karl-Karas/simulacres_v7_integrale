@@ -690,7 +690,7 @@ façon suivante : [x+y]PV (ou PS), x étant la catégorie des dégâts, y étant
 nombre à rajouter au lancer de deux dés à six faces.
 
 Ainsi [C+3]PS veut dire que l’on lance 2d6, on ajoute 3 et on regarde dans la
-colonne c le nombre de points de souffle perdus. Si on note simplement [C]PV,
+colonne C le nombre de points de souffle perdus. Si on note simplement [C]PV,
 cela veut dire que l’on lance 2d6 et que l’on n’y rajoute rien. Nous vous
 conseillons de faire varier x entre 0 et 9, pas plus...
 
@@ -792,7 +792,7 @@ une **difficulté** qui dépend des circonstances extérieures et parfois des
   remarqué de lui-même une coïncidence entre deux faits. C’est le meneur de jeu
   qui doit faire ce **test**.
 - **Retenir son souffle (ou courir longtemps, etc.)** : Corps |corps| +
-  Résistance f+ Humain |humain|.
+  Résistance |resistance| + Humain |humain|.
 - **Séduire une personne que l’on aime** : Cœur |coeur| + Action |action| +
   Humain |humain|. Il faut non seulement réussir, mais que la personne en face
   succombe (rate son **test** de résistance).
@@ -868,9 +868,9 @@ une **difficulté** qui dépend des circonstances extérieures et parfois des
       adversaires en combat essayent de se porter chacun un coup.
     :PJ: Personnage-joueur, un personnage animé par un joueur.
     :PMJ: Personnage incarné par le Meneur de Jeu. La plupart des
-      autres jeux de rôle utilisent le terme PNJ, ce qui veut dire Personnage-
-      Non joueur, traduction littérale du terme anglais Non Player Character
-      (NPC).
+      autres jeux de rôle utilisent le terme PNJ, ce qui veut dire
+      Personnage-Non joueur, traduction littérale du terme anglais Non Player
+      Character (NPC).
     :PS: point de souffle.
     :PV: point de vie.
     :Règnes: Minéral |mineral|, Végétal |vegetal|, Animal |animal|, Humain

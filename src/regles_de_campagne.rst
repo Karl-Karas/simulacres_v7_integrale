@@ -155,12 +155,7 @@ d’aventure par **hobby**.  Quand il y a une étoile (*) à côté d’un chiff
 barème de dépense des points d’aventure, cela veut dire qu’il faut que le
 meneur de jeu autorise votre personnage à faire cette dépense. De plus,
 certaines valeurs ont des maximums que, quoi qu’il arrive, on ne peut dépasser.
-Ainsi, une Composante ne peut jamais être supérieure à 7.  Exemple : Arthur a
-beau être médecin, il veut savoir se battre. Il prend donc le **talent** Épée
-(qu’il passe de -4 à 0, dépensant 4 points d’aventure). De même, il met
-Zoologie à 0 (de X à 0 : 5 pts), Poésie à 0 (de -2 à 0 : 3 pts), Équitation à
--2 (de -4 à -2 : 1 pt) et termine en prenant un **hobby** sur les enluminures
-(2 pts).
+Ainsi, une Composante ne peut jamais être supérieure à 7.
 
  .. class:: darkred
 
