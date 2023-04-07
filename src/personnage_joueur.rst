@@ -406,7 +406,7 @@ additionnez ses scores en Corps |s| |corps| et Résistance |s| |resistance| :
   Il a 4 points de vie.
 - De 6 à 8, sa morphologie est moyenne.
   Il a 5 points de vie.
-- De 9 à 14, sa morphologie forte.
+- De 9 à 14, sa morphologie est forte.
   Il a 6 points de vie.
 
 Si à un moment votre personnage tombe à 0 point de vie, il est mort, la partie
@@ -496,7 +496,7 @@ surhomme.
         objet avant un adversaire, on se servira du Corps, de l’Action et du
         Règne Humain.  Mais celui qui aura plus de Puissance augmentera ses
         chances au bras de fer, alors que celui qui aura le plus de Rapidité
-        augmentera ses chances d’être le premier à saisir l’objet. Ses
+        augmentera ses chances d’être le premier à saisir l’objet. Ces
         mécanismes s’appliquent de la même manière à des tâches intellectuelles
         (trier des renseignements, résoudre des équations, avoir la plus grande
         force de conviction...). Tout cela donnant un nombre de combinaisons et
