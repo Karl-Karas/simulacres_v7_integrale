@@ -76,15 +76,16 @@ fiabilité.
 TODO
 ----
 
-- ajouter les références de pages pour les sorts identiques à ceux d'autres
-  listes
+- ne pas laisser un nom de sort seul au fond d'une colonne
+- nbsp avant les numéros de pages en référence
+- nbsp pour tous les guillemets, tous les signes de ponctuation qui le
+  demandent
 - nice to have: passer la plupart des field lists en definition lists (plus
   propre dans la source, même rendu final)
 
 DONE
 ----
 
-- ré-écrire l'introduction
 - règles Sangdragon de base + personnage joueur
 - règles Sangdragon de campagne
 - les intervenants
@@ -112,6 +113,9 @@ DONE
 - ajout de la fiche de perso pour les magiciens hermétiques (HS10)
 - refaire tous les tableaux et figures diverses
 - ajouter une annexe avec les tableaux pour l'écran de MJ
+- ajouter les références de pages pour les sorts identiques à ceux d'autres
+  listes
+- ré-écrire l'introduction
 
 
 
