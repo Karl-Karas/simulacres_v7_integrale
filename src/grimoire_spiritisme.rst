@@ -15,7 +15,7 @@ Niveau 1
 :bred:`Interroger les morts`
 
 Description :
-    Identique à celui de la liste Sorcellerie p.
+    Identique à celui de la liste Sorcellerie p. |s|
     :pageref:`interroger-les-morts`, mais il est lancé au niveau 1.
 
 :bred:`Créer un ectoplasme`
@@ -59,7 +59,7 @@ Niveau 2
 :bred:`Cercle de Protection`
 
 Description :
-    Identique à celui de la liste Invocation p.
+    Identique à celui de la liste Invocation p. |s|
     :pageref:`cercle-de-protection`, mais il ne peut être lancé qu’au niveau 2.
 
 :bred:`Interroger les esprits`
@@ -139,8 +139,8 @@ Niveau 3
 :bred:`Appeler un démon`
 
 Description :
-    Identique à celui de la liste Invocation p. :pageref:`appeler-un-demon`,
-    mais il ne peut être lancé qu’au niveau 3.
+    Identique à celui de la liste Invocation p. |s|
+    :pageref:`appeler-un-demon`, mais il ne peut être lancé qu’au niveau 3.
 
 ----
 

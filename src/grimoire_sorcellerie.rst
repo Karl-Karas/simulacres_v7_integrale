@@ -13,7 +13,7 @@ Niveau 1
 :bred:`Cercle de protection`
 
 Description :
-    Identique à celui de la liste Protection p. 
+    Identique à celui de la liste Protection p. |s|
     :pageref:`cercle-de-protection`.
 
 :bred:`Contrecoup`
@@ -56,19 +56,19 @@ Description :
 :bred:`Détection de la magie noire`
 
 Description :
-    Identique à celui de la liste Divination p.
+    Identique à celui de la liste Divination p. |s|
     :pageref:`detection-de-la-magie-noire`.
 
 :bred:`Émotion`
 
 Description :
-    Identique à celui de la liste Charme p. :pageref:`emotion`, mais il ne peut
-    être lancé qu’au niveau 1, pas au niveau 2.
+    Identique à celui de la liste Charme p. |s| :pageref:`emotion`, mais il ne
+    peut être lancé qu’au niveau 1, pas au niveau 2.
 
 :bred:`Guérir une maladie`
 
 Description :
-    Identique à Guérir les maladies de la liste Guérison p.
+    Identique à Guérir les maladies de la liste Guérison p. |s|
     :pageref:`guerir-les-maladies`. On ne peut guérir qu’une maladie à la fois.
 
 :bred:`Maladie`
@@ -135,7 +135,7 @@ Niveau 2
 :bred:`Envoûtement`
 
 Description :
-    Identique à celui de la liste Nécromancie p. :pageref:`envoutement`.
+    Identique à celui de la liste Nécromancie p. |s| :pageref:`envoutement`.
 
 :bred:`Exorciser`
 
@@ -208,14 +208,14 @@ Description :
 :bred:`Invocation d’un familier`
 
 Description :
-    Identique à celui de la liste Invocation p.
+    Identique à celui de la liste Invocation p. |s|
     :pageref:`invocation-d-un-familier`.
 
 :bred:`Retour de sort`
 
 Description :
     C’est un autre nom pour désigner le sort Boomerang de la liste Métamagie p.
-    :pageref:`boomerang`.
+    |s| :pageref:`boomerang`.
 
 NIVEAU 3
 

@@ -386,7 +386,7 @@ Niveau H. :
     3
 Description :
     Il faut avoir à proximité l'équivalent d'au moins le volume d'un corps
-    humain en eau. L'élémental sera du type moyen (voir Bestiaire p.
+    humain en eau. L'élémental sera du type moyen (voir Bestiaire p. |s|
     :pageref:`elemental-moyen-d-eau`). Il est également possible d'utiliser le
     même sortilège quand le magicien est au niveau 3 pour appeler un élémental
     du type fort (mais pas en magie hermétique). On peut retransformer son

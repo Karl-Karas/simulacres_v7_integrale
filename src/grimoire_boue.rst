@@ -343,7 +343,7 @@ Description :
     zone visée. Les plantes qui y poussaient meurent en quelques jours. Le
     sortilège employé avec les autres Règnes empêche la reproduction.
 
-:bred:`Vieillesse`
+:bred:`Vieillesse`\ :label:`vieillesse`
 
 Formule :
     |corps| + |action| + |mineral|/|vegetal|/|animal|/|humain|
@@ -436,7 +436,7 @@ Description :
     dans sa masse. Ce focus contient une étincelle de l'esprit du magicien, et
     le golem peut obéir aux ordres avec un petit peu d'initiative personnelle.
     Ses caractéristiques sont celles d'un élémental de Terre (voir Bestiaire p.
-    :pageref:`les-elementaux`), à ceci près qu'il peut être touché par des
+    |s| :pageref:`les-elementaux`), à ceci près qu'il peut être touché par des
     armes normales. Sa puissance dépend du nombre de PM contenus dans le focus
     (1 à 6 : golem faible, 7 à 12 : golem moyen, au-delà : golem fort). Le
     golem obéit à celui qui a mis le plus de points de magie dans son focus.

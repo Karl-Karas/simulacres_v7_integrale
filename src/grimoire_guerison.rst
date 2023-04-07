@@ -285,11 +285,13 @@ Description :
 :bred:`Rajeunissement`
 
 Description :
-    Identique à celui de la liste Boue (Création de vie) p. :pageref:`rajeunissement`.
+    Identique à celui de la liste Boue (Création de vie) p. |s|
+    :pageref:`rajeunissement`.
 
 :bred:`Résurrection`
 
 Description :
-    Identique à celui de la liste Boue (Création de vie) p. :pageref:`resurrection`.
+    Identique à celui de la liste Boue (Création de vie) p. |s|
+    :pageref:`resurrection`.
 
 ----

@@ -100,7 +100,7 @@ Niveau H. :
 Description :
     Ce sort fournit une information sur la puissance de la magie détectée, il
     est plus puissant que la simple détection lancée sans sortilège (voir p.
-    :pageref:`detection-de-la-magie`). Il indique quel type de magie est en
+    |s| :pageref:`detection-de-la-magie`). Il indique quel type de magie est en
     œuvre ainsi que MR autres informations (durée, puissance, cibles, etc.) et
     notamment le comportement ou le mot nécessaires pour activer un objet
     magique.
@@ -380,7 +380,7 @@ Description :
 Niveau 3
 --------
 
-:bred:`Voir le passé`
+:bred:`Voir le passé`\ :label:`voir-le-passe`
 
 Formule :
     |esprit| + |perception| + |mineral|/|vegetal|/|animal|/|humain|/|mecanique|
@@ -413,7 +413,7 @@ Description :
     cherche, s'il sait précisément quelles périodes l'intéressent, ou si les
     scènes ont eu lieu là où est lancé le sort (dans le cas d'une créature).
 
-:bred:`Vision de l'avenir`
+:bred:`Vision de l'avenir`\ :label:`voir-l-avenir`
 
 Formule :
     |esprit| + |perception| + |mineral|/|vegetal|/|animal|/|humain|/|mecanique|

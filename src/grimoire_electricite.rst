@@ -101,8 +101,8 @@ Description :
     Permet, si des nuages d'orage sont présents, d'en faire surgir un éclair
     qui tombe là où veut le magicien. Les êtres dans un rayon de 3 m autour de
     l'impact meurent (sauf test de Dernière Chance avec Désir |desir| + Minéral
-    |mineral|, voir p. :pageref:`la-derniere-chance`), ceux qui sont dans un
-    rayon de 3 à 10 m subissent [B]PV et [E]PS de dégâts ; rien au-delà.
+    |mineral|, voir p. |s| :pageref:`la-derniere-chance`), ceux qui sont dans
+    un rayon de 3 à 10 m subissent [B]PV et [E]PS de dégâts ; rien au-delà.
 
 :bred:`Flash`
 

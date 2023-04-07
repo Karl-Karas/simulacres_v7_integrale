@@ -33,7 +33,7 @@ Voici les abréviations utilisées :
 :Formule: On utilise directement les symboles de Simulacres, comme |coeur| pour
           Cœur, etc. Si on met plusieurs Règnes séparés par une barre oblique
           (|animal|/|humain| par exemple), cela veut dire que chacun de ces
-          Règnes peut être utilisé pour un sortilège différent (voir p.
+          Règnes peut être utilisé pour un sortilège différent (voir p. |s|
           :pageref:`multiregnes`). Rappelons que le Règne Néant |neant| est
           alors également utilisable pour un sortilège qui pourrait avoir tous
           les Règnes pour cible.
@@ -46,11 +46,11 @@ Voici les abréviations utilisées :
            peut être le magicien lui-même).
 :Résistance: Aucune veut dire que la cible ne peut pas résister à la magie,
               standard que la victime a droit à un duel standard de Résistance
-              à la magie (p. :pageref:`resistancemagique`)
+              à la magie (p. |s| :pageref:`resistancemagique`)
 :Magie noire: On indique si le sortilège appartient ou non aux sorts de Magie
-              noire (règle optionnelle p. :pageref:`magienoire`).
+              noire (règle optionnelle p. |s| :pageref:`magienoire`).
 :Échec: Si le lancer du sortilège échoue, il peut y avoir des conséquences pour
-         le magicien (règle optionnelle p. :pageref:`magieechec`).
+         le magicien (règle optionnelle p. |s| :pageref:`magieechec`).
 :Magie H.: Indique si le sortilège peut être appris par la magie hermétique.
 :Apprentissage: C’est la difficulté d’apprentissage en magie hermétique.
 :Lancer: C’est la difficulté pour lancer le sortilège en magie hermétique.
@@ -162,7 +162,7 @@ Si un joueur a l’idée d’un nouveau sort, il doit le décrire noir sur blanc
 avec toutes ses caractéristiques. Une fois la « formule » écrite, il la propose
 au meneur de jeu. Ce dernier, en son âme et conscience, décide si le sortilège
 peut fonctionner ou pas, avec les mêmes critères de jugement que pour les
-sortilèges non hermétiques (voir p. :pageref:`inventersort`).
+sortilèges non hermétiques (voir p. |s| :pageref:`inventersort`).
 
 Ensuite, le personnage doit « inventer » le sortilège en réussissant un test
 (voir ci-dessous). Une fois le sort inventé, on sait qu’il peut fonctionner. Il
@@ -210,7 +210,7 @@ Niveau H. :
 Description :
     Ce sort fournit une information sur la puissance de la magie détectée, il
     est plus puissant que la simple détection lancée sans sortilège (voir p.
-    :pageref:`detectionmagie`). Il indique aussi quel type de magie est en
+    |s| :pageref:`detectionmagie`). Il indique aussi quel type de magie est en
     œuvre. L’information dépend du meneur de jeu. Si l’énergie magique employée
     pour la détection correspond à celle du sort, le meneur du jeu donnera
     jusqu’à MR informations (durée, puissance, cibles, etc.). La seule chose

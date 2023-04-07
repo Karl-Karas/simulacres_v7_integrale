@@ -191,7 +191,7 @@ Niveau H. :
     3
 Description :
     Il faut avoir à proximité un volume d'air au moins égal à celui d'un corps
-    humain. L'élémental sera du type moyen (voir Bestiaire p.
+    humain. L'élémental sera du type moyen (voir Bestiaire p. |s|
     :pageref:`elemental-moyen-d-air`). Il est également possible d'utiliser le
     même sortilège quand le magicien est au niveau 3 pour appeler un élémental
     du type fort (mais pas en magie hermétique). On peut retransformer son

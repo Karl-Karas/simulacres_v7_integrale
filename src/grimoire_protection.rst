@@ -86,7 +86,7 @@ Description :
 :bred:`Cercle de protection`
 
 Description :
-    Ce sortilège est le même que celui de la liste d'Invocation p.
+    Ce sortilège est le même que celui de la liste d'Invocation p. |s|
     :pageref:`cercle-de-protection`.
 
 :bred:`Protection contre les éléments`

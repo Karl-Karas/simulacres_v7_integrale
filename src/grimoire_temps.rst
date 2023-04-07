@@ -241,13 +241,14 @@ Description :
 :bred:`Vieillesse`
 
 Description :
-    Identique à celui de la liste Boue |ldash| Création de vie.
+    Identique à celui de la liste Boue |ldash| Création de vie p. |s| 
+    :pageref:`vieillesse`.
 
 :bred:`Voir le passé`
 
 Description :
-    Identique à celui de la liste Divination. Mais ce sort est au niveau 2 en
-    magie du Temps.
+    Identique à celui de la liste Divination p. |s| :pageref:`voir-le-passe`.
+    Mais ce sort est au niveau 2 en magie du Temps.
 
 ----
 
@@ -290,17 +291,18 @@ Description :
 :bred:`Voir l'avenir`
 
 Description :
-    Identique à celui de la liste Divination.
+    Identique à celui de la liste Divination p. |s| :pageref:`voir-l-avenir`.
 
 :bred:`Permanence`
 
 Description :
-    Identique à celui de la liste Enchantement.
+    Identique à celui de la liste Enchantement p. |s| :pageref:`permanence`.
     
 :bred:`Rajeunissement`
 
 Description :
-    Identique à celui de la liste Boue (Création de vie).
+    Identique à celui de la liste Boue (Création de vie) p. |s|
+    :pageref:`rajeunissement`.
 
 :bred:`Téléporter`
 

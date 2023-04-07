@@ -224,7 +224,7 @@ Niveau H. :
 Description :
     Ce sortilège permet « d'enchanter » une arme de n'importe quel type (sauf
     fer et acier). C'est-à-dire qu'elle pourra dorénavant toucher les créatures
-    magiques sans que son porteur ne prenne aussi des dégâts (voir Magie p.
+    magiques sans que son porteur ne prenne aussi des dégâts (voir Magie p. |s|
     :pageref:`creatures-magiques-et-armes-enchantees`).
 
 :bred:`Lier focus et objet`
@@ -256,7 +256,7 @@ Description :
     le focus et l'objet qui doivent être liés. L'objet ne doit pas être en fer
     ou en acier. Une fois le focus et l'objet liés, l'enchanteur a cinq jours
     pour y stocker un sortilège. Ensuite, à chaque fois que l'objet lance son
-    sort, il prend des points dans le focus (voir Magie p.
+    sort, il prend des points dans le focus (voir Magie p. |s|
     :pageref:`objets-a-focus`) et le lance de la même manière que le magicien
     qui l'a stocké (à l'exception des Énergies supplémentaires que le magicien
     aurait pu mettre). Il est donc impératif de lier un focus ayant à l'origine
@@ -397,11 +397,11 @@ Description :
 :bred:`Lier un esprit simple`
 
 Description :
-    C'est le même sort que celui de la liste d'Invocation p.
+    C'est le même sort que celui de la liste d'Invocation p. |s|
     :pageref:`lier-un-esprit-simple`, à l'exception près qu'ici, il est au
     niveau 3.
 
-:bred:`Permanence`
+:bred:`Permanence`\ :label:`permanence`
 
 Formule :
     |corps| + |desir| + |mineral|

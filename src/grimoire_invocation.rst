@@ -29,7 +29,7 @@ Magie noire :
 Magie H. :
     non
 Description :
-    Appelle les créatures féeriques (voir Bestiaire p.
+    Appelle les créatures féeriques (voir Bestiaire p. |s|
     :pageref:`les-creatures-feeriques`) les plus proches.  L'une d'elles au
     moins va venir voir ce que veut le magicien. Elles ne sont pas tenues
     d'obéir, ni même d'être gentilles.
@@ -155,10 +155,10 @@ Niveau H. :
     2
 Description :
     Le démon invoqué est de grade MR/2 (on arrondit au chiffre inférieur, et on
-    ne peut dépasser 7, voir Bestiaire p. :pageref:`les-creatures-du-mal`). Il
-    a tout son libre arbitre et n'est pas obligé d'obéir au magicien ni d'être
-    amical. C'est pourquoi l'invocateur fait généralement avant un Cercle de
-    protection à l'intérieur duquel le démon apparaîtra.
+    ne peut dépasser 7, voir Bestiaire p. |s| :pageref:`les-creatures-du-mal`).
+    Il a tout son libre arbitre et n'est pas obligé d'obéir au magicien ni
+    d'être amical. C'est pourquoi l'invocateur fait généralement avant un
+    Cercle de protection à l'intérieur duquel le démon apparaîtra.
 
 :bred:`Contrôler un esprit simple`
 
@@ -401,7 +401,7 @@ Description :
     Il faut impérativement que le magicien dépense 1, 2 ou 3 points en
     Puissance |puissance|, en plus du lancement du sort. C'est ce nombre de
     points qui donnera la puissance de l'élémental invoqué (voir Bestiaire p.
-    :pageref:`les-elementaux`).
+    |s| :pageref:`les-elementaux`).
 
 :bred:`Contrôler un démon`
 

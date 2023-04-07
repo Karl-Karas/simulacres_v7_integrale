@@ -36,7 +36,7 @@ Niveau H. :
 Description :
     Ce sort n'est efficace que sur des êtres proches de la mort (1PV). La
     créature devient un zombie (et perd toutes ses capacités magiques) aux
-    ordres du magicien (voir Bestiaire p. :pageref:`zombie`), qui se
+    ordres du magicien (voir Bestiaire p. |s| :pageref:`zombie`), qui se
     désagrégera à la fin du temps d'effet du sort. Ce sort implique des
     pratiques gestuelles et des composants, qui ne peuvent donc pas rajouter de
     bonus au lancer du sort.
@@ -88,7 +88,7 @@ Temps d'effet :
 Distance :
     12 mètres
 Résistance :
-    voir Morts-vivants p. :pageref:`les-morts-vivants`
+    voir Morts-vivants p. |s| :pageref:`les-morts-vivants`
 Magie noire :
     oui
 Échec :
@@ -137,7 +137,8 @@ Description :
     partie de la tête... La goule n'a pas de durée de « vie » limitée. Elle
     n'obéit pas au nécromancien, mais elle sera « amicale » avec lui et ne
     l'attaquera jamais. La résistance magique au sort est celle de la victime
-    humaine. Caractéristiques de la goule : voir Bestiaire p. :pageref:`goule`.
+    humaine. Caractéristiques de la goule : voir Bestiaire p. |s|
+    :pageref:`goule`.
 
 :bred:`Envoûtement`\ :label:`envoutement`
 
@@ -177,7 +178,7 @@ Description :
 :bred:`Invocation d'un familier`
 
 Description :
-    C'est le même sortilège que celui de la liste d'Invocation p.
+    C'est le même sortilège que celui de la liste d'Invocation p. |s|
     :pageref:`invocation-d-un-familier`.
 
 :bred:`Réparation des corps`
@@ -234,8 +235,8 @@ Description :
     peut d'ailleurs se suicider s'il le désire), il revient à la « vie » au
     bout de 4 minutes, sous forme de mort-vivant. Il gagne tous les avantages
     et tous les inconvénients d'être un mort-vivant matériel (voir Bestiaire p.
-    :pageref:`les-morts-vivants`). Il perd tous ses points de souffle et les
-    rajoute à son total de points de « vie ». Il garde toutes les capacités
+    |s| :pageref:`les-morts-vivants`). Il perd tous ses points de souffle et
+    les rajoute à son total de points de « vie ». Il garde toutes les capacités
     magiques qu'il avait durant sa vie, et gagne 1 point de bonus dans le sort
     Contrôler les morts-vivants.  Par contre, il ne conserve plus que les
     sortilèges de magie noire et perd tous les autres.
