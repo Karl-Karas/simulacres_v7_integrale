@@ -50,42 +50,46 @@ Ensuite vous estimerez la distance à laquelle sont les deux véhicules.
 Il peut arriver, quand vous êtes en ville par exemple, ou derrière un
 astéroïde, que la poursuite commence relativement près.
 
-.. table::
-  :align: center
-  :widths: auto
+.. image:: images/tableau_des_distances.pdf
+   :width: 7.7cm
+   :align: center
 
-  +----------+-----------------+
-  | Distance | Modificateur au |
-  |          | Test de Tir     |
-  +==========+=================+
-  |    0     |  +4             | 
-  +----------+-----------------+
-  |    1     |  +2             |
-  +----------+-----------------+
-  |    2     |  +1             |
-  +----------+-----------------+
-  |    3     |   0             |
-  +----------+-----------------+
-  |    4     |  -1             |
-  +----------+-----------------+
-  |    5     |  -2             |
-  +----------+-----------------+
-  |    6     |  -4             |
-  +----------+-----------------+
-  |    7     |  -4 ou          |
-  +----------+  impossible     +
-  |    8     |  suivant l'arme |
-  +----------+                 +
-  |    9     |                 |
-  +----------+                 +
-  |    10    |                 |
-  +----------+                 +
-  |    11    |                 |
-  +----------+                 +
-  |    12    |                 |
-  +----------+                 +
-  | et plus  |                 |
-  +----------+-----------------+
+.. .. table::
+..   :align: center
+..   :widths: auto
+.. 
+..   +----------+-----------------+
+..   | Distance | Modificateur au |
+..   |          | Test de Tir     |
+..   +==========+=================+
+..   |    0     |  +4             | 
+..   +----------+-----------------+
+..   |    1     |  +2             |
+..   +----------+-----------------+
+..   |    2     |  +1             |
+..   +----------+-----------------+
+..   |    3     |   0             |
+..   +----------+-----------------+
+..   |    4     |  -1             |
+..   +----------+-----------------+
+..   |    5     |  -2             |
+..   +----------+-----------------+
+..   |    6     |  -4             |
+..   +----------+-----------------+
+..   |    7     |  -4 ou          |
+..   +----------+  impossible     +
+..   |    8     |  suivant l'arme |
+..   +----------+                 +
+..   |    9     |                 |
+..   +----------+                 +
+..   |    10    |                 |
+..   +----------+                 +
+..   |    11    |                 |
+..   +----------+                 +
+..   |    12    |                 |
+..   +----------+                 +
+..   | et plus  |                 |
+..   +----------+-----------------+
 
 Poursuite
 ^^^^^^^^^
@@ -379,11 +383,6 @@ Des objets magiques
 
 ----
 
-.. raw:: latex
-
-    \clearpage
-    \pagebreak
-
 Dégâts et Blindages
 ===================
 
@@ -399,6 +398,10 @@ Dégâts et Blindages
 Classes de blindage
 -------------------
 
+.. image:: images/tableau_blindages.pdf
+   :align: right
+   :width: 2cm
+
 Ces classes vont de A à L, et les dégâts que l'on inflige à des structures
 solides ne sont plus des points de vie, mais des points de choc (PC). Les PC de
 classe B sont deux fois plus résistants que ceux de classe A |s| ; ceux de
@@ -406,26 +409,26 @@ classe C sont deux fois plus résistants que ceux de classe B, et donc quatre
 fois plus que ceux de classe A |s| ; etc. Le tout est résumé dans le tableau
 ci-dessous.
 
-.. table::
-  :align: center
-  :widths: auto
-
-  =======  ========
-  Classe   Valeur
-  =======  ========
-    A       1
-    B       2
-    C       4
-    D       8
-    E       16
-    F       32
-    G       64
-    H       128
-    I       256
-    J       512
-    K       1024
-    L       2048
-  =======  ========
+.. .. table::
+..   :align: center
+..   :widths: auto
+.. 
+..   =======  ========
+..   Classe   Valeur
+..   =======  ========
+..     A       1
+..     B       2
+..     C       4
+..     D       8
+..     E       16
+..     F       32
+..     G       64
+..     H       128
+..     I       256
+..     J       512
+..     K       1024
+..     L       2048
+..   =======  ========
 
 On notera une maison qui a 10 points de choc de classe A par 10 PC\ :supt:`A`.
 Le nombre de PC d'un objet peut varier de 5 à 10 (objet normal) à 100 ou 1000
