@@ -15,7 +15,8 @@ Aucun sort de chamanisme ne peut être appris en magie hermétique.
 Niveau 1
 --------
 
-:bred:`Trouver le totem`
+Trouver le totem
+^^^^^^^^^^^^^^^^
 
 Formule :
     |coeur| + |perception| + |animal|
@@ -39,7 +40,8 @@ Description :
     touche, elle a une vision de l'animal qui sera son totem. Un être humain
     n'a qu'un seul totem.
 
-:bred:`Invoquer son totem`
+Invoquer son totem
+^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |animal|
@@ -66,7 +68,8 @@ Description :
 Niveau 2
 --------
 
-:bred:`Lier le totem`
+Lier le totem
+^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |animal|
@@ -97,7 +100,8 @@ Description :
     de tuer un animal du totem, et si elle le fait par accident, elle tombera
     dans un coma de 24 h. Le lien dure toute la vie.
 
-:bred:`Voir le monde`
+Voir le monde
+^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |animal|
@@ -129,7 +133,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Se transformer`
+Se transformer
+^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |animal|
@@ -159,7 +164,8 @@ Description :
     chaman se retransforme automatiquement en humain, en ayant perdu tous ses
     points de souffle.
 
-:bred:`Appeler l'esprit de son totem`
+Appeler l'esprit de son totem
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |desir| + |animal|

@@ -12,13 +12,15 @@ magiciens qui pratiquent le spiritisme sont nommés spirites.
 Niveau 1
 --------
 
-:bred:`Interroger les morts`
+Interroger les morts
+^^^^^^^^^^^^^^^^^^^^
 
 Description :
     Identique à celui de la liste Sorcellerie p. |s|
-    :pageref:`interroger-les-morts`, mais il est lancé au niveau 1.
+    :pageref:`sorcellerie-interroger-les-morts`, mais il est lancé au niveau 1.
 
-:bred:`Créer un ectoplasme`
+Créer un ectoplasme
+^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |perception| + |neant|
@@ -56,13 +58,15 @@ Description :
 Niveau 2
 --------
 
-:bred:`Cercle de Protection`
+Cercle de Protection
+^^^^^^^^^^^^^^^^^^^^
 
 Description :
     Identique à celui de la liste Invocation p. |s|
     :pageref:`cercle-de-protection`, mais il ne peut être lancé qu’au niveau 2.
 
-:bred:`Interroger les esprits`
+Interroger les esprits
+^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |neant|
@@ -97,7 +101,8 @@ Description :
     magie noire, à la fois pour le spirite et pour celui qui pose les
     questions.
 
-:bred:`Vision`
+Vision
+^^^^^^
 
 Formule :
     |esprit| + |perception| + |neant|
@@ -136,7 +141,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Appeler un démon`
+Appeler un démon
+^^^^^^^^^^^^^^^^
 
 Description :
     Identique à celui de la liste Invocation p. |s|

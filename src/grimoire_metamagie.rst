@@ -14,7 +14,8 @@ les magiciens hermétiques à apprendre les sorts.
 Niveau 1
 --------
 
-:bred:`Changement de Règne`
+Changement de Règne
+^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |desir| + |neant|
@@ -39,7 +40,8 @@ Description :
     pour soigner les humains pourra être transformé pour soigner les animaux.
     Une fois le second sort lancé, le sort de Changement de Règne est annulé.
 
-:bred:`Diminuer la résistance magique`
+Diminuer la résistance magique
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |neant|
@@ -68,7 +70,8 @@ Description :
     arrondit à la valeur inférieure). On peut lancer ce sortilège plusieurs
     fois sur la même créature.
 
-:bred:`Interrompre un sortilège`
+Interrompre un sortilège
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |desir| + |neant|
@@ -99,7 +102,8 @@ Description :
     de la magie noire si on interrompt un sort bénéfique, il n'en est pas si on
     interrompt un sort de Magie noire.
 
-:bred:`Transfert d'effet magique`
+Transfert d'effet magique
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |desir| + |neant|
@@ -138,7 +142,8 @@ Description :
 Niveau 2
 --------
 
-:bred:`Boomerang`\ :label:`boomerang`
+Boomerang
+^^^^^^^^^
 
 Formule :
     |instinct| + |resistance| + |neant|
@@ -169,7 +174,8 @@ Description :
     chacun [B]PS et le sort est annulé. Ce sortilège n'est pas de la magie
     noire.
 
-:bred:`Détournement d'énergie magique`
+Détournement d'énergie magique
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |resistance| + |neant|
@@ -202,7 +208,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Annuler la magie`
+Annuler la magie
+^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |resistance| + |neant|
@@ -236,7 +243,8 @@ Description :
     tente d'annuler la magie fasse une MR supérieure à celle du magicien qui
     avait lancé le sortilège. Si rien n'est précisé, cette MR est de 3.
 
-:bred:`Augmentation de la cible`
+Augmentation de la cible
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |neant|
@@ -262,7 +270,8 @@ Description :
     peut être à plus de 12 mètres de la précédente. Si le second sort échoue,
     les conséquences de l'échec sont multipliées.
 
-:bred:`Déplacer la magie`
+Déplacer la magie
+^^^^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |resistance| + |neant|

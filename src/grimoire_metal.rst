@@ -11,7 +11,8 @@ où il est possible d’accéder directement à l’Énergie du Métal.
 Niveau 1
 --------
 
-:bred:`Détecter les métaux`
+Détecter les métaux
+^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit|/|coeur| + |perception| + |mineral|
@@ -42,7 +43,8 @@ Description :
     métal (dans la limite de portée) dont on tient un échantillon en main au
     moment de lancer le sortilège.
 
-:bred:`Faire chauffer fer et acier`
+Faire chauffer fer et acier
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |action| + |mineral|
@@ -71,7 +73,8 @@ Description :
     de 12 m (portée du sort) autour du magicien s'échauffe violemment, de 10°C
     par passe d'armes, jusqu'à ce que le métal soit porté au rouge.
 
-:bred:`Recouvrir de métal`
+Recouvrir de métal
+^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mecanique|
@@ -101,7 +104,8 @@ Description :
     sort prend effet, le métal disparaît d'un côté et recouvre uniformément
     l'objet de l'autre.
 
-:bred:`Renforcer les métaux`
+Renforcer les métaux
+^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|
@@ -134,7 +138,8 @@ Description :
 Niveau 2
 --------
 
-:bred:`Corrompre le métal`
+Corrompre le métal
+^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|
@@ -162,7 +167,8 @@ Description :
     On peut rendre plus fragile et cassant un morceau ou un objet en métal d'un
     seul tenant (sauf fer et acier).
 
-:bred:`Extraire le métal`
+Extraire le métal
+^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps|/|coeur| + |desir| + |mineral|
@@ -194,7 +200,8 @@ Description :
     de lancer le sortilège (sauf du fer). Ce sortilège fonctionne également
     pour extraire la Pure Magie (attention à la malemagite).
 
-:bred:`Faire chauffer les métaux`
+Faire chauffer les métaux
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |action| + |mineral|
@@ -223,7 +230,8 @@ Description :
     sphère de 12 m (portée du sort) autour du magicien, s'échauffe violemment,
     de 5°C par passe d'armes, jusqu'à ce que le métal soit porté au rouge.
 
-:bred:`Métal souple`
+Métal souple
+^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mecanique|
@@ -257,7 +265,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Corrompre le fer`
+Corrompre le fer
+^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|
@@ -286,7 +295,8 @@ Description :
     seul tenant (même le fer enchanté, mais pas l'acier trempé ou l'acier
     enchanté).
 
-:bred:`Isoler fer et acier`
+Isoler fer et acier
+^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |resistance| + |neant|

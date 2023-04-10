@@ -5,7 +5,8 @@ Feu
 Niveau 1
 --------
 
-:bred:`Allumer un feu`
+Allumer un feu
+^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |action| + |mineral|
@@ -33,7 +34,8 @@ Description :
     Permet d'enflammer un matériau inflammable (bois, papier) pour produire un
     feu normal.
 
-:bred:`Contrôler un élémental de Feu`
+Contrôler un élémental de Feu
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |mineral|
@@ -64,7 +66,8 @@ Description :
     pour dissoudre l'élémental. Mais il faut le préciser avant. C'est le
     contrôle ou la dissolution, pas les deux.
 
-:bred:`Créer du feu`
+Créer du feu
+^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -97,7 +100,8 @@ Description :
     d'Esquive (Instincts |instinct| + Action |action| + Humain |humain|) qui
     diminuera les dégâts de 6 en cas de réussite.
 
-:bred:`Produire de la lumière`
+Produire de la lumière
+^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |desir| + |mineral|
@@ -125,7 +129,8 @@ Description :
     Cela crée un globe de lumière de 1 mètre de diamètre, en suspension
     immobile dans l'air. Il éclaire plus qu'une torche et moins que le soleil.
 
-:bred:`Protection contre le feu`
+Protection contre le feu
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|
@@ -154,7 +159,8 @@ Description :
     pris dans un feu magique ou un gigantesque incendie, il diminue tous les
     jets de dés de 2d6 lorsqu'on calcule les dégâts qu'il subit.
 
-:bred:`Réchauffer`
+Réchauffer
+^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -187,7 +193,8 @@ Description :
 Niveau 2
 --------
 
-:bred:`Absorber la lumière`
+Absorber la lumière
+^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|
@@ -216,7 +223,8 @@ Description :
     est arrêtée par les obstacles, exactement comme l'est la lumière. On ne
     peut rien voir dans ce noir, même pas les infrarouges ni les ultraviolets.
 
-:bred:`Appeler un élémental de Feu`
+Appeler un élémental de Feu
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -249,7 +257,8 @@ Description :
     retransformer son propre élémental en feu avec le même sort, mais cette
     fois lancé en une passe d'armes.
 
-:bred:`Cicatriser des blessures`
+Cicatriser des blessures
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |humain|/|animal|
@@ -281,7 +290,8 @@ Description :
     faut choisir l'objectif du sort avant de le lancer : soit il cautérise soit
     il neutralise le poison. Dans les deux cas la victime perd 1PS.
 
-:bred:`Combustion interne`
+Combustion interne
+^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |action| + |animal|/|humain|
@@ -309,7 +319,8 @@ Description :
     La victime sent son corps chauffer et subit des dégâts comme si elle
     prenait feu. Elle subit [D]PV et [C]PS.
 
-:bred:`Déclencher une passion`
+Déclencher une passion
+^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |coeur| + |desir| + |humain|
@@ -337,7 +348,8 @@ Description :
     La passion déclenchée est choisie par le magicien et peut être de tout type
     |s| : |s| amour, haine, foi...
 
-:bred:`Éteindre un feu`
+Éteindre un feu
+^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|
@@ -365,7 +377,8 @@ Description :
     Tous les feux à 120 m autour du magicien s'éteignent, quelle que soit leur
     puissance.
 
-:bred:`Rendre furieux`
+Rendre furieux
+^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |desir| + |humain|/|animal|
@@ -394,7 +407,8 @@ Description :
     une rage meurtrière que quasiment rien ne peut calmer. La victime n'ira pas
     jusqu'à faire un mal sérieux aux personnes qu'elle aime vraiment.
 
-:bred:`Voir la chaleur dans le noir`
+Voir la chaleur dans le noir
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |perception| + |mineral|
@@ -429,7 +443,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Réveiller un volcan`
+Réveiller un volcan
+^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -457,7 +472,8 @@ Description :
     Le volcan se réveille et retrouve une pleine activité. Il faut être près du
     cratère (12 m) pour lancer le sortilège.
 
-:bred:`Transformation en élémental de Feu`
+Transformation en élémental de Feu
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|

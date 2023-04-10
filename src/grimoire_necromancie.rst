@@ -9,7 +9,8 @@ redoutables.
 Niveau 1
 --------
 
-:bred:`Créer un zombie`
+Créer un zombie
+^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |desir| + |humain|/|animal|
@@ -41,7 +42,8 @@ Description :
     pratiques gestuelles et des composants, qui ne peuvent donc pas rajouter de
     bonus au lancer du sort.
 
-:bred:`Principes vénéneux`
+Principes vénéneux
+^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |humain|/|vegetal|/|animal|
@@ -77,7 +79,8 @@ Description :
 Niveau 2
 --------
 
-:bred:`Contrôler les morts-vivants`
+Contrôler les morts-vivants
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |neant|
@@ -106,7 +109,8 @@ Description :
     quand le magicien lance le sortilège. Les morts-vivants qui quittent la zone
     de contrôle continuent à suivre le dernier ordre qu'on leur a donné.
 
-:bred:`Créer une goule`
+Créer une goule
+^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |desir| + |neant|
@@ -140,7 +144,8 @@ Description :
     humaine. Caractéristiques de la goule : voir Bestiaire p. |s|
     :pageref:`goule`.
 
-:bred:`Envoûtement`\ :label:`envoutement`
+Envoûtement
+^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |humain|
@@ -175,13 +180,15 @@ Description :
     l'envoûté (dans la limite de portée du sort), et modifier en cours de route
     les symptômes de l'envoûtement.
 
-:bred:`Invocation d'un familier`
+Invocation d'un familier
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Description :
     C'est le même sortilège que celui de la liste d'Invocation p. |s|
-    :pageref:`invocation-d-un-familier`.
+    :pageref:`invocation-familier`.
 
-:bred:`Réparation des corps`
+Réparation des corps
+^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |animal|/|humain|
@@ -212,7 +219,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Devenir mort-vivant`
+Devenir mort-vivant
+^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |neant|

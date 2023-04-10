@@ -10,13 +10,15 @@ existant dans d’autres listes.
 Niveau 1
 --------
 
-:bred:`Cercle de protection`
+Cercle de protection
+^^^^^^^^^^^^^^^^^^^^
 
 Description :
     Identique à celui de la liste Protection p. |s|
     :pageref:`cercle-de-protection`.
 
-:bred:`Contrecoup`
+Contrecoup
+^^^^^^^^^^
 
 Formule :
     |instinct| + |action| + |mecanique|
@@ -53,25 +55,29 @@ Description :
     noire, sauf si la cible est un démon, un élémental ou un mort-vivant. Cette
     riposte est considérée comme un sortilège auquel la créature peut résister.
 
-:bred:`Détection de la magie noire`
+Détection de la magie noire
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Description :
     Identique à celui de la liste Divination p. |s|
     :pageref:`detection-de-la-magie-noire`.
 
-:bred:`Émotion`
+Émotion
+^^^^^^^
 
 Description :
     Identique à celui de la liste Charme p. |s| :pageref:`emotion`, mais il ne
-    peut être lancé qu’au niveau 1, pas au niveau 2.
+    peut être lancé qu’au niveau 1, pas au niveau |s| 2.
 
-:bred:`Guérir une maladie`
+Guérir une maladie
+^^^^^^^^^^^^^^^^^^
 
 Description :
     Identique à Guérir les maladies de la liste Guérison p. |s|
     :pageref:`guerir-les-maladies`. On ne peut guérir qu’une maladie à la fois.
 
-:bred:`Maladie`
+Maladie
+^^^^^^^
 
 Formule :
     |corps| + |resistance| + |vegetal|/|animal|/|humain|
@@ -100,7 +106,8 @@ Description :
     Une fois le sort lancé, il doit toucher la peau de sa victime avant que le
     temps d'effet ne soit écoulé.
 
-:bred:`Paralyser`
+Paralyser
+^^^^^^^^^
 
 Formule :
     |esprit| + |resistance| + |animal|/|humain|
@@ -132,12 +139,14 @@ Description :
 Niveau 2
 --------
 
-:bred:`Envoûtement`
+Envoûtement
+^^^^^^^^^^^
 
 Description :
     Identique à celui de la liste Nécromancie p. |s| :pageref:`envoutement`.
 
-:bred:`Exorciser`
+Exorciser
+^^^^^^^^^
 
 Formule :
     |coeur| + |action| + |neant|
@@ -170,7 +179,10 @@ Description :
     susceptible d'être à nouveau possédé. L'esprit ou le démon renvoyé dans son
     plan ne peut revenir avant MR années, même si un magicien l'invoque.
 
-:bred:`Interroger les morts`\ :label:`interroger-les-morts`
+:label:`sorcellerie-interroger-les-morts`
+
+Interroger les morts
+^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |neant|
@@ -205,33 +217,41 @@ Description :
     simple curiosité, c'est de la Magie noire, à la fois pour le sorcier et
     pour celui qui pose les questions.
 
-:bred:`Invocation d’un familier`
+Invocation d’un familier
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Description :
     Identique à celui de la liste Invocation p. |s|
     :pageref:`invocation-d-un-familier`.
 
-:bred:`Retour de sort`
+Retour de sort
+^^^^^^^^^^^^^^
 
 Description :
     C’est un autre nom pour désigner le sort Boomerang de la liste Métamagie p.
     |s| :pageref:`boomerang`.
 
-NIVEAU 3
+----
 
-:bred:`Appeler un démon`
+Niveau 3
+--------
+
+Appeler un démon
+^^^^^^^^^^^^^^^^
 
 Description :
     Identique à celui de la liste Invocation p. |s|
     :pageref:`appeler-un-demon`, mais celui-ci est lancé au niveau 3.
 
-:bred:`Renvoyer un esprit ou un démon`
+Renvoyer un esprit ou un démon
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Description :
     Identique à celui de la liste Invocation p. |s|
     :pageref:`renvoyer-un-esprit-ou-un-demon`.
 
-:bred:`Transformation en animal`
+Transformation en animal
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Description :
     C’est le même sort que Transformation en autre Règne de la liste

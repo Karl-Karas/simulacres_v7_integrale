@@ -50,7 +50,8 @@ maladies (Guérison), Réparer les corps (Guérison), et quelques autres encore.
 Niveau 1
 --------
 
-:bred:`Appeler un loa`
+Appeler un loa
+^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |desir| + |animal| + Pratiques vaudoues -2
@@ -80,7 +81,8 @@ Description :
 Niveau 2
 --------
 
-:bred:`Dessiner un vévé`
+Dessiner un vévé
+^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |humain| + Pratiques vaudoues
@@ -113,7 +115,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Acheter un loa`
+Acheter un loa
+^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |desir| + |animal| + Pratiques vaudoues -4

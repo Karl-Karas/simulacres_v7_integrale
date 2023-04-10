@@ -4,7 +4,8 @@ Eau
 Niveau 1
 --------
 
-:bred:`Arrêter les saignements`
+Arrêter les saignements
+^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |humain|/|animal|
@@ -34,7 +35,8 @@ Description :
     points de vie localisés, ce sortilège ne fonctionne que sur une zone à la
     fois.
 
-:bred:`Contrôler un élémental d’Eau`
+Contrôler un élémental d’Eau
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule : 
     |esprit| + |action| + |mineral|
@@ -65,7 +67,8 @@ Description :
     pour dissoudre l’élémental. Mais il faut le préciser avant. C’est le
     contrôle ou la dissolution, pas les deux.
 
-:bred:`Courir dans l’eau`
+Courir dans l’eau
+^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|
@@ -93,7 +96,8 @@ Description :
     Permet de se déplacer dans l’eau comme si c’était de l’air (attention, cela
     ne permet pas de respirer sous l’eau).
 
-:bred:`Créer de l’eau`
+Créer de l’eau
+^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -125,7 +129,8 @@ Description :
     Action |action| + Humain |humain|) qui diminuera les dégâts de 6 en cas de
     réussite.
 
-:bred:`Déshydrater une créature`
+Déshydrater une créature
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |action| + |humain|/|animal|/|vegetal|
@@ -154,7 +159,8 @@ Description :
     nature de la cible. Les dégâts, de [C]PV et [C]PS, sont dus à la perte
     d’eau / sang / sève.
 
-:bred:`Détecter de l'eau`
+Détecter de l'eau
+^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |perception| + |mineral|
@@ -185,7 +191,8 @@ Description :
     et de distance peuvent être données. Par exemple : à plus de 15 kilomètres
     vers le nord.
 
-:bred:`Eau en brume`
+Eau en brume
+^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -213,7 +220,8 @@ Description :
     On peut transformer en brume une quantité d'eau équivalente au volume d'un
     corps humain.
 
-:bred:`Eau en glace`
+Eau en glace
+^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -241,7 +249,8 @@ Description :
     On peut transformer en glace une quantité d'eau équivalente au volume d'un
     corps humain.
 
-:bred:`Faire jaillir une source`
+Faire jaillir une source
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -271,7 +280,8 @@ Description :
     est permanent. Sinon il a la durée d'effet indiquée. La source est de
     faible capacité (1d6 litres par minute).
 
-:bred:`Faire pleurer`
+Faire pleurer
+^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |action| + |humain|/|animal|
@@ -299,7 +309,8 @@ Description :
     On fait pleurer la créature sans lui causer ni chagrin ni peine. Il s'agit
     juste d'un écoulement lacrymal destiné à brouiller la vue.
 
-:bred:`Faire pleuvoir`
+Faire pleuvoir
+^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |action| + |mineral|
@@ -327,7 +338,8 @@ Description :
     Permet de faire pleuvoir pour peu qu'il y ait des nuages (même peu
     nombreux) ou de l'humidité dans l'air.
 
-:bred:`Marcher sur l'eau`
+Marcher sur l'eau
+^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|
@@ -360,7 +372,8 @@ Description :
 Niveau 2
 --------
 
-:bred:`Appeler un élémental d'Eau`
+Appeler un élémental d'Eau
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -393,7 +406,8 @@ Description :
     propre élémental en eau avec le même sort, mais cette fois lancé en une
     passe d'armes.
 
-:bred:`Assécher un lieu`
+Assécher un lieu
+^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|
@@ -423,7 +437,8 @@ Description :
     créatures vivantes suffoquent (perte de [B]PS) ; la terre devient
     poussière.
 
-:bred:`Désespoir`
+Désespoir
+^^^^^^^^^
 
 Formule :
     |coeur| + |action| + |humain|/|animal|
@@ -450,7 +465,8 @@ Niveau H. :
 Description :
     La créature visée devient très malheureuse, à la limite du suicide.
 
-:bred:`Liquéfier un solide`
+Liquéfier un solide
+^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|
@@ -480,7 +496,8 @@ Description :
     propriétés physiques du minerai solide. Après la durée de l'effet, il
     retrouve lentement son état premier.
 
-:bred:`Parler aux créatures aquatiques`
+Parler aux créatures aquatiques
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |animal|
@@ -509,7 +526,8 @@ Description :
     Selon le type de la créature, la conversation sera plus ou moins difficile.
     Un dauphin a une conversation plus intéressante qu'un oursin.
 
-:bred:`Respirer dans l'eau`
+Respirer dans l'eau
+^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |humain|
@@ -536,7 +554,8 @@ Niveau H. :
 Description :
     Comme son nom l'indique, permet de respirer sous l'eau.
 
-:bred:`Trombes d'eau`
+Trombes d'eau
+^^^^^^^^^^^^^
 
 Formule :
     |corps| + |action| + |mineral|
@@ -569,7 +588,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Commander aux créatures aquatiques`
+Commander aux créatures aquatiques
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |action| + |animal|
@@ -599,7 +619,8 @@ Description :
     créatures aquatiques qui entrent dans la zone d'effet du sort (12 m autour
     du magicien).
 
-:bred:`Créer une source`
+Créer une source
+^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -627,7 +648,8 @@ Description :
     Ce sort permet de créer et de faire sortir une source de terre. La source
     est de faible capacité (1d6 litres par minute)
 
-:bred:`Transformation en élémental d'Eau`
+Transformation en élémental d'Eau
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|

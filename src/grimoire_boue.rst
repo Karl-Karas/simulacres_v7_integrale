@@ -12,7 +12,8 @@ Création de vie.
 Niveau 1
 --------
 
-:bred:`Croissance des plantes`
+Croissance des plantes
+^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |action| + |vegetal|
@@ -43,7 +44,8 @@ Description :
     mauvaises herbes) à partir de semis ou l'équivalent de six mois de la vie
     d'un arbre.
 
-:bred:`Fertilité`
+Fertilité
+^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|/|animal|
@@ -74,7 +76,8 @@ Description :
     les animaux qui sont concernés (incluant tous les humanoïdes |ldash|
     attention aux lapins !).
 
-:bred:`Soins des intoxications`
+Soins des intoxications
+^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |humain|/|animal|
@@ -102,7 +105,8 @@ Description :
     Neutralise les effets dus à des aliments avariés, à des poisons, des venins
     ou à des gaz toxiques.
 
-:bred:`Soins des blessures`
+Soins des blessures
+^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |humain|/|animal|
@@ -131,7 +135,8 @@ Description :
     redonner [D]PV à un blessé. Si on utilise la règle des points de vie
     localisés, ce sortilège fonctionne sur une seule zone à la fois.
 
-:bred:`Soins des maladies`
+Soins des maladies
+^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |humain|/|animal|/|vegetal|
@@ -164,7 +169,8 @@ Description :
 Niveau 2
 --------
 
-:bred:`Absorption de vie`
+Absorption de vie
+^^^^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |desir| + |humain|/|animal|
@@ -193,7 +199,8 @@ Description :
     quelqu’un d’autre également au contact (ce dernier augmente aussi son
     score en Magie noire).
 
-:bred:`Créer un automate`
+Créer un automate
+^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |mecanique|
@@ -224,7 +231,8 @@ Description :
     à [F] ordres simples (transporter des objets de A à B, garder une
     pièce...).
 
-:bred:`Croisement d'espèces`
+Croisement d'espèces
+^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |animal|/|humain|
@@ -256,7 +264,8 @@ Description :
     pas de croiser des Règnes différents, sauf humanoïde et animal en utilisant
     le Néant |neant|.
 
-:bred:`Croissance accélérée`
+Croissance accélérée
+^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |vegetal|/|animal|/|humain|
@@ -284,7 +293,8 @@ Description :
     Fait vieillir la cible de MR années en une journée. La victime garde toutes
     ses capacités intellectuelles.
 
-:bred:`Régénérer membres et organes`
+Régénérer membres et organes
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |action| + |vegetal|/|animal|/|humain|
@@ -314,7 +324,8 @@ Description :
     redresser une malformation si elle est accidentelle, mais pas si elle est
     congénitale.
 
-:bred:`Stérilité`
+Stérilité
+^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|/|vegetal|/|animal|/|humain|
@@ -343,7 +354,8 @@ Description :
     zone visée. Les plantes qui y poussaient meurent en quelques jours. Le
     sortilège employé avec les autres Règnes empêche la reproduction.
 
-:bred:`Vieillesse`\ :label:`vieillesse`
+Vieillesse
+^^^^^^^^^^
 
 Formule :
     |corps| + |action| + |mineral|/|vegetal|/|animal|/|humain|
@@ -376,7 +388,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Création d'un clone`
+Création d'un clone
+^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |action| + |vegetal|/|animal|/|humain|
@@ -407,7 +420,8 @@ Description :
     cloner. Le clone vit MR années (à la fin desquelles il redevient boue). Le
     magicien ne peut pas se cloner lui-même.
 
-:bred:`Création d'un golem`
+Création d'un golem
+^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -443,7 +457,8 @@ Description :
     Virtuellement éternel, s'il est laissé longtemps au soleil, il sèche et
     craquelle en quelques jours.
 
-:bred:`Croisement de Règnes`
+Croisement de Règnes
+^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |neant|
@@ -466,7 +481,8 @@ Description :
     (homme-arbre, lion de pierre, etc.). Ces créatures n'étant viables que
     magiquement, elles ne peuvent pas se reproduire, sauf par magie.
 
-:bred:`Rajeunissement`\ :label:`rajeunissement`
+Rajeunissement
+^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |humain|
@@ -488,7 +504,8 @@ Description :
     La cible rajeunit de MR années. Le magicien ne peut pas lancer ce sort sur
     lui-même.
 
-:bred:`Résurrection`\ :label:`resurrection`
+Résurrection
+^^^^^^^^^^^^
 
 Formule :
     |instinct| + |desir| + |animal|/|humain|
@@ -516,7 +533,8 @@ Description :
     Ramène un mort à 1PV, à condition que la mort remonte à moins de MR jours.
     Le sujet du sort perd définitivement 1EP.
 
-:bred:`Transformation en animal`
+Transformation en animal
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |humain|

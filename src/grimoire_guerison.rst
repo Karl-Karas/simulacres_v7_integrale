@@ -10,7 +10,8 @@ mais il a dans ce cas un malus de -2 pour les lancer.
 Niveau 1
 --------
 
-:bred:`Fertilité`
+Fertilité
+^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |animal|/|humain|
@@ -37,7 +38,8 @@ Niveau H. :
 Description :
     Rend fertile une créature.
 
-:bred:`Guérir les blessures`
+Guérir les blessures
+^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |animal|/|humain|
@@ -67,7 +69,8 @@ Description :
     utilise la règle des points de vie localisés, ce sortilège fonctionne sur
     une seule zone à la fois.
 
-:bred:`Guérir les intoxications`
+Guérir les intoxications
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |animal|/|humain|
@@ -97,7 +100,8 @@ Description :
     perdre des points de vie, le patient récupère 1PV par heure d'effet, à
     concurrence des dommages subis de cette façon.
 
-:bred:`Guérir les maladies`\ :label:`guerir-les-maladies`
+Guérir les maladies
+^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |vegetal|/|animal|/|humain|
@@ -131,7 +135,8 @@ Description :
 Niveau 2
 --------
 
-:bred:`Guérir les troubles mentaux`
+Guérir les troubles mentaux
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |resistance| + |humain|
@@ -161,7 +166,8 @@ Description :
     jour d'effet. Si le patient avait une phobie, elle ne cesse que lorsqu'il
     est revenu à son maximum d'EP.
 
-:bred:`Raviver la mémoire`
+Raviver la mémoire
+^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |humain|
@@ -190,7 +196,8 @@ Description :
     amnésie, le malade ne retrouve que des souvenirs associés à un objet (ou
     lieu, ou personne) qu'on lui présente.
 
-:bred:`Régénérer les organes et les membres`
+Régénérer les organes et les membres
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |vegetal|/|animal|/|humain|
@@ -219,7 +226,8 @@ Description :
     arrachés, en un jour ; et de récupérer immédiatement [D]PV. Ce sort ne
     s'applique que sur un être encore vivant.
 
-:bred:`Réparer une infirmité`
+Réparer une infirmité
+^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |vegetal|/|animal|/|humain|
@@ -253,7 +261,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Réparer les corps`
+Réparer les corps
+^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |vegetal|/|animal|/|humain|
@@ -282,13 +291,15 @@ Description :
     ses blessures et ses maladies. Il redonne le maximum de PV et de PS. Par
     contre, il ne régénère pas les membres coupés et ne redonne pas d'EP.
 
-:bred:`Rajeunissement`
+Rajeunissement
+^^^^^^^^^^^^^^
 
 Description :
     Identique à celui de la liste Boue (Création de vie) p. |s|
     :pageref:`rajeunissement`.
 
-:bred:`Résurrection`
+Résurrection
+^^^^^^^^^^^^
 
 Description :
     Identique à celui de la liste Boue (Création de vie) p. |s|

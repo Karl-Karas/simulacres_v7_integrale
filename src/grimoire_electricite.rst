@@ -11,7 +11,8 @@ est possible d’accéder directement à l’Énergie électrique.
 Niveau 1
 --------
 
-:bred:`Accélération`
+Accélération
+^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |humain|
@@ -40,7 +41,8 @@ Description :
     supplémentaires dans un même laps de temps. Cela ne permet pas d'accélérer
     le temps de concentration des sortilèges.
 
-:bred:`Aimanter les objets`
+Aimanter les objets
+^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |action| + |mecanique|
@@ -73,7 +75,8 @@ Description :
     supérieure à celle du sort (si les deux objets sont aimantés, il faut une
     MR au moins double de celle du sort), et les sortir de la zone d'action.
 
-:bred:`Guider la foudre`
+Guider la foudre
+^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -104,7 +107,8 @@ Description :
     |mineral|, voir p. |s| :pageref:`la-derniere-chance`), ceux qui sont dans
     un rayon de 3 à 10 m subissent [B]PV et [E]PS de dégâts ; rien au-delà.
 
-:bred:`Flash`
+Flash
+^^^^^
 
 Formule :
     |corps| + |perception| + |mineral|
@@ -134,7 +138,8 @@ Description :
     **talents** durant 1 passe d'armes, puis -2 durant la suivante, puis -1
     durant encore une passe d'armes.
 
-:bred:`Se protéger de l'électricité`
+Se protéger de l'électricité
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|
@@ -169,7 +174,8 @@ Description :
 Niveau 2
 --------
 
-:bred:`Barrière électrique`
+Barrière électrique
+^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|
@@ -199,7 +205,8 @@ Description :
     Dégâts : [C]PV et [F]PS. Le magicien peut augmenter la largeur en diminuant
     d'autant la hauteur ou l'inverse.
 
-:bred:`Créer un orage`
+Créer un orage
+^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -228,7 +235,8 @@ Description :
     après le lancer du sort. L'orage éclate aussitôt après et dure MR heures.
     Il n'est pas accompagné de pluie.
 
-:bred:`Lancer un éclair`
+Lancer un éclair
+^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |action| + |mineral|
@@ -256,7 +264,8 @@ Description :
     Un éclair part de la main du magicien pour frapper une cible de son choix
     dans la limite de portée du sort. Dégâts : [G]PV et [G]PS.
 
-:bred:`Pluie de feu`
+Pluie de feu
+^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -294,7 +303,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Se transformer en éclair`
+Se transformer en éclair
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|

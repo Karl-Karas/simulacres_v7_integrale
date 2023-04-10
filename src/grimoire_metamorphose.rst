@@ -9,7 +9,8 @@ trop primaire, pas assez intellectuelle.
 Niveau 1
 --------
 
-:bred:`Changement d'apparence`
+Changement d'apparence
+^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |humain|
@@ -39,7 +40,8 @@ Description :
     annuler le sort et retrouver son apparence normale avant la fin du temps
     d'effet, en dépensant 1PS.
 
-:bred:`Changement de taille`
+Changement de taille
+^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |action| + |humain|
@@ -75,7 +77,8 @@ Description :
 Niveau 2
 --------
 
-:bred:`Changement temporaire`
+Changement temporaire
+^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |humain|
@@ -105,7 +108,8 @@ Description :
     poids. Il peut annuler le sort et retrouver son apparence normale avant la
     fin du temps d'effet, en dépensant 1PS.
 
-:bred:`Prendre l'apparence d'un autre Règne`
+Prendre l'apparence d'un autre Règne
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|/|vegetal|/|animal|
@@ -142,7 +146,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Transformation en un autre Règne`\ :label:`transformation-en-un-autre-regne`
+Transformation en un autre Règne
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|/|vegetal|/|animal|

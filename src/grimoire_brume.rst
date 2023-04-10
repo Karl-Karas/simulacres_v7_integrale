@@ -11,7 +11,8 @@ est possible d’accéder directement à l’Énergie d’Illusion.
 Niveau 1
 --------
 
-:bred:`Abuser un sens`
+Abuser un sens
+^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |animal|/|humain|
@@ -41,7 +42,8 @@ Description :
     qu'une seule créature vivante à la fois. Par exemple : faire croire que
     telle personne parle avec la voix de telle autre.
 
-:bred:`Brouiller un sens`\ :label:`brouiller-un-sens`
+Brouiller un sens
+^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |animal|/|humain|
@@ -71,7 +73,8 @@ Description :
     complet à la présence de lumières tourbillonnantes où que se porte le
     regard.
 
-:bred:`Changement de matière`
+Changement de matière
+^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |perception| + |mineral|
@@ -101,7 +104,8 @@ Description :
     matière concernée doit être inerte et d'un seul bloc, d'un volume inférieur
     à celui d'un corps humain.
 
-:bred:`Créer un hologramme`
+Créer un hologramme
+^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |animal|/|humain|
@@ -131,7 +135,8 @@ Description :
     hologramme ne produit aucun son et n'a aucune action physique. Par contre
     il a l'air extrêmement réel.
 
-:bred:`Déguisement`
+Déguisement
+^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |humain|
@@ -168,7 +173,8 @@ Description :
 Niveau 2
 --------
 
-:bred:`Abuser les cinq sens`
+Abuser les cinq sens
+^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |humain|/|animal|
@@ -199,7 +205,8 @@ Description :
     test de Résistance les victimes voient, entendent, éventuellement sentent
     et touchent l'illusion suggérée.
 
-:bred:`Camouflage`
+Camouflage
+^^^^^^^^^^
 
 Formule :
     |instinct| + |perception| + |vegetal|/|mineral|/|humain|
@@ -230,7 +237,8 @@ Description :
     l'intérieur des habitations ou les cavernes ; Humain |humain| pour se
     perdre dans la foule.
 
-:bred:`Envoyer un rêve`
+Envoyer un rêve
+^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |humain|
@@ -262,7 +270,8 @@ Description :
     peut émettre que des images qu'il connaît ou imagine. Le destinataire
     complète parfois le rêve avec des images personnelles parasites.
 
-:bred:`Faux effet magique`
+Faux effet magique
+^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |neant|
@@ -291,7 +300,8 @@ Description :
     faisant une simple détection de la magie (mais pas avec le sortilège
     Détection de la magie).
 
-:bred:`Image miroir`
+Image miroir
+^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |humain|
@@ -321,7 +331,8 @@ Description :
     savent plus qui est le vrai magicien. N'agit pas sur les animaux ou les
     créatures à l'odorat ou l'ouïe développés.
 
-:bred:`Peur`
+Peur
+^^^^
 
 Formule :
     |instinct| + |action| + |humain|/|animal|
@@ -349,7 +360,8 @@ Description :
     Les victimes du sort sont terrorisées. Elles s'enfuient sans réfléchir, ou
     si la fuite leur est impossible, elles restent tétanisées.
 
-:bred:`Programmation d'illusion`
+Programmation d'illusion
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |mecanique|
@@ -388,7 +400,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Abuser les sept sens`
+Abuser les sept sens
+^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |humain|
@@ -422,7 +435,8 @@ Description :
     elle perd 1 point d'EP. Elle peut également concevoir une phobie de l'objet
     ou du lieu qui ont causé sa « mort ».
 
-:bred:`Invisibilité`
+Invisibilité
+^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |humain|/|neant|
@@ -453,7 +467,8 @@ Description :
     vue des animaux, des créatures, et les objets magiques et sorts utilisant
     l'image du personnage (miroir magique, rayon lumineux, etc.).
 
-:bred:`Permanence d'illusion`
+Permanence d'illusion
+^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |action| + |mecanique|

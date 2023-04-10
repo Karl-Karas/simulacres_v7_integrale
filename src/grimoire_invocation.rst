@@ -10,7 +10,8 @@ des sortilèges pour invoquer des djinns, des sandestins, etc.
 Niveau 1
 --------
 
-:bred:`Appeler un esprit simple`
+Appeler un esprit simple
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |desir| + |mineral|/|vegetal|/|animal|
@@ -34,7 +35,8 @@ Description :
     moins va venir voir ce que veut le magicien. Elles ne sont pas tenues
     d'obéir, ni même d'être gentilles.
 
-:bred:`Cercle de protection`\ :label:`cercle-de-protection`
+Cercle de protection
+^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |neant|
@@ -65,7 +67,8 @@ Description :
     sortir du cercle, ni le toucher. Si le cercle est détruit, le sort prend
     fin. Si le sort sert à emprisonner une créature, c'est de la magie noire.
 
-:bred:`Invocation de forces naturelles`
+Invocation de forces naturelles
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -96,7 +99,8 @@ Description :
     un tremblement de terre s'il est sur une faille tectonique, un éboulement
     sur une montagne friable, etc. Il ne peut déclencher qu'un seul événement.
 
-:bred:`Repousser les êtres féeriques`
+Repousser les êtres féeriques
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |resistance| + |neant|
@@ -129,7 +133,8 @@ Description :
 Niveau 2
 --------
 
-:bred:`Appeler un démon`\ :label:`appeler-un-demon`
+Appeler un démon
+^^^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |desir| + |neant|
@@ -160,7 +165,8 @@ Description :
     d'être amical. C'est pourquoi l'invocateur fait généralement avant un
     Cercle de protection à l'intérieur duquel le démon apparaîtra.
 
-:bred:`Contrôler un esprit simple`
+Contrôler un esprit simple
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |mineral|/|vegetal|/|animal|/|neant|
@@ -192,7 +198,10 @@ Description :
     mais pas à attaquer quelqu'un. Le Règne du sort dépend du type de Færie.
     Pour les mort-vivants, c'est forcément Néant |neant|.
 
-:bred:`Invocation d'un familier`\ :label:`invocation-d-un-familier`
+:label:`invocation-familier`
+
+Invocation d'un familier
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |resistance| + |neant|
@@ -230,7 +239,8 @@ Description :
     L'invocation réussie d'un familier fait gagner 20 points d'un seul coup au
     total de magie noire.
 
-:bred:`Invocation d'une créature naturelle`
+Invocation d'une créature naturelle
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |coeur| + |desir| + |animal|
@@ -264,7 +274,8 @@ Description :
     aide. Elles sont alors libres de venir (pas de jet de Résistance à la
     magie) ; ce n'est pas de la magie noire.
 
-:bred:`Lier un esprit simple`\ :label:`lier-un-esprit-simple`
+Lier un esprit simple
+^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mecanique|
@@ -297,7 +308,8 @@ Description :
     pouvoirs magiques, peut faire parler l'objet s'il sait parler lui-même,
     mais ne peut pas animer l'objet.
 
-:bred:`Pactiser avec un démon`
+Pactiser avec un démon
+^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |coeur| + |desir| + |animal|
@@ -335,7 +347,8 @@ Description :
     points de magie noire). Si vous n'utilisez pas la règle de magie noire, ce
     sortilège passe au niveau 3, et le sacrifice devient difficile à réaliser.
 
-:bred:`Repousser un démon`
+Repousser un démon
+^^^^^^^^^^^^^^^^^^
 
 Formule :
     |coeur| + |resistance| + |animal|
@@ -371,7 +384,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Appeler un élémental`
+Appeler un élémental
+^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -403,7 +417,8 @@ Description :
     points qui donnera la puissance de l'élémental invoqué (voir Bestiaire p.
     |s| :pageref:`les-elementaux`).
 
-:bred:`Contrôler un démon`
+Contrôler un démon
+^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |animal|
@@ -432,7 +447,8 @@ Description :
     celui-ci reste dans la portée du sort, ou que le magicien continue à le
     voir.
 
-:bred:`Invocation d'un objet`
+Invocation d'un objet
+^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |neant|
@@ -468,7 +484,8 @@ Description :
     quelqu'un, ce n'est pas de la magie noire, mais la résistance magique
     s'applique.
 
-:bred:`Lier un démon`
+Lier un démon
+^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |neant|
@@ -501,7 +518,8 @@ Description :
     garde tous ses pouvoirs magiques, peut faire parler l'objet s'il sait
     parler lui-même, mais ne peut animer l'objet.
 
-:bred:`Renvoyer un esprit ou un démon`\ :label:`renvoyer-un-esprit-ou-un-demon`
+Renvoyer un esprit ou un démon
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |coeur| + |desir| + |neant|

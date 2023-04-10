@@ -11,7 +11,8 @@ continents ?
 Niveau 1
 --------
 
-:bred:`Alarme`
+Alarme
+^^^^^^
 
 Formule :
     |esprit| + |action| + |humain|
@@ -41,7 +42,8 @@ Description :
     suffisamment impérieux pour le réveiller ou se faire sentir même lors d'une
     situation stressante.
 
-:bred:`Connaître le temps écoulé`
+Connaître le temps écoulé
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |perception| + |humain|
@@ -71,7 +73,8 @@ Description :
     entre les deux rondes du garde », ou « il est minuit et 17 secondes »).
     Deux individus peuvent ainsi synchroniser leurs actions à la seconde près.
 
-:bred:`Ralentir`
+Ralentir
+^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|/|vegetal|/|animal|/|humain|/|mecanique|
@@ -113,7 +116,8 @@ Description :
 Niveau 2
 --------
 
-:bred:`Accélérer`
+Accélérer
+^^^^^^^^^
 
 Formule :
     |corps| + |action| + |mineral|/|vegetal|/|animal|/|humain|/|mecanique|
@@ -143,7 +147,8 @@ Description :
     Dans un même laps de temps, elle agit ou bouge comme si elle disposait de
     [D] unités de temps supplémentaires.
 
-:bred:`Blocage`
+Blocage
+^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|/|vegetal|/|animal|/|humain|/|mecanique|
@@ -175,7 +180,8 @@ Description :
     c'est un sort de magie noire. Le magicien décide de la forme de la zone
     d'effet dans les limites de portée du sort.
 
-:bred:`Déclencheur de sort par le temps`
+Déclencheur de sort par le temps
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |neant|
@@ -205,7 +211,8 @@ Description :
     le magicien (comme si le magicien était encore présent à cet endroit
     précis). Ce sort est annulé à la mort du magicien.
 
-:bred:`Ralentir les fonctions vitales`
+Ralentir les fonctions vitales
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |animal|/|humain|
@@ -238,13 +245,15 @@ Description :
     condition que n'importe qui d'autre pourra remplir (embrasser sur le front,
     par exemple).
 
-:bred:`Vieillesse`
+Vieillesse
+^^^^^^^^^^
 
 Description :
     Identique à celui de la liste Boue |ldash| Création de vie p. |s| 
     :pageref:`vieillesse`.
 
-:bred:`Voir le passé`
+Voir le passé
+^^^^^^^^^^^^^
 
 Description :
     Identique à celui de la liste Divination p. |s| :pageref:`voir-le-passe`.
@@ -255,7 +264,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Arrêt du temps`
+Arrêt du temps
+^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |neant|
@@ -288,23 +298,27 @@ Description :
     point de Puissance |puissance| en plus, à MR jours pour 2 pts et à MR mois
     pour 3 pts.
 
-:bred:`Voir l'avenir`
+Voir l'avenir
+^^^^^^^^^^^^^
 
 Description :
-    Identique à celui de la liste Divination p. |s| :pageref:`voir-l-avenir`.
+    Identique à celui de la liste Divination p. |s| :pageref:`vision-de-l-avenir`.
 
-:bred:`Permanence`
+Permanence
+^^^^^^^^^^
 
 Description :
     Identique à celui de la liste Enchantement p. |s| :pageref:`permanence`.
     
-:bred:`Rajeunissement`
+Rajeunissement
+^^^^^^^^^^^^^^
 
 Description :
     Identique à celui de la liste Boue (Création de vie) p. |s|
     :pageref:`rajeunissement`.
 
-:bred:`Téléporter`
+Téléporter
+^^^^^^^^^^
 
 Formule :
     |corps| + |action| + |neant|
@@ -334,7 +348,8 @@ Description :
     fonctionne pas si la trajectoire directe vers le point d'arrivée survole
     plus de MR kilomètres d'eau salée.
 
-:bred:`Transporter dans l'avenir`
+Transporter dans l'avenir
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |desir| + |neant|

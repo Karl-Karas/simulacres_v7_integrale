@@ -20,7 +20,8 @@ peuvent pas être appris en magie hermétique.
 Niveau 1
 --------
 
-:bred:`Apprendre un Nom d'espèce`
+Apprendre un Nom d'espèce
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |neant|
@@ -44,7 +45,8 @@ Description :
     1 point d'aventure à chaque fois que l'on apprend une nouvelle espèce. Noms
     d'espèces typiques : les Humains, les Arbres, les Félins, les Liquides.
 
-:bred:`Apprendre un Verbe simple`
+Apprendre un Verbe simple
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |neant|
@@ -69,7 +71,8 @@ Description :
     Verbe. Les Verbes simples sont des verbes qui permettent la connaissance,
     la guérison, les effets élémentaires (Chauffer, Refroidir).
 
-:bred:`Combiner un Verbe et un Nom 1`
+Combiner un Verbe et un Nom 1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |mecanique|
@@ -105,7 +108,8 @@ Description :
 Niveau 2
 --------
 
-:bred:`Apprendre un Nom de race`
+Apprendre un Nom de race
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |neant|
@@ -128,7 +132,8 @@ Description :
     d'aventure pour chaque nouveau Nom de race appris. Noms de races typiques :
     les Gaëls, les Sapins, les Lions, les Alcools.
 
-:bred:`Apprendre un Verbe de transformation`
+Apprendre un Verbe de transformation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |neant|
@@ -153,7 +158,8 @@ Description :
     des sorts de vraie transformation (Changer en loup, Rendre invisible), et
     d'autres encore. Leurs effets sont toujours temporaires.
 
-:bred:`Combiner un Verbe et un Nom 2`
+Combiner un Verbe et un Nom 2
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |mecanique|
@@ -180,7 +186,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Apprendre un Nom d'individu`
+Apprendre un Nom d'individu
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |neant|
@@ -206,7 +213,8 @@ Description :
     nouveau Nom d'individu appris. Noms d'individus typiques : Gadar, le Sapin
     du Noël 82 de ma tante Ursule, Clarence le Lion, la Cuvée Beaujolais 87.
 
-:bred:`Apprendre un Verbe de Création/Destruction`
+Apprendre un Verbe de Création/Destruction
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |neant|
@@ -230,7 +238,8 @@ Description :
     Création/Destruction peuvent être permanents. Verbes typiques : Stocker
     magie (dans un focus), Rendre permanent, Envoûter, Invoquer...
 
-:bred:`Combiner un Verbe et un Nom 3`
+Combiner un Verbe et un Nom 3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |mecanique|

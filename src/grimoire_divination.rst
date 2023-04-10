@@ -9,7 +9,8 @@ dévoiler.
 Niveau 1
 --------
 
-:bred:`Compréhension`
+Compréhension
+^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |humain|/|mecanique|
@@ -40,7 +41,8 @@ Description :
     |mecanique|, le magicien peut visualiser la façon dont s'utilise un objet
     ou un mécanisme inconnus, sans pour autant savoir s'en servir.
 
-:bred:`Détection`
+Détection
+^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |mineral|/|vegetal|/|animal|/|humain|/|mecanique|
@@ -73,7 +75,8 @@ Description :
     Noirflam, la Fiole de longuevie). Dans ce dernier type, le magicien doit
     avoir été une fois en présence de cette cible particulière.
 
-:bred:`Divination de la magie`
+Divination de la magie
+^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |mineral|/|vegetal|/|animal|/|humain|/|mecanique|
@@ -105,7 +108,8 @@ Description :
     notamment le comportement ou le mot nécessaires pour activer un objet
     magique.
 
-:bred:`Détection de la magie noire`\ :label:`detection-de-la-magie-noire`
+Détection de la magie noire
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |mineral|/|vegetal|/|animal|/|humain|/|mecanique|
@@ -134,7 +138,8 @@ Description :
     de quelles manières elle les a obtenus (en général), et si elle est
     possédée.
 
-:bred:`Détection des êtres invisibles`
+Détection des êtres invisibles
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |perception| + |animal|/|humain|/|neant|
@@ -162,7 +167,8 @@ Description :
     Permet au magicien de voir les êtres invisibles ou immatériels dans un
     rayon de MR mètres autour de lui, même dans l'obscurité totale.
 
-:bred:`Lire les sentiments`
+Lire les sentiments
+^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |coeur| + |perception| + |humain|/|animal|
@@ -190,7 +196,8 @@ Description :
     Permet de connaître les sentiments dominants d'une créature au moment où le
     sort est lancé.
 
-:bred:`Voir dans le noir`
+Voir dans le noir
+^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |perception| + |neant|
@@ -223,7 +230,8 @@ Description :
 Niveau 2
 --------
 
-:bred:`Brouiller les détections`
+Brouiller les détections
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |resistance| + |mineral|/|vegetal|/|animal|/|humain|/|mecanique|
@@ -254,7 +262,8 @@ Description :
     vivante (ou mort-vivante), le sort dure MR jours. Ce sort n'est de la magie
     noire que sur une cible vivante non consentante.
 
-:bred:`Détecter les liens familiaux`
+Détecter les liens familiaux
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |perception| + |humain|
@@ -285,7 +294,8 @@ Description :
     différée pour détecter un lien entre une unique première personne et une
     seconde rencontrée plus tard, etc., mais en relançant le sort chaque fois.
 
-:bred:`Détecter les mensonges`
+Détecter les mensonges
+^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |coeur| + |perception| + |humain|
@@ -312,7 +322,8 @@ Niveau H. :
 Description :
     Le magicien sait si on lui ment, sauf si la cible croit dire la vérité.
 
-:bred:`Lire les pensées`
+Lire les pensées
+^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |humain|
@@ -343,7 +354,8 @@ Description :
     ou à l'inverse, il subit un malus de - 1 s'il accomplit des actions
     complexes alors qu'il se concentre sur les pensées de sa victime.
 
-:bred:`Voir (ou entendre) à distance`
+Voir (ou entendre) à distance
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |perception| + |humain|
@@ -380,7 +392,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Voir le passé`\ :label:`voir-le-passe`
+Voir le passé
+^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |mineral|/|vegetal|/|animal|/|humain|/|mecanique|
@@ -413,7 +426,8 @@ Description :
     cherche, s'il sait précisément quelles périodes l'intéressent, ou si les
     scènes ont eu lieu là où est lancé le sort (dans le cas d'une créature).
 
-:bred:`Vision de l'avenir`\ :label:`voir-l-avenir`
+Vision de l'avenir
+^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |mineral|/|vegetal|/|animal|/|humain|/|mecanique|

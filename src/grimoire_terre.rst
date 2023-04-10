@@ -4,7 +4,8 @@ Terre
 Niveau 1
 --------
 
-:bred:`Apaiser`
+Apaiser
+^^^^^^^
 
 Formule :
     |coeur| + |desir| + |humain|/|animal|
@@ -32,7 +33,8 @@ Description :
     La créature cible n'a plus peur, elle se calme et reprend confiance.
     Pendant le temps d'effet du sort, elle a tendance à moins paniquer.
 
-:bred:`Armure`
+Armure
+^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|
@@ -60,7 +62,8 @@ Description :
     La peau du magicien se transforme en une substance minérale moyennement
     souple, qui lui procure une protection égale à une armure (2/1/2).
 
-:bred:`Contrôler un élémental de Terre`
+Contrôler un élémental de Terre
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |mineral|
@@ -91,7 +94,8 @@ Description :
     pour dissoudre l'élémental. Mais il faut le préciser avant. C'est le
     contrôle ou la dissolution, pas les deux.
 
-:bred:`Créer de la terre`
+Créer de la terre
+^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -120,7 +124,8 @@ Description :
     est semblable à de l'argile et apparaît dans la forme que l'on désire. On
     doit en préciser la forme avant de lancer le sortilège.
 
-:bred:`Détection des minerais`
+Détection des minerais
+^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |perception| + |mineral|
@@ -150,7 +155,8 @@ Description :
     toujours du minerai le plus proche au plus éloigné, puis de la plus grosse
     quantité à la plus faible.
 
-:bred:`Enterrer`
+Enterrer
+^^^^^^^^
 
 Formule :
     |corps| + |action| + |vegetal|/|animal|/|humain|
@@ -178,7 +184,8 @@ Description :
     La cible s'enfonce jusqu'à mi-hauteur dans le sol (quelle que soit la
     nature de celui-ci). Le Règne du sortilège dépend de celui de la cible.
 
-:bred:`Marcher sur les murs`
+Marcher sur les murs
+^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -206,7 +213,8 @@ Description :
     Les doigts et les pieds nus du magicien peuvent « coller » aux murs selon
     sa volonté. Ce sortilège ne permet pas aux chaussures d'accrocher aux murs.
 
-:bred:`Roc en terre (ou sable)`
+Roc en terre (ou sable)
+^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |action| + |mineral|
@@ -235,7 +243,8 @@ Description :
     équivalent à celui d'un corps humain. Les pierres précieuses (cristallines)
     et les métaux ne peuvent pas être transformés de cette manière.
 
-:bred:`Sculpture`
+Sculpture
+^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |mineral|
@@ -271,7 +280,8 @@ Description :
 Niveau 2
 --------
 
-:bred:`Appeler un élémental de Terre`
+Appeler un élémental de Terre
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -304,7 +314,8 @@ Description :
     retransformer son propre élémental en terre avec le même sort, mais cette
     fois lancé en une passe d'armes.
 
-:bred:`Augmenter les récoltes`
+Augmenter les récoltes
+^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |vegetal|
@@ -332,7 +343,8 @@ Description :
     Les récoltes donnent deux fois plus, dans un rayon de MRx120 m autour du
     magicien.
 
-:bred:`Donner faim`
+Donner faim
+^^^^^^^^^^^
 
 Formule :
     |instinct| + |desir| + |humain|/|animal|
@@ -360,7 +372,8 @@ Description :
     Pendant toute la durée du sort, la cible éprouve une faim douloureuse et
     insatiable, qui n'est pas apaisée par l'absorption de nourriture.
 
-:bred:`Donner sommeil`
+Donner sommeil
+^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |desir| + |humain|/|animal|
@@ -391,7 +404,8 @@ Description :
     résistance magique pour ne pas s'endormir. Ce sommeil est « naturel », ce
     qui est magique c'est le désir de s'endormir.
 
-:bred:`Parler aux arbres`
+Parler aux arbres
+^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |vegetal|
@@ -421,7 +435,8 @@ Description :
     les entendre. Il a surtout la mémoire des grandes migrations qui ont eu
     lieu à côté de lui (installation d'un camp, passage de chasseurs, etc.).
 
-:bred:`Parler aux créatures terrestres`
+Parler aux créatures terrestres
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |animal|
@@ -450,7 +465,8 @@ Description :
     Selon le type de la créature, la conversation sera plus ou moins difficile.
     Un chien a une conversation plus intéressante qu'un ver de terre.
 
-:bred:`Pétrification`
+Pétrification
+^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|
@@ -481,7 +497,8 @@ Description :
     granit. Quand la victime redeviendra normale, elle aura l'impression que
     seules quelques minutes ont passé.
 
-:bred:`Se déplacer dans la terre`
+Se déplacer dans la terre
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|
@@ -515,7 +532,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Commander aux créatures terrestres`
+Commander aux créatures terrestres
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |action| + |animal|
@@ -545,7 +563,8 @@ Description :
     on commande à toutes les créatures terrestres qui entrent dans la zone
     d'effet du sort (12 m autour de magicien).
 
-:bred:`Pulvérisation et retour`
+Pulvérisation et retour
+^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |neant|
@@ -577,7 +596,8 @@ Description :
     manquer plus de 10 grammes de la poussière pour que la reconstitution ait
     lieu.
 
-:bred:`Rendre une terre fertile`
+Rendre une terre fertile
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -599,7 +619,8 @@ Description :
     La terre devient fertile, dans un rayon de MRx120 m autour du magicien, et
     jusqu'à une profondeur de trois mètres.
 
-:bred:`Transformation en élémental de Terre`
+Transformation en élémental de Terre
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|

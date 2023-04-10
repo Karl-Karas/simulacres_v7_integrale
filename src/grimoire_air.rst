@@ -5,7 +5,8 @@ Air
 Niveau 1
 --------
 
-:bred:`Contrôler un élémental d'Air`
+Contrôler un élémental d'Air
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |mineral|
@@ -36,7 +37,8 @@ Description :
     pour dissoudre l'élémental. Mais il faut le préciser avant. C'est le
     contrôle ou la dissolution, pas les deux.
 
-:bred:`Créer des odeurs`
+Créer des odeurs
+^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |perception| + |mineral|/|vegetal|/|animal|/|humain|/|mecanique|
@@ -67,7 +69,8 @@ Description :
     L'odeur peut être très forte, mais elle doit forcément avoir déjà été
     sentie par le jeteur de sort qui ne peut pas « imaginer » une odeur.
 
-:bred:`Créer des sons`
+Créer des sons
+^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |perception| + |mineral|/|vegetal|/|animal|/|humain|/|mecanique|
@@ -101,7 +104,8 @@ Description :
     Une mélodie très simple (4 à 12 notes) peut quand même être créée, ainsi
     qu'une voix prononçant une phrase brève.
 
-:bred:`Créer du vent`
+Créer du vent
+^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|/|mecanique|
@@ -131,7 +135,8 @@ Description :
     de lancer le sortilège sur un navire (Mécanique |mecanique|) plutôt que sur
     la zone d'air (Minéral |mineral|) environnante, qui elle ne va pas bouger.
 
-:bred:`Léviter`
+Léviter
+^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|
@@ -165,7 +170,8 @@ Description :
 Niveau 2
 --------
 
-:bred:`Appeler un élémental d'Air`
+Appeler un élémental d'Air
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -198,7 +204,8 @@ Description :
     propre élémental en air avec le même sort, mais cette fois lancé en une
     seule passe d'armes.
 
-:bred:`Asphyxier`
+Asphyxier
+^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |humain|/|animal|
@@ -226,7 +233,8 @@ Description :
     L'air vient à manquer brusquement dans les poumons de la créature visée.
     Elle perd [C]PS.
 
-:bred:`Créer du vide`
+Créer du vide
+^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|
@@ -256,7 +264,8 @@ Description :
     le magicien le décide). Si une créature vivante est dans la zone, elle perd
     [B]PV et [D]PS.
 
-:bred:`Créer une tempête`
+Créer une tempête
+^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -284,7 +293,8 @@ Description :
     Une fois créée, la tempête suit la direction indiquée par le magicien. Au
     meneur de jeu de décider des dégâts qu'elle peut causer.
 
-:bred:`Forme gazeuse`
+Forme gazeuse
+^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|
@@ -315,7 +325,8 @@ Description :
     (même à pic), il ne peut pas voler. Seule une arme enchantée peut le
     blesser.
 
-:bred:`Parler aux créatures volantes`
+Parler aux créatures volantes
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |animal|
@@ -344,7 +355,8 @@ Description :
     ne les rend pas plus intelligentes, et si un corbeau peut dire s'il a vu
     passer un être humain, il ne pourra pas tenir un raisonnement compliqué.
 
-:bred:`Rendre bête`
+Rendre bête
+^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |humain|
@@ -373,7 +385,8 @@ Description :
     l'Esprit |esprit| ont une difficulté de -4. De plus le choc lui fait perdre
     [A]EP.
 
-:bred:`Rendre intelligent`
+Rendre intelligent
+^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |humain|/|animal|
@@ -402,7 +415,8 @@ Description :
     optimum. Pendant la durée du sortilège, sa composante Esprit |esprit| est
     augmentée de 1 (maximum 7). On ne peut pas lancer ce sort sur soi.
 
-:bred:`Voler`
+Voler
+^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -435,7 +449,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Commander aux créatures volantes`
+Commander aux créatures volantes
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |action| + |animal|
@@ -465,7 +480,8 @@ Description :
     à toutes les créatures volantes qui entrent dans la zone d'effet du sort
     (12m autour de magicien).
 
-:bred:`Créer un cyclone`
+Créer un cyclone
+^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -493,7 +509,8 @@ Description :
     Une fois créé, le cyclone suit la direction indiquée par le magicien. Au
     meneur de jeu de décider des dégâts qu'il peut causer.
 
-:bred:`Transformation en élémental d'Air`
+Transformation en élémental d'Air
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|

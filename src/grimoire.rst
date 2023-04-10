@@ -180,10 +180,20 @@ magique + difficulté. La difficulté reste la même.
 Magie universelle
 =================
 
-Le sortilège qui suit est le seul qui peut être appris dans toutes les listes
-de magie, sans exception, au niveau 1 :
+|s|
+---
 
-:bred:`Détection de magie`
+.. raw:: latex
+
+    \titleformat{\paragraph}
+        {\biolinum\large\bfseries\color{Red1}}{\theparagraph.}{1em}{}
+    \vspace*{-7mm}
+
+Le sortilège qui suit est le seul qui peut être appris dans toutes les listes
+de magie, sans exception, au niveau 1 |s| :
+
+Détection de magie
+^^^^^^^^^^^^^^^^^^
 
 Formule :
    |esprit| + |perception| + |neant|

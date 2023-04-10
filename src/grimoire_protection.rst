@@ -13,7 +13,8 @@ nom de paladins ou de templiers.
 Niveau 1
 --------
 
-:bred:`Activation de sort`
+Activation de sort
+^^^^^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |perception| + |neant|
@@ -51,7 +52,8 @@ Description :
     zone de portée du sort. C'est au magicien de le décider quand il stocke son
     sort.
 
-:bred:`Armure invisible`
+Armure invisible
+^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |neant|
@@ -83,13 +85,15 @@ Description :
     est pris en compte. C'est un sort très couramment employé par les
     guerriers-magiciens.
 
-:bred:`Cercle de protection`
+Cercle de protection
+^^^^^^^^^^^^^^^^^^^^
 
 Description :
     Ce sortilège est le même que celui de la liste d'Invocation p. |s|
     :pageref:`cercle-de-protection`.
 
-:bred:`Protection contre les éléments`
+Protection contre les éléments
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|
@@ -121,7 +125,8 @@ Description :
     etc. Ce sortilège empêche également d'être touché par les élémentaux (seul
     le magicien est protégé).
 
-:bred:`Protection contre les maladies`
+Protection contre les maladies
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |animal|
@@ -157,7 +162,8 @@ Description :
 Niveau 2
 --------
 
-:bred:`Protection contre la magie`
+Protection contre la magie
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |resistance| + |neant|
@@ -193,7 +199,8 @@ Description :
     |mineral| le temps est de MR mois. Si c'est une plante ou un animal normal,
     le temps est de MR jours. Dans les autres cas, il est de MR heures.
 
-:bred:`Protection contre la malchance`
+Protection contre la malchance
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |desir| + |neant|
@@ -225,7 +232,8 @@ Description :
     ne marche qu'une seule fois. On ne peut pas le cumuler (c'est-à-dire le
     lancer plusieurs fois sur la même cible) tant qu'il est actif.
 
-:bred:`Protection contre un Règne`
+Protection contre un Règne
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|/|vegetal|/|animal|/|humain|/|mecanique|/|neant|
@@ -261,7 +269,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Immunité à un Règne`
+Immunité à un Règne
+^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mineral|/|vegetal|/|animal|/|humain|/|mecanique|/|neant|
@@ -294,7 +303,8 @@ Description :
     protégé contre tous les Règnes. Si on choisit celui-ci, on est protégé
     contre tous les démons, les créatures féeriques et les mort-vivants.
 
-:bred:`Renvoi de magie`
+Renvoi de magie
+^^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |action| + |neant|

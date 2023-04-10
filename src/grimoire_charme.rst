@@ -9,13 +9,15 @@ ensorceleurs.
 Niveau 1
 --------
 
-:bred:`Brouiller un sens`
+Brouiller un sens
+^^^^^^^^^^^^^^^^^
 
 Description :
     Même sortilège que celui de la liste de Brume (Illusion) p. |s|
     :pageref:`brouiller-un-sens`.
 
-:bred:`Émotion`\ :label:`emotion`
+Émotion
+^^^^^^^
 
 Formule :
     |coeur| + |desir| + |humain|/|animal|
@@ -47,7 +49,8 @@ Description :
     en magie hermétique), on peut indiquer à chaque fois n'importe quelle
     émotion.
 
-:bred:`Sensation`
+Sensation
+^^^^^^^^^
 
 Formule :
     |corps| + |perception| + |humain|
@@ -78,7 +81,8 @@ Description :
     sort au niveau 2 (également valable en magie hermétique), on peut indiquer
     à chaque fois n'importe quelle sensation.
 
-:bred:`Suggestion`
+Suggestion
+^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |humain|
@@ -111,7 +115,8 @@ Description :
 Niveau 2
 --------
 
-:bred:`Absorption de sort`
+Absorption de sort
+^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |perception| + |neant|
@@ -137,7 +142,8 @@ Description :
     points d'aventure. Le sort est appris au même niveau que celui du magicien
     (sans toutefois dépasser le niveau 0).
 
-:bred:`Hypnose`
+Hypnose
+^^^^^^^
 
 Formule :
     |coeur| + |desir| + |humain|/|animal|
@@ -171,7 +177,8 @@ Description :
     rendre insensible à une douleur précise. Si le magicien ne provoque pas le
     réveil, l'hypnotisé sombre dans un sommeil normal.
 
-:bred:`Oubli`
+Oubli
+^^^^^
 
 Formule :
     |esprit| + |action| + |humain|
@@ -205,7 +212,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Commandement`
+Commandement
+^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |humain|

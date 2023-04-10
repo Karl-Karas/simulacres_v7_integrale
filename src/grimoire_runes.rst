@@ -20,7 +20,8 @@ La magie runique ne peut pas être apprise en magie hermétique.
 Niveau 1
 --------
 
-:bred:`Apprendre une rune`
+Apprendre une rune
+^^^^^^^^^^^^^^^^^^
 
 Formule :
     |coeur| + |perception| + |neant|
@@ -44,7 +45,8 @@ Description :
     ce sort. On doit également dépenser 2 points d'aventure à chaque fois que
     l'on apprend une nouvelle rune.
 
-:bred:`Combiner les runes 1`
+Combiner les runes 1
+^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |mecanique|
@@ -72,7 +74,8 @@ Description :
     protection ou de guérison ainsi lancés ne fonctionnent pas sur des êtres
     humains qui ne croient pas à la magie runique.
 
-:bred:`Lire les runes`
+Lire les runes
+^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |perception| + |humain|
@@ -103,7 +106,8 @@ Description :
 Niveau 2
 --------
 
-:bred:`Combiner les runes 2`
+Combiner les runes 2
+^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |mecanique|
@@ -126,7 +130,8 @@ Description :
     rapide, et permet de lancer des sortilèges équivalents à ceux d'autres
     listes et ne dépassant pas le niveau 2.
 
-:bred:`Écrire les runes`
+Écrire les runes
+^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |action| + |mecanique|
@@ -161,7 +166,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Appeler l'esprit de la rune`
+Appeler l'esprit de la rune
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |desir| + |neant|

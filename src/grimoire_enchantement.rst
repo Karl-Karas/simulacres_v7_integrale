@@ -14,7 +14,8 @@ qu’il est très facile de faire des objets magiques puissants.
 Niveau 1
 --------
 
-:bred:`Créer un focus`
+Créer un focus
+^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mecanique|
@@ -47,7 +48,8 @@ Description :
     égale au plus petit chiffre entre la marge de réussite du sort et le nombre
     de semaines consacrées à la préparation de l'objet.
 
-:bred:`Déclencheur de sort`
+Déclencheur de sort
+^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |perception| + |mecanique|
@@ -82,7 +84,8 @@ Description :
     agir dans la zone de portée du sort. C'est au magicien de le décider quand
     il met le sort en réserve.
 
-:bred:`Stocker un sort`
+Stocker un sort
+^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |mecanique|
@@ -126,7 +129,8 @@ Description :
 Niveau 2
 --------
 
-:bred:`Améliorer l'armement`
+Améliorer l'armement
+^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |coeur| + |desir| + |mineral|
@@ -165,7 +169,8 @@ Description :
     pas sur la protection (sur le « |s| a |s| » du d/g/a de l'armure, et pas
     sur le « |s| d |s| »).
 
-:bred:`Commande de sort`
+Commande de sort
+^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |action| + |mecanique|
@@ -197,7 +202,8 @@ Description :
     dès qu'on les lit). Cela ne permet pas de modifier un mot de commande ou un
     mode de déclenchement qui a déjà été défini.
 
-:bred:`Dévier la magie`
+Dévier la magie
+^^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |resistance| + |neant|
@@ -227,7 +233,8 @@ Description :
     magiques sans que son porteur ne prenne aussi des dégâts (voir Magie p. |s|
     :pageref:`creatures-magiques-et-armes-enchantees`).
 
-:bred:`Lier focus et objet`
+Lier focus et objet
+^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |desir| + |neant|
@@ -263,7 +270,8 @@ Description :
     au moins 1 PM de plus que le nombre de PM dont le sort lancé par l'objet a
     besoin ; sinon il ne fonctionnera qu'une seule fois.
 
-:bred:`Lier un événement à un lieu`
+Lier un événement à un lieu
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |coeur| + |perception| + |mineral|
@@ -295,7 +303,8 @@ Description :
     Humain |humain| ressentira l'émotion qu'ont ressentie à ce moment les
     acteurs et les spectateurs de l'événement.
 
-:bred:`Préparation multiple`
+Préparation multiple
+^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |coeur| + |desir| + |neant|
@@ -330,7 +339,8 @@ Description :
 Niveau 3
 --------
 
-:bred:`Augmenter un focus`
+Augmenter un focus
+^^^^^^^^^^^^^^^^^^
 
 Formule :
     |corps| + |resistance| + |neant|
@@ -361,7 +371,8 @@ Description :
     supérieur) et le magicien perd autant de PV que 1/10e de la charge actuelle
     du focus (arrondi à l'entier supérieur).
 
-:bred:`Lier le fer et la magie`
+Lier le fer et la magie
+^^^^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |instinct| + |resistance| + |neant|
@@ -394,14 +405,16 @@ Description :
     ainsi préparée à un focus. Mais on ne peut pas faire de focus en fer
     (puisqu'un focus n'est jamais métallique).
 
-:bred:`Lier un esprit simple`
+Lier un esprit simple
+^^^^^^^^^^^^^^^^^^^^^
 
 Description :
     C'est le même sort que celui de la liste d'Invocation p. |s|
     :pageref:`lier-un-esprit-simple`, à l'exception près qu'ici, il est au
     niveau 3.
 
-:bred:`Permanence`\ :label:`permanence`
+Permanence
+^^^^^^^^^^
 
 Formule :
     |corps| + |desir| + |mineral|
@@ -436,7 +449,8 @@ Description :
     réussi, la magie est annulée pendant MR (de l'Annulation) minutes, puis
     revient.
 
-:bred:`Quintessence`
+Quintessence
+^^^^^^^^^^^^
 
 Formule :
     |coeur| + |perception| + |neant|
@@ -464,7 +478,8 @@ Description :
     gorille, etc. Le donneur devient apathique et a un malus de -6 à toutes ses
     actions tant que le sort n'a pas pris fin.
 
-:bred:`Recharge automatique`
+Recharge automatique
+^^^^^^^^^^^^^^^^^^^^
 
 Formule :
     |esprit| + |desir| + |mecanique|
