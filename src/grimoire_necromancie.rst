@@ -67,7 +67,7 @@ Niveau H. :
     2
 Description :
     Ce sort permet de conférer à une créature la faculté d'injecter du poison
-    par ces modes d'attaque naturels (dents, crocs, griffes). Ce poison rajoute
+    par ses modes d'attaque naturels (dents, crocs, griffes). Ce poison rajoute
     des dégâts de [D]PV aux autres attaques naturelles. Il faut que le
     nécromancien dispose de poison (n'importe lequel) dans sa main comme
     composant matériel.
@@ -232,14 +232,14 @@ Magie H. :
     non
 Description :
     Si le magicien meurt durant les MR jours qui suivent le lancer du sort (il
-    peut d'ailleurs se suicider s'il le désire), il revient à la « vie » au
-    bout de 4 minutes, sous forme de mort-vivant. Il gagne tous les avantages
-    et tous les inconvénients d'être un mort-vivant matériel (voir Bestiaire p.
-    |s| :pageref:`les-morts-vivants`). Il perd tous ses points de souffle et
-    les rajoute à son total de points de « vie ». Il garde toutes les capacités
-    magiques qu'il avait durant sa vie, et gagne 1 point de bonus dans le sort
-    Contrôler les morts-vivants.  Par contre, il ne conserve plus que les
-    sortilèges de magie noire et perd tous les autres.
+    peut d'ailleurs se suicider s'il le désire), il revient à la « |s| vie |s|
+    » au bout de 4 minutes, sous forme de mort-vivant. Il gagne tous les
+    avantages et tous les inconvénients d'être un mort-vivant matériel (voir
+    Bestiaire p.  |s| :pageref:`les-morts-vivants`). Il perd tous ses points de
+    souffle et les rajoute à son total de points de « |s| vie |s| ». Il garde
+    toutes les capacités magiques qu'il avait durant sa vie, et gagne 1 point
+    de bonus dans le sort Contrôler les morts-vivants.  Par contre, il ne
+    conserve plus que les sortilèges de magie noire et perd tous les autres.
 
 ----
 

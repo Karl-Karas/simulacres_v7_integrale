@@ -188,11 +188,11 @@ Niveau H. :
     3
 Description :
     Permet d'extraire MR kilos de métal, jusqu'à 120 m de profondeur. Si on a
-    appris ce sortilège avec Corps a, on extrait le métal le plus abondant du
-    sous-sol (sauf le fer). Si on apprend le sortilège avec le Cœur e, on
-    extrait le métal dont on tient un échantillon en main au moment de lancer
-    le sortilège (sauf du fer). Ce sortilège fonctionne également pour extraire
-    la Pure Magie (attention à la malemagite).
+    appris ce sortilège avec Corps |corps|, on extrait le métal le plus
+    abondant du sous-sol (sauf le fer). Si on apprend le sortilège avec le Cœur
+    |coeur|, on extrait le métal dont on tient un échantillon en main au moment
+    de lancer le sortilège (sauf du fer). Ce sortilège fonctionne également
+    pour extraire la Pure Magie (attention à la malemagite).
 
 :bred:`Faire chauffer les métaux`
 

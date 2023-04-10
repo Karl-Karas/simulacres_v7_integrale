@@ -38,7 +38,7 @@ Niveau H. :
     1
 Description :
     Lancer ce sort fait sauter une étape dans la croissance des végétaux
-    présents dans une zone fertile (germination et pousse/ floraison/maturité).
+    présents dans une zone fertile (germination et pousse/floraison/maturité).
     Lancer trois fois ce sort permet d'obtenir un champ de blé mûr (et de
     mauvaises herbes) à partir de semis ou l'équivalent de six mois de la vie
     d'un arbre.
@@ -70,9 +70,9 @@ Niveau H. :
 Description :
     Avec le Règne |mineral|, un terrain stérile ou épuisé devient fertile, dans
     une zone de MRx120 m et sur une profondeur de 3 m, à condition d'être par
-    la suite normalement arrosé et entretenu. Avec le Règne |animal|, c'est les
-    animaux qui sont concernés (incluant tous les humanoïdes |ldash| attention
-    aux lapins !).
+    la suite normalement arrosé et entretenu. Avec le Règne |animal|, ce sont
+    les animaux qui sont concernés (incluant tous les humanoïdes |ldash|
+    attention aux lapins !).
 
 :bred:`Soins des intoxications`
 

@@ -494,7 +494,7 @@ et combien.
 
 .. raw:: latex
 
-    \begin{figure*}
+    \begin{figure*}[b!]
     \begin{minipage}{\textwidth}
 
 .. image:: images/resolution_attaques_blindage.pdf
@@ -1247,7 +1247,7 @@ Ils sont parmi nous depuis des millénaires
 
  .. class:: red
 
-  **Dans tout univers fantastique-contemporain, Il y a les « autres »
+  **Dans tout univers fantastique-contemporain, il y a les « autres »
   c'est-à-dire ceux qui sont en marge de l'humanité (monstres extraterrestres,
   fantômes, vampires, immortels, êtres féeriques). Il y a alors deux solutions:
   soit on joue les humains contre les marginaux (L'appel de Cthulhu, Chill
@@ -1271,10 +1271,10 @@ plus, la « magie » est singulièrement faible de nos jours. Non pas tant qu'el
 ait été plus forte au Moyen Âge, mais qu'entreprendre un rituel de deux jours
 pour échanger quelques mots avec un autre magicien à l'autre bout du pays
 impressionne peu les abonnés du téléphone portable. Heureusement, c'est
-également cette incroyance pour le merveilleux qu’on ne croira jamais celui qui
-affirme que son voisin est un loup-garou. Ce phénomène est si fort que même un
-vampire aura du mal à croire qu'il existe des immortels qui se coupent la tête
-entre eux !
+également cette grisaille, ce manque d'intérêt pour le merveilleux qui fait que
+l’on ne croira jamais celui qui affirme que son voisin est un vampire ou un
+loup-garou. Ce phénomène est si fort que même un vampire aura du mal à croire
+qu'il existe des immortels qui se coupent la tête entre eux !
 
 Quelques bases
 --------------
@@ -1368,7 +1368,7 @@ Loup-garou
 Nephilim ou être mythique
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Ces êtres sont les minotaures, les géants, les faunes les êtres de pensée qui
+Ces êtres sont les minotaures, les géants, les faunes, les êtres de pensée qui
 ont disparu de notre terre. En fait, ils sont toujours là, mais ils se cachent
 sous une apparence plus ou moins humaine. Pour survivre, ils pratiquent souvent
 les sorts de changement d'apparence (être mythiques) ou de transfert d'esprit
@@ -1440,7 +1440,7 @@ devient vraiment immortel et arrête de vieillir.
     \clearpage
     \pagebreak
 
-Les humains exceptionnels : La voie du moine
+Les humains exceptionnels : la voie du moine
 ============================================
 
 .. class:: center 
@@ -1467,18 +1467,18 @@ pas, changez-le en Tao, Flux vital, Force d'âme, etc.
 Contrairement à la magie (décrite en détail page :pageref:`magie`), où il
 existe des sorts différents par niveau d'Énergie, ici on utilise les mêmes «
 pouvoirs », mais leur puissance augmente avec leur niveau. Tous sont considérés
-comme des **talents** (base -X, que l'on doit donc apprendre). Pour obtenir un
-pouvoir au niveau 2, il faut déjà l'avoir au niveau 1 (gratuit mais il faut
-apprendre le **talent**) et dépenser 5PA (puis à nouveau 5PA pour le passer au
-niveau 3). La valeur des **talents** ne peut dépasser la valeur de la
+comme des **talents** (base |ldash| |s| X, que l'on doit donc apprendre). Pour
+obtenir un pouvoir au niveau 2, il faut déjà l'avoir au niveau 1 (gratuit mais
+il faut apprendre le **talent**) et dépenser 5PA (puis à nouveau 5PA pour le
+passer au niveau 3). La valeur des **talents** ne peut dépasser la valeur de la
 **Méditation**.
 
  .. class:: darkred
 
   *Exemple:* Kwai Mac Wayne a le **talent** de Méditation à +2. Il possède le
-  **talent** Sentir le danger à + 1 et au niveau 1 (attention, il y a bien une
+  **talent** Sentir le danger à +1 et au niveau 1 (attention, il y a bien une
   valeur et un niveau pour chacun des pouvoirs). Pour apprendre Sentir le
-  danger à +l, le joueur a dépensé 10 PA, et le pouvoir est alors
+  danger à +1, le joueur a dépensé 10 PA, et le pouvoir est alors
   automatiquement au niveau 1.
 
   Quand il veut utiliser ce pouvoir, Kwai dépense 1PS et fait le **test**
@@ -1490,7 +1490,7 @@ niveau 3). La valeur des **talents** ne peut dépasser la valeur de la
   valeur de **test**, et ses chances de réussite critique, tout en ne dépensant
   toujours que 1PS à chaque fois. Si au contraire il passe son pouvoir du
   niveau 1 au niveau 2 (moins cher: 5 PA), sa valeur de **test** ne change pas,
-  mais s'il dépense 2PS quand il utilise son pouvoir et les résultats en seront
+  mais s'il dépense 2PS quand il utilise son pouvoir, les résultats en seront
   bien plus forts (voir description plus loin).
 
   S'il a suffisamment de points d'Aventure et d'apprentissage, il pourra aussi
@@ -1709,7 +1709,7 @@ Attirer leur attention
     richesse, amour...) s'il se laisse investir. Comme les vampires de la
     légende une lamie ne peut posséder un humain de cette manière que si
     celui-ci le désire. Elle peut également avoir plusieurs « |s| victimes |s|
-    » en même temps, car elle peut se fixer dans le corps de celui qu'elle
+    » en même temps, car elle ne se fixe pas dans le corps de celui qu'elle
     visite.
 Objets et lieux « |s| magiques |s| »
     Lorsque l'humain qu'elles possèdent meurt, certaines lamies entrent dans
@@ -1755,7 +1755,7 @@ Mauvais endroit
 Envoûtement
     Les sorciers peuvent obliger des fantômes à posséder des humains. Pour un
     envoûtement classique, il faut qu'il possède une « |s| relique |s| »
-    c'est-à-dire une composante organique de la cible à envoûter. (ongle,
+    c'est-à-dire une composante organique de la cible à envoûter (ongle,
     cheveux, sang ...).  Sinon il existe ce que le vaudou appelle « |s| l'envoi
     de morts |s| », qui consiste à préparer un piège avec de la terre provenant
     d'un cimetière. La personne qui touchera ou tombera dans ce piège sera
@@ -1878,7 +1878,7 @@ Les autres protections
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Selon l’univers dans lequel vous jouez, vous pourrez y introduire des
-talismans, amulettes et autres wangas qui protègent des possessions, Il existe
+talismans, amulettes et autres wangas qui protègent des possessions. Il existe
 deux cas dans lesquels cette protection ne sert à rien |s| :
 
 - Quand on accepte de se laisser posséder.
@@ -1903,10 +1903,10 @@ l’aventure.
 
     **Lamies et esprits-totems**
 
-  Un humain possédé par un esprit-(lamies ou totem) perd définitivement un
-  point d'Equilibre Psychique (EP).
+  Un humain possédé par un esprit (lamies ou totem) perd définitivement un
+  point d'Équilibre Psychique (EP).
 
-  Si l'humain perd son dernier point d'Equilibre Psychique, il ne devient pas
+  Si l'humain perd son dernier point d'Équilibre Psychique, il ne devient pas
   vraiment fou, mais passe totalement sous la coupe de l'esprit qui l'habite.
   
   Selon le type d'esprit, les bénéfices qu'en tire le possédé peuvent être
@@ -1932,4 +1932,4 @@ l’aventure.
   En cas d'infection de fantômes, 1EP est perdu temporairement. Il est
   récupéré quand la possession s'achève. Par contre, chaque épreuve pénible
   psychiquement, qui serait affrontée normalement avec un léger stress, est
-  susceptible de faire perdre un point d'Equilibre Psychique.
+  susceptible de faire perdre un point d'Équilibre Psychique.

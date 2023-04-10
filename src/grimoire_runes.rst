@@ -9,7 +9,7 @@ souvent à base de lignes droites (rarement de courbes ou de cercles) car cela
 les rend plus faciles à graver dans le bois, la pierre ou le métal.  Nous ne
 détaillerons pas les diverses runes qui peuvent exister. Nous vous donnons
 juste la liste et le dessin des runes nordiques. Il est conseillé, si vous
-désirez créer une vraie magie runique, de constituer un jeu de 15 et 50 runes,
+désirez créer une vraie magie runique, de constituer un jeu de 15 à 50 runes,
 de nature plutôt symbolique. Vous pouvez en définir qui sont en rapport avec
 les dieux (pourquoi pas ceux de Malienda), les animaux, les sentiments humains,
 des actions (le combat, le savoir...), etc. Des livres sur la divination et les

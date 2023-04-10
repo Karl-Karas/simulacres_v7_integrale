@@ -100,7 +100,7 @@ Formule :
 Concentration :
     2 passes d’armes
 Temps d’effet :
-    instantané.
+    instantané
 Distance :
     personnel
 Résistance :

@@ -5,17 +5,17 @@ Noms
 La magie des Noms, ou magie verbale, a plusieurs origines : une proche de la
 Bible puisque l’on apprend qu’Adam nomma les animaux pour avoir pouvoir sur
 eux, et l’origine animiste de nombreuses religions qui professent que chaque
-être vivant a un nom secret).En ce qui concerne l’univers médiéval-fantastique,
+être vivant a un nom secret. En ce qui concerne l’univers médiéval-fantastique,
 l’utilisation la plus remarquable de ce genre de magie est proposée par le
 cycle de Terremer, de Ursula Le Guin (Presses Pocket). Dans Simulacres, on
 considère que les Noms sont définis en deux grandes catégories : les Verbes et
 les Noms. Le Verbe se divise en : Verbe simple, Verbe de Transformation, Verbe
 de Création/Destruction. Un Verbe peut être constitué de plusieurs mots, ainsi
-« Rendre invisible » est considéré comme un Verbe entier. Le Nom comprend des
-catégories qui vont du générique au plus précis : Nom d’espèce, Nom de race,
-Nom d’individu. Pour agir sur une cible, il faut combiner un Verbe et un Nom.
-Par exemple Guérir et Humanoïdes. Les sorts de magie des Noms ne peuvent pas
-être appris en magie hermétique.
+« |s| Rendre invisible |s| » est considéré comme un Verbe entier. Le Nom
+comprend des catégories qui vont du générique au plus précis : Nom d’espèce,
+Nom de race, Nom d’individu. Pour agir sur une cible, il faut combiner un Verbe
+et un Nom.  Par exemple Guérir et Humanoïdes. Les sorts de magie des Noms ne
+peuvent pas être appris en magie hermétique.
 
 Niveau 1
 --------

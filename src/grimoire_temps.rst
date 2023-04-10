@@ -102,11 +102,11 @@ Description :
     C'est-à-dire que tous ses mouvements ou actions prennent [D] unités de
     temps supplémentaires. L'unité de temps dépend de la concentration : pour 1
     passe d'armes, un combattant ne frappera que tous les [D]+1 passes d'armes.
-    Pour 1 heure, une voie d'eau qui déverse 10 m3 par heure ne les déversera
-    plus qu'en [D]+1 heures. De même pour l'effet d'un poison ou d'une blessure
-    sur un individu « ralenti » (seul cas où le sort n'est pas de la magie
-    noire).  S'il ne s'agit pas d'une créature le magicien décide de la zone
-    touchée dans l'aire de portée du sort.
+    Pour 1 heure, une voie d'eau qui déverse 10m\ :sup:`3` par heure ne les
+    déversera plus qu'en [D]+1 heures. De même pour l'effet d'un poison ou
+    d'une blessure sur un individu « ralenti » (seul cas où le sort n'est pas
+    de la magie noire).  S'il ne s'agit pas d'une créature, le magicien décide
+    de la zone touchée dans l'aire de portée du sort.
 
 ----
 
@@ -231,7 +231,7 @@ Niveau H. :
     3
 Description :
     La personne touchée tombe comme en catalepsie, son corps se refroidit, les
-    battements de cœur deviennent imperceptibles. Mis à l'abri, elle peut
+    battements de cœur deviennent imperceptibles. Mise à l'abri, elle peut
     rester dans cet état MR mois, et tout poison ou blessure reste presque au
     même stade (équivalent d'une passe d'armes par mois). Le magicien qui a
     lancé le sort peut l'interrompre à tout moment pour 1PS ou décider d'une

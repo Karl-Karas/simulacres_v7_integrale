@@ -44,7 +44,7 @@ L’âge (1d6)
   5 	  
     Début de vieillesse
   6 	  
-    Agé
+    Âgé
 
 Le vrai âge dépend de la race du personnage.
 
@@ -141,7 +141,7 @@ La famille
 Les parents
 ^^^^^^^^^^^
 
-Tires 1d6, si vous obtenez 6, vos parents sont de deux milieux sociaux
+Tirez 1d6, si vous obtenez 6, vos parents sont de deux milieux sociaux
 différents, sinon ils sont de la même origine.
 
 Classe sociale (2d6)
@@ -175,7 +175,7 @@ Classe sociale (2d6)
     8-9
         Commerçant
     10
-        Erudit
+        Érudit
     11
         Soldat
     12

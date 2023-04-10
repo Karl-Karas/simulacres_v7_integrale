@@ -120,8 +120,8 @@ Description :
     sort est lancé, le chaman peut voir à travers les yeux, écouter, sentir,
     goûter, tout ce que les animaux du même type que son totem peuvent
     ressentir à ce moment. Il peut passer en 1 minute d'un animal à un autre,
-    mais ne peut « voir » à travers deux animaux à la fois. Les animaux ainsi
-    visités sentent la présence du chaman et sont capables de changer de
+    mais ne peut « |s| voir |s| » à travers deux animaux à la fois. Les animaux
+    ainsi visités sentent la présence du chaman et sont capables de changer de
     position pour que le chaman voie ce qu'il désire.
 
 ----

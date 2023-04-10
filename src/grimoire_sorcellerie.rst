@@ -163,7 +163,7 @@ Niveau H. :
     2
 Description :
     Permet de renvoyer dans son plan d'existence un démon (ou un esprit) qui
-    s'est incarné (ou a possédé) dans un animal, un humain et un objet. Il est
+    s'est incarné dans (ou a possédé) un animal, un humain et un objet. Il est
     également efficace contre les objets et les lieux liés à des démons ou des
     esprits. Il est inefficace contre les élémentaux ou les mort-vivants. Un
     homme qui est exorcisé ne perd pas ses points de magie noire et est donc
@@ -198,7 +198,7 @@ Description :
     Permet d'interroger l'esprit d'une personne morte, en la faisant revenir
     sous forme fantomatique pour le temps du sort. On peut lui poser MR
     questions. Elle ne peut pas être morte depuis plus de MR siècles, et elle a
-    du se trouver, à un moment où à un autre, à moins de MR kilomètres de
+    du se trouver, à un moment ou à un autre, à moins de MR kilomètres de
     l'endroit où on lance le sort. Si les questions visent à atteindre un but
     pacifique, ou à combattre le mal, ce n'est pas de la magie noire. Si on
     interroge l'esprit dans un but personnel, pour son enrichissement ou sa

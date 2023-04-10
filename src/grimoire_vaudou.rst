@@ -37,7 +37,7 @@ pourront se reporter à *Capitaine Vaudou*.
 
 Liste des loas les plus connus : Legba (loa des voyageurs), Shango (loa des
 tempêtes), Loco (loa des guérisseurs), Ogou (dieu de la guerre), les Guédé
-(esprits des morts, des âmes et des morts-vivants) Agoue (loa de la mer, seul
+(esprits des morts, des âmes et des morts-vivants), Agoue (loa de la mer, seul
 esprit que l’on peut appeler sur l’eau salée), Erzulie (déesse de l’amour),
 Damballah Vedo (loa serpent, dieu des richesses), Marinette (déesse des zombies
 et des loups-garous), Taureau Trois Graines (loa de la fureur guerrière).
@@ -140,8 +140,8 @@ Description :
     échange de quoi, le possédé lance parfois de lui-même des sortilèges en
     rapport avec la nature de son loa (c'est au meneur de jeu d'en décider, et
     les effets ne peuvent être supérieurs à ceux de sorts de niveau 2 d'autres
-    listes magiques). Une fois que l'on a « acheté » un loa, on ne peut plus
-    s'en défaire, à moins d'être exorcisé.
+    listes magiques). Une fois que l'on a « |s| acheté |s| » un loa, on ne peut
+    plus s'en défaire, à moins d'être exorcisé.
 
 ----
 

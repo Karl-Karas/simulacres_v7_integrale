@@ -252,8 +252,8 @@ Niveau H. :
     2
 Description :
     Le vide peut servir à éteindre un feu, à créer un vent local et violent, à
-    blesser quelqu'un. La zone de vide est de 1m3 (ou plus petite si le
-    magicien le décide). Si une créature vivante est dans la zone, elle perd
+    blesser quelqu'un. La zone de vide est de 1m\ :sup:`3` (ou plus petite si
+    le magicien le décide). Si une créature vivante est dans la zone, elle perd
     [B]PV et [D]PS.
 
 :bred:`Créer une tempête`

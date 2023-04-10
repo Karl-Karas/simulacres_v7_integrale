@@ -162,7 +162,7 @@ Description :
     En contrepartie, l'arme ne sera plus efficace que contre les créatures
     désignées. Si on lance ce sort sur une armure, on procède de la même
     manière, mais le bonus sera de [D] et s'applique sur l'absorption et non
-    pas sur la protection (sur de « |s| a |s| » du d/g/a de l'armure, et pas
+    pas sur la protection (sur le « |s| a |s| » du d/g/a de l'armure, et pas
     sur le « |s| d |s| »).
 
 :bred:`Commande de sort`

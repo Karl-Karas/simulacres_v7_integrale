@@ -417,9 +417,9 @@ Niveau H. :
     2
 Description :
     Le magicien comprend et peut communiquer avec les arbres, par télépathie.
-    Un arbre ne peut « voir » réellement les gens, mais il peut parfois les
-    entendre. Il a surtout la mémoire des grandes migrations qui ont eu lieu à
-    côté de lui (installation d'un camp, passage de chasseurs, etc.).
+    Un arbre ne peut « |s| voir |s| » réellement les gens, mais il peut parfois
+    les entendre. Il a surtout la mémoire des grandes migrations qui ont eu
+    lieu à côté de lui (installation d'un camp, passage de chasseurs, etc.).
 
 :bred:`Parler aux créatures terrestres`
 
@@ -620,8 +620,8 @@ Magie H. :
 Description :
     Le magicien se transforme en un golem de terre. L'armure qu'il acquiert de
     ce fait est de 2/1/2. De plus, les poings de terre font des dégâts de [B]PV
-    et [E]PS. L'élémental peut se déplacer lentement, pas de courir ; il peut
-    se déplacer à vitesse normale à travers la terre, sans avoir besoin de
+    et [E]PS. L'élémental peut se déplacer lentement, pas courir ; il peut se
+    déplacer à vitesse normale à travers la terre, sans avoir besoin de
     respirer. Seule une arme enchantée peut le blesser.
 
 ----

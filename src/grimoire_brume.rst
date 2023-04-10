@@ -96,7 +96,7 @@ Lancer :
 Niveau H. :
     1
 Description :
-    L'objet ou la matière touché prend un autre aspect / couleur / goût/ etc.,
+    L'objet ou la matière touché prend un autre aspect / couleur / goût / etc.,
     pendant la durée du sort. Sa masse et son poids ne sont pas changés. La
     matière concernée doit être inerte et d'un seul bloc, d'un volume inférieur
     à celui d'un corps humain.

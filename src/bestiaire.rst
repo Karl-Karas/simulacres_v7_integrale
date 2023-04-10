@@ -13,7 +13,7 @@ Bestiaire
  .. class:: red
 
   **Le terme de bestiaire est impropre dans le cas présent puisqu'il comprend à
-  la fois de vrais animaux, des «** |s| **monstres** |s| **» et des races où
+  la fois de vrais animaux, des «** |s| **monstres** |s| **» et des races ou
   peuples humanoïdes.  Il s’agit juste d'une commodité de langage. La plupart
   des créatures décrites ici sont des archétypes présents dans la plupart des
   univers ou jeux à thème médiéval-fantastique.  Nous vous engageons d'ailleurs
@@ -68,13 +68,13 @@ Puissance |puissance|, Rapidité |rapidite|, Précision |precision| :
 
 Armure :
     L'armure des créatures est gérée de la façon indiquée dans les règles de
-    base (voir pages :pageref:`armure-base`).  Elle est divisée en trois
+    base (voir page :pageref:`armure-base`).  Elle est divisée en trois
     scores, **d/g/a**, qui représentent: la difficulté pour l'adversaire à
     toucher l'armure (**d**, c'est la dureté de la peau de la créature), la
     gêne occasionnée au porteur de l'armure (**g**, cette valeur est souvent
     égale à 0 pour les créatures), l'absorption des dégâts (**a**, cette
-    absorption n’est pas «magique» mais représente en général l'épaisseur de la
-    peau de la créature).
+    absorption n’est pas « |s| magique |s| » mais représente en général
+    l'épaisseur de la peau de la créature).
 
 Type de dégâts :
     Ce sont les dégâts infligés par la créature quand elle réussit à toucher
@@ -149,7 +149,7 @@ Points d'énergie :
 Armure :
     1/0/4
 Dégâts :
-    [K]PV et [K]PS avec le queue
+    [K]PV et [K]PS avec la queue
 Test de nage :
     10
 Déplacement :
@@ -193,7 +193,7 @@ Description :
     **test** de course et le maximum en Rapidité |rapidite|. Les chevaux de
     trait auront plutôt de la Puissance |puissance|.
 
-    Un cheval normal a un seul point d'énergies, une Puissance |puissance| de
+    Un cheval normal a un seul point d'Énergie, une Puissance |puissance| de
     0, une Rapidité |rapidite| de 1, un **test** de course de 10 et un **test**
     de saut de 9.
 
@@ -662,13 +662,13 @@ petites créatures très proches de la nature, et auxquelles on attribue de
 nombreux pouvoirs magiques. On dit une Færie, même si c'est un être masculin.
 
 Dans *SangDragon*, ces créatures sont magiques, et sont issues de
-l’extériorisation des instincts et des croyances es peuples plus ou moins
-primitifs. À priori il n'y a pas de Færies sur l'île de Malienda, mais vous
+l’extériorisation des instincts et des croyances des peuples plus ou moins
+primitifs. A priori il n'y a pas de Færies sur l'île de Malienda, mais vous
 pouvez décider qu'il en existe dans les forêts les plus profondes. Il n'y a pas
 de Færie typique, bien que la plupart répondent aux critères suivants |s| :
 
-- Une Færie est liée à un élément simple de la nature (eau, terre, arbres.) ou
-  à un sentiment humain négatif (gourmandise, avarice, suspicion...).
+- Une Færie est liée à un élément simple de la nature (eau, terre, arbres...)
+  ou à un sentiment humain négatif (gourmandise, avarice, suspicion...).
 - Une Færie n'a pas de taille fixe. Et même si on les considère en général
   comme ayant entre 10 et 25cm de haut, il arrive que la même créature puisse
   passer de la taille naine à la taille géante (les trolls sont coutumiers du
@@ -690,12 +690,12 @@ de Færie typique, bien que la plupart répondent aux critères suivants |s| :
   Animal |animal| (un seul essai). Pour ne plus croire aux Færies, il faut
   réussir un **test** Esprit |esprit| + Action |action| + Humain |humain| +
   **difficulté**. La **difficulté** est liée au monde où l'on vit. Elle est de
-  -4 dans un monde purement médiéval, 0 dans l'équivalent du XVI: siècle, +4
-  dans un monde moderne. Il existe néanmoins de nombreux moyens de se protéger
-  des Færies (pour ceux qui y croient) |s| : jeter du sel par-dessus son
-  épaule, tourner trois fois sur soi avant de se coucher, etc. Ses moyens ne
-  sont efficaces que si beaucoup de gens y croient, sinon ils ne fonctionnent
-  pas.
+  -4 dans un monde purement médiéval, 0 dans l'équivalent du XVI\ :sup:`e`
+  siècle, +4 dans un monde moderne. Il existe néanmoins de nombreux moyens de
+  se protéger des Færies (pour ceux qui y croient) |s| : jeter du sel
+  par-dessus son épaule, tourner trois fois sur soi avant de se coucher, etc.
+  Ces moyens ne sont efficaces que si beaucoup de gens y croient, sinon ils ne
+  fonctionnent pas.
 
 Les Færies (et donc le meneur de jeu) ont un puissant code moral |s| : elles
 récompensent les gentils et punissent les méchants. Ce qui est plus difficile à
@@ -1066,7 +1066,7 @@ Résistance à la magie :
 Description :
     L'élémental d'Air faible a l'avantage de pouvoir passer inaperçu quand il
     est au repos. Dès qu'il bouge ou attaque, il ressemble à un tourbillon de
-    1m de haut
+    1m de haut.
 
 Élémental moyen d'Air
 ^^^^^^^^^^^^^^^^^^^^^
@@ -1174,8 +1174,8 @@ Déplacement dans le feu :
 Résistance à la magie :
     8
 Description :
-    Cet élémental ressemble à un petit incendie, d'environ 4m de surface, aux
-    nombreuses flammes et flammèches, de près de 2 mètres de haut.
+    Cet élémental ressemble à un petit incendie, d'environ 4m\ :sup:`2` de
+    surface, aux nombreuses flammes et flammèches, de près de 2 mètres de haut.
 
 Élémental fort de Feu
 ^^^^^^^^^^^^^^^^^^^^^
@@ -1379,7 +1379,7 @@ Les dragons
 Créatures mythiques de l'univers médiéval-fantastique, il en existe autant
 d'espèces que de personnes qui les imaginent. Si la norme veut qu'ils soient
 rouges, volent et crachent le feu, il en est d’autres qui nagent ou qui
-fouissent. Nous vous donnons ici que les exemples les plus courants.
+fouissent. Nous ne vous donnons ici que les exemples les plus courants.
 
 Dragon volant adulte
 ^^^^^^^^^^^^^^^^^^^^
@@ -1411,7 +1411,7 @@ Déplacement :
 Description :
     Un dragon adulte fait environ 6 mètres de long pour 12 mètres d'envergure.
     Il ressemble à un grand lézard ailé à la tête triangulaire. Ses écailles
-    sont d'une des teintes possibles du cuivre: rouge, bronze ou vert, Son
+    sont d'une des teintes possibles du cuivre: rouge, bronze ou vert. Son
     ventre est très légèrement moins cuirassé que son dos (-1). Il vole
     lentement. Il combat avec ses griffes des pattes avant et sa gueule (3
     attaques simultanées). Il peut tenter d'assommer avec sa queue ([B]PV et
@@ -1497,7 +1497,7 @@ Les races humanoïdes communes
 Les races que nous présentons dans ce chapitre n'existent quasiment pas sur
 l’archipel de Malienda (à quelques exceptions près). Mais comme elles sont
 présentes dans la plupart des univers de médiéval-fantastique, nous avons
-choisi de vous donner leurs caractéristiques. Îl est plus que probable que les
+choisi de vous donner leurs caractéristiques. Il est plus que probable que les
 aventuriers les rencontreront, sur les continents à l'est ou à l'ouest de
 Malienda. D'ailleurs, les joueurs ayant des personnages venant de l’un de ces
 continents pourront choisir d'être de race humaine, elfe, naine ou des Petites
@@ -1506,7 +1506,7 @@ Gens.
 Les Elfes
 ---------
 
-Humanoïdes de taille modeste (1, 60m en moyenne), les Elfes se distinguent par
+Humanoïdes de taille modeste (1,60m en moyenne), les Elfes se distinguent par
 la finesse et la beauté naturelle qui émanent de leurs traits. Leur visage
 délicatement allongé, encadré par de fines oreilles pointues, est éclairé par
 de grands yeux en amande. Il ne faut pas confondre les Elfes humanoïdes avec
@@ -1520,7 +1520,7 @@ Voici les pouvoirs et capacités spéciales des Elfes, qu'ils soient
 personnages-joueurs ou Intervenants |s| :
 
 - Un Elfe doit obligatoirement investir 2 pts dans le Règne Végétal |vegetal|.
-  11 ne peut mettre plus de 1 point en Puissance |puissance|. Son **test** de
+  Il ne peut mettre plus de 1 point en Puissance |puissance|. Son **test** de
   résistance magique est diminué de 1.
 - Un Elfe peut apprivoiser un animal en lui parlant doucement. Le **test** est
   |s| : Cœur |coeur| + Désir |desir| + Animal |animal| + **difficulté**. La
@@ -1653,7 +1653,7 @@ Description :
     défenses. La seconde est velue, de couleur noirâtre, avec les canines du
     bas proéminentes. Couards, ils ne combattent qu'en bande et fuient dès
     qu'ils sont affaiblis. Leur arme de prédilection : l'épée bâtarde ou la
-    massue
+    massue.
 
 ----
 
@@ -1718,7 +1718,7 @@ Test de course :
 Déplacement :
     1 (0) [B]
 Description :
-    Les Kobolds sont des humanoïdes de taille modeste {1,60 m), dont la peau
+    Les Kobolds sont des humanoïdes de taille modeste (1,60 m), dont la peau
     roussâtre et la morphologie de la tête laissent supposer une origine
     canine. Mauvais combattants, ce sont par contre d'excellents pisteurs. Ils
     combattent rarement en bandes de moins de quinze individus. En dehors de
@@ -1759,7 +1759,7 @@ Description :
     sur tout ce qui bouge. Bien moins nombreux que les Orques, il n'est pas
     rare de voir des Trolls s'allier à eux pour commettre leurs méfaits.
     Cependant, leur capacité de régénération infinie en fait des adversaires
-    difficiles {une fois morts, ils se reconstituent depuis le morceau le plus
+    difficiles (une fois morts, ils se reconstituent depuis le morceau le plus
     gros de leur cadavre puis se réveillent au bout de six heures). Un seul
     moyen pour s’en défaire: brûler leurs restes.
 
@@ -1865,7 +1865,7 @@ Résistance à la magie :
     9
 Description :
     Le basilic est une sorte de varan, ou de grand lézard, dont la taille varie
-    entre 1,80 et 2,50m de long. Peu rapide,à la mâchoire faible, le basilic
+    entre 1,80 et 2,50m de long. Peu rapide, à la mâchoire faible, le basilic
     aurait peu de chances de survie s'il ne possédait pas un regard hypnotique.
     S'il réussit à capter le regard de sa cible (**test** ou **duel** de
     Perception), celle-ci reste fascinée et ne peut plus bouger.
@@ -1980,7 +1980,7 @@ Description :
     d'autres. Si certains « |s| monstres |s| » comme les griffons, centaures,
     minotaures ou sirènes semblent venir de la même origine magique (et
     certains doivent l'être), aucun n'est aussi patent que la traditionnelle
-    chimère, il s'agit un animal à trois têtes : lion, dragon et chèvre, Son
+    chimère, il s'agit un animal à trois têtes : lion, dragon et chèvre. Son
     torse et ses pattes avant viennent du lion, ses pattes arrières de la
     chèvre et les ailes du dragon. Il existe bien d'autres « |s| chimères |s| »
     comme le bouc à pattes de grenouilles, l'aigle à tête d'écureuil. Mais
@@ -2379,7 +2379,7 @@ possèdent sans le savoir des rudiments de magie chamanique, qui se révèlent
 inconsciemment sous le coup du stress, ou d'une intense émotion (et il paraît
 que la lune pleine exacerbe les émotions).  Ces humains se transforment donc,
 ou prennent l'apparence, de leur animal totem. Il y a donc des hommes qui
-deviennent des ours, sangliers, etc.  l'argent ne semble pas les affecter, mais
+deviennent des ours, sangliers, etc.  L'argent ne semble pas les affecter, mais
 l'acier si ! Et la morsure d'un loup-garou ne transforme pas la victime en
 loup-garou ! Il existe une règle spécifique adaptée aux lycanthropes en p.
 :pageref:`les-inhumains`.
@@ -2421,7 +2421,7 @@ Description :
     d'une méduse est pétrifié.
 
     D'après Archibald Tibaldin, les méduses sont les résultats de
-    l'accouplement d'un démon succube et de serpents, De son origine serpentine
+    l'accouplement d'un démon succube et de serpents. De son origine serpentine
     elle a gardé le bas du corps et une partie du « |s| visage |s| ». De son
     origine démoniaque elle a la capacité de lancer automatiquement les sorts
     suivants (avec un **test** de magie de 13): Pétrification (Terre),
@@ -2495,7 +2495,7 @@ Description :
     faut savoir que la momie, avant d'être « |s| réveillée |s| » par un
     nécromancien ou toute autre intervention non naturelle, est le cadavre d'un
     être humain qui a été momifié. Or, toutes les civilisations qui pratiquent
-    la momification ont un sens très élevé des classes sociales. il y a donc
+    la momification ont un sens très élevé des classes sociales. Il y a donc
     des momies de rois, de fonctionnaires, de paysans. Toute momie qui se
     réveille « |s| sait |s| » quel était son rang parmi les vivants et compte
     bien le garder parmi les morts. En ce qui concerne leurs talents et leur
@@ -2517,7 +2517,7 @@ Ogre
 ----
 
 Les ogres sont tout simplement des géants (p. :pageref:`les-geants`), mais dont
-l'alimentation Carnivore les pousse souvent à chercher de la nourriture humaine
+l'alimentation carnivore les pousse souvent à chercher de la nourriture humaine
 quand ils ne trouvent pas d'animaux à se mettre sous la dent.
 
 ----
@@ -2704,7 +2704,7 @@ Description :
     désirent parler aux humains, les entretenir de culture et d'intelligence,
     voire leur proposer des énigmes. Et évidemment, un homme qui ne saurait
     répondre aux questions d'un sphinx ne saurait mériter le vrai nom d'homme,
-    et serait donc destiné à périr sous ses griffes du sphinx redevenu animal
+    et serait donc destiné à périr sous les griffes du sphinx redevenu animal
     pour l'occasion.
 
 ----
