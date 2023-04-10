@@ -76,7 +76,6 @@ fiabilité.
 TODO
 ----
 
-- ne pas laisser un nom de sort seul au fond d'une colonne
 - nbsp avant les numéros de pages en référence
 - nbsp pour tous les guillemets, tous les signes de ponctuation qui le
   demandent
@@ -116,6 +115,7 @@ DONE
 - ajouter les références de pages pour les sorts identiques à ceux d'autres
   listes
 - ré-écrire l'introduction
+- ne pas laisser un nom de sort seul au fond d'une colonne
 
 
 
