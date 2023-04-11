@@ -28,7 +28,7 @@
 
 
             \vspace{2cm}
-            La compilation de \textbf{Karl Karas} - version 1.0
+            La compilation de \textbf{Karl Karas} - version 1.1
 
             \vspace{6cm}
 
